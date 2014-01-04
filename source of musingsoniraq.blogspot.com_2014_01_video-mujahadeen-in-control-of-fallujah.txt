@@ -1,0 +1,4059 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr'>
+<head>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { var b=window,f="chrome",g="jstiming",k="tick";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[k]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var n=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:n};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[g].srt=h-c)}if(a){var e=b[g].load;0<c&&h>=c&&(e[k]("_wtsrt",void 0,c),e[k]("wtsrt_","_wtsrt",h),e[k]("tbsd_","wtsrt_"))}try{a=null,
+b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[k]("_tbnd",void 0,b[f].csi().startE),e[k]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[k]("_tbnd",void 0,b.external.startE),e[k]("tbnd_","_tbnd",c))),a&&(b[g].pt=a)}catch(p){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[g].load[k]("aft")};var l=!1;function m(){l||(l=!0,b[g].load[k]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",m,!1):b.attachEvent("onscroll",m);
+ })();</script>
+<meta content='blogger' name='generator'/>
+<link href='http://musingsoniraq.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="MUSINGS ON IRAQ - Atom" href="http://musingsoniraq.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="MUSINGS ON IRAQ - RSS" href="http://musingsoniraq.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="MUSINGS ON IRAQ - Atom" href="http://www.blogger.com/feeds/1953410733493889728/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="MUSINGS ON IRAQ - Atom" href="http://musingsoniraq.blogspot.com/feeds/2358019208751533542/comments/default" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/850967532-ieretrofit.js"></script>
+<![endif]-->
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>MUSINGS ON IRAQ: VIDEO: Mujahadeen In Control Of Fallujah, Jan. 1, 2014</title>
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/2356033831-widget_css_2_bundle.css' />
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/dyn-css/authorization.css?targetBlogID=1953410733493889728&zx=8596b135-03f7-477b-9b4b-f1610c0162ba' />
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Ethereal
+Designer: Jason Morrow
+URL:      jasonmorrow.etsy.com
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#000000"/>
+<Group description="Body Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#666666"/>
+</Group>
+<Group description="Background" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#fb5e53"/>
+<Variable name="content.background.color" description="Main Background" type="color" default="#ffffff"/>
+<Variable name="body.border.color" description="Border Color" type="color" default="#fb5e53"/>
+</Group>
+<Group description="Links" selector=".main-inner">
+<Variable name="link.color" description="Link Color" type="color" default="#2198a6"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#4d469c"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#627349"/>
+</Group>
+<Group description="Blog Title" selector=".header h1">
+<Variable name="header.font" description="Font" type="font"
+default="normal normal 60px Times, 'Times New Roman', FreeSerif, serif"/>
+<Variable name="header.text.color" description="Text Color" type="color" default="#ff8b8b"/>
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#666666"/>
+</Group>
+<Group description="Tabs Text" selector=".tabs-inner .widget li a">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#ffffff"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#000000"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.selected.background.color" description="Selected Color" type="color" default="#ffa183"/>
+<Variable name="tabs.background.color" description="Background Color" type="color" default="#ffdfc7"/>
+<Variable name="tabs.border.bevel.color" description="Bevel Color" type="color" default="#fb5e53"/>
+</Group>
+<Group description="Post Title" selector="h3.post-title, h4, h3.post-title a">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal normal 24px Times, Times New Roman, serif"/>
+<Variable name="post.title.text.color" description="Text Color" type="color" default="#2198a6"/>
+</Group>
+<Group description="Gadget Title" selector="h2">
+<Variable name="widget.title.font" description="Title Font" type="font"
+default="normal bold 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="widget.title.text.color" description="Text Color" type="color" default="#000000"/>
+<Variable name="widget.title.border.bevel.color" description="Bevel Color" type="color" default="#dbdbdb"/>
+</Group>
+<Group description="Accents" selector=".main-inner .widget">
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#cccccc"/>
+<Variable name="widget.border.bevel.color" description="Bevel Color" type="color" default="#dbdbdb"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#e3a327" default="$(color) none repeat-x scroll top left"/>
+<Variable name="body.background.gradient" description="Body Gradient Cap" type="url"
+default="none"/>
+<Variable name="body.background.imageBorder" description="Body Image Border" type="url"
+default="none"/>
+<Variable name="body.background.imageBorder.position.left" description="Body Image Border Left" type="length"
+default="0"/>
+<Variable name="body.background.imageBorder.position.right" description="Body Image Border Right" type="length"
+default="0"/>
+<Variable name="header.background.gradient" description="Header Background Gradient" type="url" default="none"/>
+<Variable name="content.background.gradient" description="Content Gradient" type="url" default="none"/>
+<Variable name="link.decoration" description="Link Decoration" type="string" default="none"/>
+<Variable name="link.visited.decoration" description="Link Visited Decoration" type="string" default="none"/>
+<Variable name="link.hover.decoration" description="Link Hover Decoration" type="string" default="underline"/>
+<Variable name="widget.padding.top" description="Widget Padding Top" type="length" default="15px"/>
+<Variable name="date.space" description="Date Space" type="length" default="15px"/>
+<Variable name="post.first.padding.top" description="First Post Padding Top" type="length" default="0"/>
+<Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string" default=""/>
+<Variable name="mobile.background.size" description="Mobile Background Size" type="string" default="auto"/>
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Content
+----------------------------------------------- */
+body, .body-fauxcolumn-outer {
+font: normal normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #000000;
+background: #e3a327 url(http://4.bp.blogspot.com/-sCytAX0TFgo/UBjIt1I-hGI/AAAAAAAACSs/7y-8mnX2Cl0/s0/iraq_flag_with_holes_caused_by_us.jpe) repeat scroll top left;
+}
+html body .content-outer {
+min-width: 0;
+max-width: 100%;
+width: 100%;
+}
+a:link {
+text-decoration: none;
+color: #627349;
+}
+a:visited {
+text-decoration: none;
+color: #6fa8dc;
+}
+a:hover {
+text-decoration: underline;
+color: #6fa8dc;
+}
+.main-inner {
+padding-top: 15px;
+}
+.body-fauxcolumn-outer {
+background: transparent none repeat-x scroll top center;
+}
+.content-fauxcolumns .fauxcolumn-inner {
+background: #ffffff none repeat-x scroll top left;
+border-left: 1px solid #d8af4c;
+border-right: 1px solid #d8af4c;
+}
+/* Flexible Background
+----------------------------------------------- */
+.content-fauxcolumn-outer .fauxborder-left {
+width: 100%;
+padding-left: 0;
+margin-left: -0;
+background-color: transparent;
+background-image: none;
+background-repeat: no-repeat;
+background-position: left top;
+}
+.content-fauxcolumn-outer .fauxborder-right {
+margin-right: -0;
+width: 0;
+background-color: transparent;
+background-image: none;
+background-repeat: no-repeat;
+background-position: right top;
+}
+/* Columns
+----------------------------------------------- */
+.content-inner {
+padding: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-inner {
+padding: 27px 0 3px;
+}
+.header-inner .section {
+margin: 0 35px;
+}
+.Header h1 {
+font: normal normal 60px 'Times New Roman', Times, FreeSerif, serif;
+color: #e3a327;
+}
+.Header h1 a {
+color: #e3a327;
+}
+.Header .description {
+font-size: 115%;
+color: #e3a327;
+}
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 0;
+padding-right: 0;
+margin-bottom: 0;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-outer {
+position: relative;
+background: transparent;
+}
+.tabs-cap-top, .tabs-cap-bottom {
+position: absolute;
+width: 100%;
+}
+.tabs-cap-bottom {
+bottom: 0;
+}
+.tabs-inner {
+padding: 0;
+}
+.tabs-inner .section {
+margin: 0 35px;
+}
+*+html body .tabs-inner .widget li {
+padding: 1px;
+}
+.PageList {
+border-bottom: 1px solid #eddc83;
+}
+.tabs-inner .widget li.selected a,
+.tabs-inner .widget li a:hover {
+position: relative;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-goog-ms-border-top-left-radius: 5px;
+-goog-ms-border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+background: #eddc83 none ;
+color: #627349;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+margin: 0;
+margin-right: 1px;
+padding: .65em 1.5em;
+font: normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #627349;
+background-color: #fff5b7;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-goog-ms-border-top-left-radius: 5px;
+-goog-ms-border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal bold 12px Verdana, Geneva, sans-serif;
+color: #000000;
+}
+/* Widgets
+----------------------------------------------- */
+.main-inner .column-left-inner {
+padding: 0 0 0 20px;
+}
+.main-inner .column-left-inner .section {
+margin-right: 0;
+}
+.main-inner .column-right-inner {
+padding: 0 20px 0 0;
+}
+.main-inner .column-right-inner .section {
+margin-left: 0;
+}
+.main-inner .section {
+padding: 0;
+}
+.main-inner .widget {
+padding: 0 0 15px;
+margin: 20px 0;
+border-bottom: 1px solid #f9f9f9;
+}
+.main-inner .widget h2 {
+margin: 0;
+padding: .6em 0 .5em;
+}
+.footer-inner .widget h2 {
+padding: 0 0 .4em;
+}
+.main-inner .widget h2 + div, .footer-inner .widget h2 + div {
+padding-top: 15px;
+}
+.main-inner .widget .widget-content {
+margin: 0;
+padding: 15px 0 0;
+}
+.main-inner .widget ul, .main-inner .widget #ArchiveList ul.flat {
+margin: -15px -15px -15px;
+padding: 0;
+list-style: none;
+}
+.main-inner .sidebar .widget h2 {
+border-bottom: 1px solid transparent;
+}
+.main-inner .widget #ArchiveList {
+margin: -15px 0 0;
+}
+.main-inner .widget ul li, .main-inner .widget #ArchiveList ul.flat li {
+padding: .5em 15px;
+text-indent: 0;
+}
+.main-inner .widget #ArchiveList ul li {
+padding-top: .25em;
+padding-bottom: .25em;
+}
+.main-inner .widget ul li:first-child, .main-inner .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.main-inner .widget ul li:last-child, .main-inner .widget #ArchiveList ul.flat li:last-child {
+border-bottom: none;
+}
+.main-inner .widget .post-body ul {
+padding: 0 2.5em;
+margin: .5em 0;
+list-style: disc;
+}
+.main-inner .widget .post-body ul li {
+padding: 0.25em 0;
+margin-bottom: .25em;
+color: #000000;
+border: none;
+}
+.footer-inner .widget ul {
+padding: 0;
+list-style: none;
+}
+.widget .zippy {
+color: #000000;
+}
+/* Posts
+----------------------------------------------- */
+.main.section {
+margin: 0 20px;
+}
+body .main-inner .Blog {
+padding: 0;
+background-color: transparent;
+border: none;
+}
+.main-inner .widget h2.date-header {
+border-bottom: 1px solid transparent;
+}
+.date-outer {
+position: relative;
+margin: 15px 0 20px;
+}
+.date-outer:first-child {
+margin-top: 0;
+}
+.date-posts {
+clear: both;
+}
+.post-outer, .inline-ad {
+border-bottom: 1px solid #f9f9f9;
+padding: 30px 0;
+}
+.post-outer {
+padding-bottom: 10px;
+}
+.post-outer:first-child {
+padding-top: 0;
+border-top: none;
+}
+.post-outer:last-child, .inline-ad:last-child {
+border-bottom: none;
+}
+.post-body img {
+padding: 8px;
+}
+h3.post-title, h4 {
+font: normal bold 24px 'Times New Roman', Times, FreeSerif, serif;
+color: #000000;
+}
+h3.post-title a {
+font: normal bold 24px 'Times New Roman', Times, FreeSerif, serif;
+color: #000000;
+text-decoration: none;
+}
+h3.post-title a:hover {
+color: #6fa8dc;
+text-decoration: underline;
+}
+.post-header {
+margin: 0 0 1.5em;
+}
+.post-body {
+line-height: 1.4;
+}
+.post-footer {
+margin: 1.5em 0 0;
+}
+#blog-pager {
+padding: 15px;
+}
+.blog-feeds, .post-feeds {
+margin: 1em 0;
+text-align: center;
+}
+.post-outer .comments {
+margin-top: 2em;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+background: #ffffff none repeat-x scroll top left;
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid transparent;
+border-bottom: 1px solid transparent;
+}
+.comments .comment-thread.inline-thread {
+background: #ffffff none repeat-x scroll top left;
+}
+.comments .continue {
+border-top: 2px solid transparent;
+}
+/* Footer
+----------------------------------------------- */
+.footer-inner {
+padding: 30px 0;
+overflow: hidden;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+padding: 0 10px;
+background-size: auto
+}
+.mobile .body-fauxcolumn-outer {
+background: ;
+}
+.mobile .content-fauxcolumns .fauxcolumn-inner {
+opacity: 0.75;
+}
+.mobile .content-fauxcolumn-outer .fauxborder-right {
+margin-right: 0;
+}
+.mobile-link-button {
+background-color: #eddc83;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #627349;
+}
+.mobile-index-contents {
+color: #444444;
+}
+.mobile .body-fauxcolumn-outer {
+background-size: 100% auto;
+}
+.mobile .mobile-date-outer {
+border-bottom: transparent;
+}
+.mobile .PageList {
+border-bottom: none;
+}
+.mobile .tabs-inner .section {
+margin: 0;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background: #eddc83 none;
+color: #627349;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #627349;
+}
+.mobile .footer-inner {
+overflow: visible;
+}
+body.mobile .AdSense {
+margin: 0 -10px;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 1210px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1210px;
+max-width: 1210px;
+_width: 1210px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 260px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 260px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("260px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 260px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 260px;
+margin-right: -260px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+--></style>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body class='loading'>
+<div class='navbar section' id='navbar'><div class='widget Navbar' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+          if (gapi.iframes && gapi.iframes.getContext) {
+            gapi.iframes.getContext().openChild({
+                url: '//www.blogger.com/navbar.g?targetBlogID\0751953410733493889728\46blogName\75MUSINGS+ON+IRAQ\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75LIGHT\46layoutType\75LAYOUTS\46searchRoot\75http://musingsoniraq.blogspot.com/search\46blogLocale\75en\46v\0752\46homepageUrl\75http://musingsoniraq.blogspot.com/\46targetPostID\0752358019208751533542\46blogPostOrPageUrl\75http://musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html\46vt\0757578746168548954904',
+                where: document.getElementById("navbar-iframe-container"),
+                id: "navbar-iframe"
+            });
+          }
+        });
+      </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header'><div class='widget Header' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='http://musingsoniraq.blogspot.com/'>MUSINGS ON IRAQ</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Iraq News, Politics, Economics, Society</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol'></div>
+<div class='tabs section' id='crosscol-overflow'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main'><div class='widget Blog' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!-- google_ad_section_start(name=default) -->
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, January 2, 2014</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='1953410733493889728' itemprop='blogId'/>
+<meta content='2358019208751533542' itemprop='postId'/>
+<a name='2358019208751533542'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+VIDEO: Mujahadeen In Control Of Fallujah, Jan. 1, 2014
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2358019208751533542' itemprop='description articleBody'>
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/j8UOuLydvRY" width="420"></iframe><br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='http://www.blogger.com/profile/09611810110771744360' itemprop='url'/>
+<a class='g-profile' href='http://www.blogger.com/profile/09611810110771744360' rel='author' title='author profile'>
+<span itemprop='name'>Joel Wing</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html' itemprop='url'/>
+<a class='timestamp-link' href='http://musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2014-01-02T07:47:00-08:00'>7:47 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=1953410733493889728&postID=2358019208751533542' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-365807047'>
+<a href='http://www.blogger.com/post-edit.g?blogID=1953410733493889728&postID=2358019208751533542&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=1953410733493889728&postID=2358019208751533542&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=1953410733493889728&postID=2358019208751533542&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=1953410733493889728&postID=2358019208751533542&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=1953410733493889728&postID=2358019208751533542&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger:blog:plusone' href='http://musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Labels:
+<a href='http://musingsoniraq.blogspot.com/search/label/Anbar' rel='tag'>Anbar</a>,
+<a href='http://musingsoniraq.blogspot.com/search/label/Fallujah' rel='tag'>Fallujah</a>,
+<a href='http://musingsoniraq.blogspot.com/search/label/Insurgency' rel='tag'>Insurgency</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>No comments:</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+</dl>
+</div>
+<p class='comment-footer'>
+<a href='http://www.blogger.com/comment.g?blogID=1953410733493889728&amp;postID=2358019208751533542' onclick=''>Post a Comment</a>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+<a name='links'></a><h4>
+</h4>
+<p class='comment-footer'>
+<a class='comment-link' href='' id='Blog1_backlinks-create-link' target='_blank'>
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+<!-- google_ad_section_end -->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://musingsoniraq.blogspot.com/2014/01/video-gunmen-driving-through-ramadi.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://musingsoniraq.blogspot.com/2014/01/radio-free-iraq-dohuk-official-new.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://musingsoniraq.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://musingsoniraq.blogspot.com/feeds/2358019208751533542/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget Profile' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='http://www.blogger.com/profile/09611810110771744360' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+</a>
+</dt>
+</dl>
+<a class='profile-link' href='http://www.blogger.com/profile/09611810110771744360' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Gadget' id='Gadget1'>
+<h2 class='title'>Twitter Updates 2.2: FeedWitter</h2>
+<script type="text/javascript">
+        if (!window.google || !google.friendconnect) {
+          document.write('<script type="text/javascript"' +
+              'src="//www.google.com/friendconnect/script/friendconnect.js">' +
+              '</scr' + 'ipt>');
+        }
+      </script>
+<script type="text/javascript">
+      if (!window.registeredBloggerCallbacks) {
+        window.registeredBloggerCallbacks = true;
+
+        
+
+        
+        gadgets.rpc.register('requestReload', function() {
+          document.location.reload();
+        });
+
+        
+        gadgets.rpc.register('requestSignOut', function(siteId) {
+          
+          google.friendconnect.container.openSocialSiteId = siteId;
+          google.friendconnect.requestSignOut();
+        });
+      }
+    </script>
+<script type="text/javascript">
+    
+    function registerGetBlogUrls() {
+      gadgets.rpc.register('getBlogUrls', function() {
+        var holder = {};
+        
+          
+            
+            
+              holder.currentPost = "http://www.blogger.com/feeds/1953410733493889728/posts/default/2358019208751533542";
+            
+            
+            
+              holder.currentComments = "http://www.blogger.com/feeds/1953410733493889728/2358019208751533542/comments/default";
+            
+            holder.currentPostUrl = "";
+            holder.currentPostId = 2358019208751533542
+          
+          
+          
+            holder.postFeed = "http://www.blogger.com/feeds/1953410733493889728/posts/default";
+          
+          
+          
+            holder.commentFeed = "http://www.blogger.com/feeds/1953410733493889728/comments/default";
+          
+          holder.currentBlogUrl = "http://musingsoniraq.blogspot.com/";
+          holder.currentBlogId = "1953410733493889728";
+        
+        return holder;
+      });
+    }
+  </script>
+<script type="text/javascript">
+  if (!window.registeredCommonBloggerCallbacks) {
+    window.registeredCommonBloggerCallbacks = true;
+
+    gadgets.rpc.register('resize_iframe', function(height) {
+      var el = document.getElementById(this['f']);
+      if (el) {
+        el.style.height = height + 'px';
+      }
+    });
+
+    
+    gadgets.rpc.register('set_pref', function() {});
+
+    registerGetBlogUrls();
+  }
+  </script>
+<div id="div-1qeyll0au97rw" style="width: 100%; "></div>
+<script type="text/javascript">
+    var skin = {};
+    skin['FACE_SIZE'] = '32';
+    skin['HEIGHT'] = "500";
+    skin['TITLE'] = "Twitter Updates 2.2: FeedWitter";
+    skin['BORDER_COLOR'] = "transparent";
+    skin['ENDCAP_BG_COLOR'] = "transparent";
+    skin['ENDCAP_TEXT_COLOR'] = "#000000";
+    skin['ENDCAP_LINK_COLOR'] = "#627349";
+    skin['ALTERNATE_BG_COLOR'] = "transparent";
+    
+    skin['CONTENT_BG_COLOR'] = "transparent";
+    skin['CONTENT_LINK_COLOR'] = "#627349";
+    skin['CONTENT_TEXT_COLOR'] = "#000000";
+    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#627349";
+    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#000000";
+    skin['CONTENT_HEADLINE_COLOR'] = "#000000";
+    skin['FONT_FACE'] = "normal normal 14px \x27Times New Roman\x27, Times, FreeSerif, serif";
+    google.friendconnect.container.setParentUrl("/");
+    google.friendconnect.container["renderOpenSocialGadget"](
+    {id: "div-1qeyll0au97rw",
+     height: 500,
+     
+       url: "http://indicebloggerfiles.googlepages.com/twitterupdatesv2.2.xml",
+     
+     
+       "view-params": {"displayLink":true,"myUsername":"JoelWing2","CONTENT_TEXT_COLOR":"#000000","myUpdates":"5","CONTENT_LINK_COLOR":"#0000ff"},
+     
+     
+       "prefs": {"displayLink":"1","myUsername":"JoelWing2","CONTENT_TEXT_COLOR":"#000000","myUpdates":"5","CONTENT_LINK_COLOR":"#0000ff"},
+     
+     site: "10716136725658093689",
+     
+     locale: 'en' },
+     skin);
+  </script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Gadget&widgetId=Gadget1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Gadget1"));' target='configGadget1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget FollowByEmail' id='FollowByEmail1'>
+<h2 class='title'>Follow by Email/RSS Feed</h2>
+<div class='widget-content'>
+<div class='follow-by-email-inner'>
+<form action='http://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open("http://feedburner.google.com/fb/a/mailverify?uri=MusingsOnIraq", "popupwindow", "scrollbars=yes,width=550,height=520"); return true' target='popupwindow'>
+<table width='100%'>
+<tr>
+<td>
+<input class='follow-by-email-address' name='email' placeholder='Email address...' type='text'/>
+</td>
+<td width='64px'>
+<input class='follow-by-email-submit' type='submit' value='Submit'/>
+</td>
+</tr>
+</table>
+<input name='uri' type='hidden' value='MusingsOnIraq'/>
+<input name='loc' type='hidden' value='en_US'/>
+</form>
+</div>
+</div>
+<span class='item-control blog-admin'>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=FollowByEmail&widgetId=FollowByEmail1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("FollowByEmail1"));' target='configFollowByEmail1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</span>
+</div><div class='widget Followers' id='Followers1'>
+<h2 class='title'>Followers</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<script type="text/javascript">
+        if (!window.google || !google.friendconnect) {
+          document.write('<script type="text/javascript"' +
+              'src="//www.google.com/friendconnect/script/friendconnect.js">' +
+              '</scr' + 'ipt>');
+        }
+      </script>
+<script type="text/javascript">
+      if (!window.registeredBloggerCallbacks) {
+        window.registeredBloggerCallbacks = true;
+
+        
+
+        
+        gadgets.rpc.register('requestReload', function() {
+          document.location.reload();
+        });
+
+        
+        gadgets.rpc.register('requestSignOut', function(siteId) {
+          
+          google.friendconnect.container.openSocialSiteId = siteId;
+          google.friendconnect.requestSignOut();
+        });
+      }
+    </script>
+<script type="text/javascript">
+    
+    function registerGetBlogUrls() {
+      gadgets.rpc.register('getBlogUrls', function() {
+        var holder = {};
+        
+          
+            
+            
+              holder.currentPost = "http://www.blogger.com/feeds/1953410733493889728/posts/default/2358019208751533542";
+            
+            
+            
+              holder.currentComments = "http://www.blogger.com/feeds/1953410733493889728/2358019208751533542/comments/default";
+            
+            holder.currentPostUrl = "";
+            holder.currentPostId = 2358019208751533542
+          
+          
+          
+            holder.postFeed = "http://www.blogger.com/feeds/1953410733493889728/posts/default";
+          
+          
+          
+            holder.commentFeed = "http://www.blogger.com/feeds/1953410733493889728/comments/default";
+          
+          holder.currentBlogUrl = "http://musingsoniraq.blogspot.com/";
+          holder.currentBlogId = "1953410733493889728";
+        
+        return holder;
+      });
+    }
+  </script>
+<script type="text/javascript">
+  if (!window.registeredCommonBloggerCallbacks) {
+    window.registeredCommonBloggerCallbacks = true;
+
+    gadgets.rpc.register('resize_iframe', function(height) {
+      var el = document.getElementById(this['f']);
+      if (el) {
+        el.style.height = height + 'px';
+      }
+    });
+
+    
+    gadgets.rpc.register('set_pref', function() {});
+
+    registerGetBlogUrls();
+  }
+  </script>
+<div id="div-1il8nsxah2tu4" style="width: 100%; "></div>
+<script type="text/javascript">
+    var skin = {};
+    skin['FACE_SIZE'] = '32';
+    skin['HEIGHT'] = "260";
+    skin['TITLE'] = "Followers";
+    skin['BORDER_COLOR'] = "transparent";
+    skin['ENDCAP_BG_COLOR'] = "transparent";
+    skin['ENDCAP_TEXT_COLOR'] = "#000000";
+    skin['ENDCAP_LINK_COLOR'] = "#627349";
+    skin['ALTERNATE_BG_COLOR'] = "transparent";
+    
+    skin['CONTENT_BG_COLOR'] = "transparent";
+    skin['CONTENT_LINK_COLOR'] = "#627349";
+    skin['CONTENT_TEXT_COLOR'] = "#000000";
+    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#627349";
+    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#000000";
+    skin['CONTENT_HEADLINE_COLOR'] = "#000000";
+    skin['FONT_FACE'] = "normal normal 14px \x27Times New Roman\x27, Times, FreeSerif, serif";
+    google.friendconnect.container.setParentUrl("/");
+    google.friendconnect.container["renderMembersGadget"](
+    {id: "div-1il8nsxah2tu4",
+     height: 260,
+     
+     
+     
+     site: "10716136725658093689",
+     
+     locale: 'en' },
+     skin);
+  </script>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' id='HTML2'>
+<h2 class='title'>FEEDJIT Live Traffic Map</h2>
+<div class='widget-content'>
+<script src="http://feedjit.com/map/?bc=FFFFFF&amp;tc=494949&amp;brd1=336699&amp;lnk=494949&amp;hc=336699&amp;dot=FF0000" type="text/javascript"></script><noscript><a href="http://feedjit.com/">Feedjit Live Blog Stats</a></noscript>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML8'>
+<h2 class='title'>Stats</h2>
+<div class='widget-content'>
+<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="stats" ><script  type="text/javascript" >
+try {Histats.start(1,2057056,4,4,130,70,"00010000");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img src="http://sstatic1.histats.com/0.gif?2057056&amp;101" alt="stats" border="0" /></a></noscript>
+<!-- Histats.com  END  -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=HTML&widgetId=HTML8&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML8"));' target='configHTML8' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML5'>
+<h2 class='title'>Feedjit</h2>
+<div class='widget-content'>
+<script type="text/javascript" src="http://feedjit.com/serve/?vv=955&amp;tft=3&amp;dd=0&amp;wid=03ad1cc7836d3235&amp;pid=0&amp;proid=0&amp;bc=FFFFFF&amp;tc=000000&amp;brd1=012B6B&amp;lnk=135D9E&amp;hc=FFFFFF&amp;hfc=2853A8&amp;btn=C99700&amp;ww=130&amp;wne=10&amp;wh=Live+Traffic+Feed&amp;hl=0&amp;hlnks=0&amp;hfce=0&amp;srefs=0&amp;hbars=0"></script><noscript><a href="http://feedjit.com/">Feedjit Live Blog Stats</a></noscript>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' target='configHTML5' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML1'>
+<div class='widget-content'>
+<a href="http://s06.flagcounter.com/more/1Mm9"><img src="http://s06.flagcounter.com/count/1Mm9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_248/viewers_0/labels_0/pageviews_0/flags_1/" alt="free counters" border="0" /></a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget BlogArchive' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div class='ltr' id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/search?updated-min=2014-01-01T00:00:00-08:00&amp;updated-max=2015-01-01T00:00:00-08:00&amp;max-results=8'>2014</a>
+<span class='post-count' dir='ltr'>(8)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2014_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(8)</span>
+<ul class='posts'>
+<li><a href='http://musingsoniraq.blogspot.com/2014/01/history-channel-video-iraq-war.html'>HISTORY CHANNEL VIDEO: Iraq War Insurgency And Cou...</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2014/01/aftermath-of-shutting-down-ramadi.html'>Aftermath of Shutting Down Ramadi Protest Site In ...</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2014/01/video-fallujah-rebels-burn-6-police.html'>VIDEO: Fallujah Rebels Burn 6 Police Humvees</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2014/01/video-revolution-in-fallujah-burning.html'>VIDEO: Revolution In Fallujah Burning Government V...</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2014/01/islamic-state-of-iraq-video-al-qaeda-in.html'>ISLAMIC STATE OF IRAQ VIDEO: Al Qaeda In Iraq Figh...</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2014/01/video-gunmen-driving-through-ramadi.html'>VIDEO: Gunmen Driving Through Ramadi</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html'>VIDEO: Mujahadeen In Control Of Fallujah, Jan. 1, ...</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2014/01/radio-free-iraq-dohuk-official-new.html'>RADIO FREE IRAQ: Dohuk Official New Year&#39;s Celebra...</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/search?updated-min=2013-01-01T00:00:00-08:00&amp;updated-max=2014-01-01T00:00:00-08:00&amp;max-results=50'>2013</a>
+<span class='post-count' dir='ltr'>(523)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(34)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(48)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(57)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(50)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(60)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(50)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(48)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2013_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/search?updated-min=2012-01-01T00:00:00-08:00&amp;updated-max=2013-01-01T00:00:00-08:00&amp;max-results=50'>2012</a>
+<span class='post-count' dir='ltr'>(683)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(53)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(36)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(67)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(57)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(57)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(70)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(59)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(64)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(58)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2012_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(83)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/search?updated-min=2011-01-01T00:00:00-08:00&amp;updated-max=2012-01-01T00:00:00-08:00&amp;max-results=50'>2011</a>
+<span class='post-count' dir='ltr'>(737)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(138)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(73)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(72)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(70)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(72)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(53)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(58)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(55)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(34)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2011_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/search?updated-min=2010-01-01T00:00:00-08:00&amp;updated-max=2011-01-01T00:00:00-08:00&amp;max-results=50'>2010</a>
+<span class='post-count' dir='ltr'>(424)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(38)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(36)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(47)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(38)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2010_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/search?updated-min=2009-01-01T00:00:00-08:00&amp;updated-max=2010-01-01T00:00:00-08:00&amp;max-results=50'>2009</a>
+<span class='post-count' dir='ltr'>(373)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(36)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_05_01_archive.html'>May</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_04_01_archive.html'>April</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_03_01_archive.html'>March</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_02_01_archive.html'>February</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2009_01_01_archive.html'>January</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/search?updated-min=2008-01-01T00:00:00-08:00&amp;updated-max=2009-01-01T00:00:00-08:00&amp;max-results=50'>2008</a>
+<span class='post-count' dir='ltr'>(232)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2008_12_01_archive.html'>December</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2008_11_01_archive.html'>November</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2008_10_01_archive.html'>October</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2008_09_01_archive.html'>September</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2008_08_01_archive.html'>August</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2008_07_01_archive.html'>July</a>
+<span class='post-count' dir='ltr'>(50)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle'>
+<span class='zippy'></span>
+</a>
+<a class='post-count-link' href='http://musingsoniraq.blogspot.com/2008_06_01_archive.html'>June</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList2'>
+<h2>Musings On Iraq Interviews</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://musingsoniraq.blogspot.com/2011/02/look-into-iraqs-creation-governance-and.html'>1. State Dept.'s Stephen Donnelly On Iraq's Borders And Disputed Territories</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2011/06/view-from-northern-iraq-on-2011-kurdish.html'>2. Journalist Wladimir Van Wilgenburg On 2011 Protests In Kurdistan</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2011/12/how-us-struggled-to-establish-law-and.html'>3. Col. Ted Spain Fmr Commander 18th MP Brig On Law And Order In Post-Invasion Iraq</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/02/american-negligence-in-iraq-or-how.html'>4. Jerry Burke Fmr Iraqi Police & Interior Min Adviser On How U.S. Failed To Plan For Post-War Iraq</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/02/from-bad-to-worse-how-militias-moved.html'>5. Jerry Burke Fmr Iraqi Police & Interior Min Adviser On How Militias Took Over Iraq's Police</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/02/saddam-tapes-inside-look-at-saddam.html'>6. Natl Defense Univ's David Palkki On The Saddam Tapes Pt. I An Inside Look Into The Old Regime</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/02/saddam-tapes-inside-look-at-saddam_22.html'>7. Natl Defense Univ's David Palkki On The Saddam Tapes Pt. II An Inside Look Into The Old Regime</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/02/reassessing-us-surge-and-recognizing.html'>8. New America Foundation's Douglas Ollivant On Re-Assessing The Surge</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/06/is-iraqs-prime-minister-becoming.html'>9. Inside Iraqi Politic's Kirk Sowell On Whether PM Maliki Is Becoming A Dictator</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/07/iraqi-perspective-on-iraq-war-interview.html'>10. Journalist Mark Kukis On Voices From Iraq An Iraqi Perspective Of The War</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/08/the-state-of-kurdish-regional.html'>12. Natl Defense Univ's Dr. Denise Natali On The State of the Kurdistan Regional Government</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/07/what-is-security-like-today-in-iraq.html'>11. Washington Inst for Near East Studies' Dr. Michael Knights On What Security Is Like In Iraq Today</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/08/a-history-of-iranian-weapons-shipments.html'>13. Blogger Galen Wright On The History Of Iranian Weapons Shipments To Iraq</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/08/a-history-of-iraqs-islamic-dawa-party.html'>14. Lowy Institute's Dr. Rodger Shanahan On The History Of The Dawa Party</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/08/can-iraq-find-its-way-out-of-its.html'>15.International Crisis Group's Joost Hiltermann On Iraq's Current Political Stalemate</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/11/iraqs-kurdistan-regional-governments.html'>16. KBC Advanced Technologies' Samuel Ciszuk On Kurdistan's Oil Policy</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/11/how-anbar-province-showed-promise-and.html'>17. State Dept's Keith Mines On Being CPA Governor of Anbar 2003-2004</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2012/11/investing-in-iraq-opportunities-and.html'>18. Northern Gulf Partners' Zaab Sethna On Investing In Iraq</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/01/analysis-of-history-and-growth-of-asaib.html'>19. Institute for the Study of War's Sam Wyer on Asa'ib Ahl al-Haq, The League of the Righteous</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/01/overview-of-security-in-iraq-2012.html'>20. AKE's John Drake On Reviewing Security In Iraq In 2012</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/01/corruption-in-iraq-interview-with.html'>21. Special Inspector General for Iraq Reconstruction Stuart Bowen On Corruption In Iraq</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/01/an-interview-with-iraq-body-count.html'>22. Interview with Iraq Body Count</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/03/could-us-have-done-better-in-iraq-no.html'>23. Georgetown Prof. Daniel Byman On How The U.S. Could Not Have Done A Better Job In Iraq</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/03/the-changing-face-of-moqtada-al-sadr.html'>24. Gryphon Partners' Omar al-Nidawi On Sadr Remaking His Image</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/03/how-will-sadrists-and-islamic-supreme.html'>25. UCSD Prof. Babak Rahimi On How Supreme Council and Sadrists Will Do In 2013 Elections</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/03/iraqs-economy-at-crossroads-interview.html'>26. USAID's Vladimir Halama & Thomas Doherty On Iraq's Economy At A Crossroads</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/04/review-of-american-reconstruction-of.html'>27. Fmr Dep Spec Insp Gen for Iraq Recon Ginger Cruze On America's Effort To Rebuild Iraq</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/04/saddam-husseins-baath-party-interview.html'>28. Georgetown Prof. Joseph Sassoon On Saddam's Baath Party</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/05/understanding-iraqs-protest-movements.html'>29. Inside Iraqi Politics' Kirk Sowell On Iraq's Protest Movement</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/05/is-iraqs-prime-minister-maliki-more.html'>30. Iraq Historian Phebe Marr On Is PM Maliki More Like PM Nuri al-Sa'id Than Saddam?</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/06/the-changing-face-of-sectarianism-in.html'>31. Singapore Univ's Fanar Haddad On The Changing Face of Sectarianism In Iraq</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/06/the-increasing-flow-of-iraqi-fighters.html'>32. Univ of Maryland's Phillip Smyth On Iraqi Fighters Heading To Syria</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/07/a-critique-of-lancet-reports-on-iraqi.html'>33. UC Berkeley Prof. Mark Van Der Laan's Critique Of Lancet Studies On Iraqi Deaths</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/08/ethnosectarian-politics-in-iraq-its.html'>34. Univ of Miami Prof Adeed Dawisha on Iraq's Ethnosectarian Politics</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/08/the-life-of-nouri-al-maliki-interview_19.html'>35. Journalist Ned Parker On The Life Of PM Nouri al-Maliki</a></li>
+<li><a href='http://www.niqash.org/articles/?id=3292'>36 Lehigh Univ Prof Frank Gunter On Structural Problems With Iraq's Economy</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/09/explaining-political-factors-behind.html'>37. International Crisis Group's Maria Fantappie On Political Factors Behind Current Violence In Iraq</a></li>
+<li><a href='http://www.musingsoniraq.blogspot.com/2013/10/iranian-revolutionary-guards-commander.html'>38. New Yorker's Dexter Filkins On Iranian Rev Guard's Gen Suleimani & His Role In Iraq</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/10/revolutionary-times-gen-qasim-and-iraqs.html'>39. Western Kentucky's Prof. Juan Romero On Iraq's 1958 Coup & Gen. Qasim</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/11/turkeys-changing-stance-towards-iraqs.html'>40. Lehigh's Prof Henri Barkey On Turkey's Changing Relations With Iraq's Kurdistan</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/11/the-rebirth-of-al-qaeda-in-iraq.html'>41. Institute for the Study of War's Jessica Lewis on the Rebirth of Al Qaeda in Iraq</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/12/explaining-iraqi-kurdistans-policy.html'>42. Journalist Wladimir van Wilgenburg On Kurdistan's Syria Policy</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/12/iraqi-women-before-and-after-2003.html'>43. Univ of London Prof Nadje Ali on Iraqi Women Before & After The 2003 Invasion</a></li>
+<li><a href='http://musingsoniraq.blogspot.com/2013/12/inside-surge-interview-with-prof-peter.html'>44. Gen Petraeus Fmr Exec Officer & Ohio St Univ's Prof Peter Mansoor Inside The Surge</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=LinkList&widgetId=LinkList2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList2"));' target='configLinkList2' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogList' id='BlogList1'>
+<h2 class='title'>My Blog List</h2>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://americancontractor.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://americancontractor.com' target='_blank'>
+American Contractor | The latest news from the frontlines in Iraq</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://americancontractor.com/iraqi-dinar/american-contractors-iraqi-dinar-intel-reviewed' target='_blank'>
+American Contractor&#8217;s Iraqi Dinar Intel Reviewed</a>
+</span>
+<div class='item-time'>
+2 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://ricks.foreignpolicy.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://ricks.foreignpolicy.com' target='_blank'>
+Best Defense</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://ricks.foreignpolicy.com/posts/2014/01/03/rebeccas_war_dog_of_the_week_happy_last_holidays_from_afghanistan' target='_blank'>
+Rebecca's War Dog of the Week: Happy (Last?) Holidays from Afghanistan</a>
+</span>
+<div class='item-time'>
+22 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://healingiraq.blogspot.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://healingiraq.blogspot.com/' target='_blank'>
+Healing Iraq</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://healingiraq.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://2.bp.blogspot.com/-l1Y_n4bOWOo/UpSI9NN5AOI/AAAAAAAAAhc/o05FF6-rdsM/s72-c/1450728_562107460544349_578983747_n.jpg' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://healingiraq.blogspot.com/2013/11/friday-sermon-libyan-style.html' target='_blank'>
+Friday sermon Libyan-style</a>
+</span>
+<div class='item-time'>
+5 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://insightkurdistan.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://insightkurdistan.com' target='_blank'>
+Insight Kurdistan</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://insightkurdistan.com/election-guide-iraqi-kurdistans-parliamentary-vote-2013/1390/' target='_blank'>
+Election Guide: Iraqi Kurdistan&#8217;s Parliamentary Vote 2013</a>
+</span>
+<div class='item-time'>
+3 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://gulfanalysis.wordpress.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://gulfanalysis.wordpress.com' target='_blank'>
+Iraq and Gulf Analysis</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://gulfanalysis.wordpress.com/2013/12/31/44-iraqi-mps-resign-who-are-they-and-what-are-the-consequences/' target='_blank'>
+44 Iraqi MPs Resign: Who Are They, and What Are the Consequences?</a>
+</span>
+<div class='item-time'>
+3 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://www.iraqoilreport.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.iraqoilreport.com' target='_blank'>
+Iraq Oil Report</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.iraqoilreport.com/oil/production-exports/oil-exports-end-2013-banner-year-ahead-11686/?utm_source=rss&utm_medium=rss&utm_campaign=oil-exports-end-2013-banner-year-ahead' target='_blank'>
+Oil exports end 2013 down but banner year ahead</a>
+</span>
+<div class='item-time'>
+22 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://kurdishobserver.blogspot.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://kurdishobserver.blogspot.com/' target='_blank'>
+Kurdish Observer</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/KurdishObserver/~3/SKeW6fkbTlk/friendly-relations-and-then-some.html' target='_blank'>
+Friendly relations and then some</a>
+</span>
+<div class='item-time'>
+1 month ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://seerwan.blogspot.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://seerwan.blogspot.com/' target='_blank'>
+Seerwan Says</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+Hospital Beds &amp; Physicians: How many each of Iraq&#8217;s Provinces need
+</span>
+<div class='item-time'>
+1 year ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://hiwaosman.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://hiwaosman.com' target='_blank'>
+Thoughts from Iraq</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://hiwaosman.com/2013/12/different-journalist-same-crime/' target='_blank'>
+Different Journalist, Same Crime</a>
+</span>
+<div class='item-time'>
+3 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://vvanwilgenburg.blogspot.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://vvanwilgenburg.blogspot.com/' target='_blank'>
+Transnational Middle-East Observer</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://vvanwilgenburg.blogspot.com/2014/01/kurdish-border-crossing-with-syria.html' target='_blank'>
+Kurdish border crossing with Syria still closed</a>
+</span>
+<div class='item-time'>
+16 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='http://wemeantwell.com/favicon.ico' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://wemeantwell.com/blog' target='_blank'>
+We Meant Well - Peter Van Buren</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://wemeantwell.com/blog/2014/01/03/nsa-and-corporate-cooperation-revealed/' target='_blank'>
+NSA and Corporate Cooperation Revealed</a>
+</span>
+<div class='item-time'>
+1 day ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=BlogList&widgetId=BlogList1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogList1"));' target='configBlogList1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget Image' id='Image7'>
+<h2>Iraq Provinces Map</h2>
+<div class='widget-content'>
+<a href='http://en.wikipedia.org/wiki/File:Iraqi_Governorates.svg'>
+<img alt='Iraq Provinces Map' height='250' id='Image7_img' src='http://4.bp.blogspot.com/-igg1X47jpwQ/UfXo9FP0X9I/AAAAAAAAENc/E_QZqOQSQW0/s250/589px-Iraqi_Governorates.svg.png' width='245'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image7&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image7"));' target='configImage7' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image10'>
+<h2>Iraq Provinces - Cities Map</h2>
+<div class='widget-content'>
+<a href='http://www.globalsecurity.org/jhtml/jframe.html#http://www.globalsecurity.org/military/world/iraq/images/iraq-map_un1996.jpg|||'>
+<img alt='Iraq Provinces - Cities Map' height='150' id='Image10_img' src='http://3.bp.blogspot.com/-x9J0zzUq7oM/TkzbvHeIbHI/AAAAAAAAAgI/hOjyN9zXTtM/s150/cities_provinces' width='117'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image10&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image10"));' target='configImage10' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image8'>
+<h2>Iraq Districts Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/1690/IAU_Iraq_Reference_A4_140310_V2.pdf'>
+<img alt='Iraq Districts Map' height='70' id='Image8_img' src='http://2.bp.blogspot.com/-gVkbN6Srta8/UX1WLSqxBWI/AAAAAAAAD0w/lMYb2FuSUJg/s150/thumbnail.jpg' width='100'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image8&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image8"));' target='configImage8' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image6'>
+<h2>Ottoman Iraq Map</h2>
+<div class='widget-content'>
+<a href='http://4.bp.blogspot.com/_yCnIK3xg848/TU9vC_J47-I/AAAAAAAAALA/hV2gGN_LV14/s1600/1914-Iraq.gif'>
+<img alt='Ottoman Iraq Map' height='150' id='Image6_img' src='http://4.bp.blogspot.com/-IcJbdroOXAI/TkzZd2DCLVI/AAAAAAAAAf4/ziIs4zzuefo/s150/ottoman%2Biraq' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image6&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image6"));' target='configImage6' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image33'>
+<h2>Iraq Provincial Map 1958</h2>
+<div class='widget-content'>
+<a href='http://2.bp.blogspot.com/_yCnIK3xg848/TUuUGcmcnAI/AAAAAAAAAJc/9FyN7NObSp4/s1600/1958-Iraq-Map.gif'>
+<img alt='Iraq Provincial Map 1958' height='117' id='Image33_img' src='http://1.bp.blogspot.com/-kTM4mo1S6ro/TsoCUVY_bvI/AAAAAAAAAv4/eih9lpb5R48/s150/1958-Iraq-Map.png' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image33&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image33"));' target='configImage33' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image34'>
+<h2>Iraq Provincial Map 1970</h2>
+<div class='widget-content'>
+<a href='http://3.bp.blogspot.com/_yCnIK3xg848/TUuVNiYh_rI/AAAAAAAAAJg/v1KUgJT2ewU/s1600/1970-Iraq-Map.gif'>
+<img alt='Iraq Provincial Map 1970' height='117' id='Image34_img' src='http://1.bp.blogspot.com/-wGXrtfWZEgQ/TsoDoMrc42I/AAAAAAAAAwE/Lj8OWQzT4zo/s150/1970-Iraq-Map.png' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image34&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image34"));' target='configImage34' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image35'>
+<h2>Iraq Provincial Map 1990</h2>
+<div class='widget-content'>
+<a href='http://2.bp.blogspot.com/_yCnIK3xg848/TUuVdhJySJI/AAAAAAAAAJk/-BJnn6D60Lg/s1600/1990-Iraq-Map.gif'>
+<img alt='Iraq Provincial Map 1990' height='117' id='Image35_img' src='http://4.bp.blogspot.com/-0LNfPv4w_JI/TsoD6MFrWcI/AAAAAAAAAwQ/LWBbxJALfww/s150/1990-Iraq-Map.png' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image35&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image35"));' target='configImage35' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image36'>
+<h2>Map Ethnic Cleansing Of Baghdad 2003</h2>
+<div class='widget-content'>
+<a href='http://musingsoniraq.blogspot.com/2009/11/blog-post.html'>
+<img alt='Map Ethnic Cleansing Of Baghdad 2003' height='119' id='Image36_img' src='http://4.bp.blogspot.com/-hdGfwP_N8iU/TtL1xckSIEI/AAAAAAAAAyk/A9KmiraLwfc/s150/baghdad%2B2003' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image36&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image36"));' target='configImage36' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image37'>
+<h2>Map Ethnic Cleansing of Baghdad 2006</h2>
+<div class='widget-content'>
+<a href='http://musingsoniraq.blogspot.com/2009/11/blog-post.html'>
+<img alt='Map Ethnic Cleansing of Baghdad 2006' height='105' id='Image37_img' src='http://3.bp.blogspot.com/-HErg3v0jdMA/TtL165MLF8I/AAAAAAAAAyw/C4TOFU3ldIc/s150/baghdad%2B2006' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image37&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image37"));' target='configImage37' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image38'>
+<h2>Map Ethnic Cleansing of Baghdad Early 2007</h2>
+<div class='widget-content'>
+<a href='http://musingsoniraq.blogspot.com/2009/11/blog-post.html'>
+<img alt='Map Ethnic Cleansing of Baghdad Early 2007' height='102' id='Image38_img' src='http://3.bp.blogspot.com/-7wt0ysDYJ7g/TtL2FyG751I/AAAAAAAAAy8/AGhf1vYKswg/s150/baghdad%2Bearly%2B2007' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image38&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image38"));' target='configImage38' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image39'>
+<h2>Map Ethnic Cleansing of Baghdad Late 2007</h2>
+<div class='widget-content'>
+<a href='http://musingsoniraq.blogspot.com/2009/11/blog-post.html'>
+<img alt='Map Ethnic Cleansing of Baghdad Late 2007' height='102' id='Image39_img' src='http://2.bp.blogspot.com/-E2DwGCpVv3Q/TtL2N03SqlI/AAAAAAAAAzI/9GG_urKevZ8/s150/Baghdad%2Blate%2B2007' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image39&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image39"));' target='configImage39' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image40'>
+<h2>Map Ethnic Cleansing of Baghdad Mid 2008</h2>
+<div class='widget-content'>
+<a href='http://musingsoniraq.blogspot.com/2009/11/blog-post.html'>
+<img alt='Map Ethnic Cleansing of Baghdad Mid 2008' height='118' id='Image40_img' src='http://3.bp.blogspot.com/-jdHg9SLBK1c/TtL2WrxsLFI/AAAAAAAAAzU/J39RSf6YcIM/s150/baghdad%2Bmid%2B2008' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image40&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image40"));' target='configImage40' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image11'>
+<h2>Iraq Oil Fields Map</h2>
+<div class='widget-content'>
+<a href='http://mappery.com/map-of/Iraq-Oilfields-and-Facilities-Map'>
+<img alt='Iraq Oil Fields Map' height='141' id='Image11_img' src='http://4.bp.blogspot.com/-979MfGjg-Pg/UUPIwh0UJCI/AAAAAAAADrA/35UHJoy6bro/s150/Iraq-Oilfields-and-Facilities-Map.jpg' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image11&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image11"));' target='configImage11' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image9'>
+<h2>Iraq Ethnosectarian - Tribes Map</h2>
+<div class='widget-content'>
+<a href='http://www.lib.utexas.edu/maps/middle_east_and_asia/iraq_ethno_2003.jpg'>
+<img alt='Iraq Ethnosectarian - Tribes Map' height='223' id='Image9_img' src='http://www.lib.utexas.edu/maps/middle_east_and_asia/iraq_ethno_2003.jpg' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image9&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image9"));' target='configImage9' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image13'>
+<h2>Kurdistan And Disputed Territories Iraq Map</h2>
+<div class='widget-content'>
+<a href='http://4.bp.blogspot.com/-f4bLXzNGPMI/TksAexOo43I/AAAAAAAAAfs/fvLzouOAvyI/s1600/disputed+territories'>
+<img alt='Kurdistan And Disputed Territories Iraq Map' height='106' id='Image13_img' src='http://2.bp.blogspot.com/-qHRCQ1vdLF0/TmWHRp9km3I/AAAAAAAAAik/Q4aIDayXwTw/s150/disputed%2Bterritories%2Bmap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image13&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image13"));' target='configImage13' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image12'>
+<h2>Kurdistan And Iraq Map</h2>
+<div class='widget-content'>
+<a href='http://3.bp.blogspot.com/-X5qUjG3B9mU/TfU6GpOX8PI/AAAAAAAAAYc/YCNKygDaAQM/s1600/Iraq-Kurdistan-map.jpg'>
+<img alt='Kurdistan And Iraq Map' height='129' id='Image12_img' src='http://1.bp.blogspot.com/-pouKL0FaiWQ/TmWHDLvBIwI/AAAAAAAAAic/-1rSJjIrkXI/s150/Kurdistan%2Bmap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image12&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image12"));' target='configImage12' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image2'>
+<h2>Baghdad Map</h2>
+<div class='widget-content'>
+<a href='http://www.lib.utexas.edu/maps/middle_east_and_asia/baghdad_inset_2003.jpg'>
+<img alt='Baghdad Map' height='173' id='Image2_img' src='http://www.lib.utexas.edu/maps/middle_east_and_asia/baghdad_inset_2003.jpg' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image2"));' target='configImage2' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image23'>
+<h2>Baghdad District Map</h2>
+<div class='widget-content'>
+<a href='http://www.understandingwar.org/map/baghdad-city-districts'>
+<img alt='Baghdad District Map' height='120' id='Image23_img' src='http://3.bp.blogspot.com/-HJfmtqcIpLM/UX1VPz8EtLI/AAAAAAAAD0g/EGDuX0oeUUs/s150/BaghdadDistricts_main.jpg' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image23&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image23"));' target='configImage23' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image5'>
+<h2>Baghdad District Map 2</h2>
+<div class='widget-content'>
+<a href='http://www.globalsecurity.org/military/world/iraq/images/baghdad-map-areas2.jpg'>
+<img alt='Baghdad District Map 2' height='120' id='Image5_img' src='http://www.globalsecurity.org/military/world/iraq/images/baghdad-map-areas2.jpg' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image5&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image5"));' target='configImage5' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image3'>
+<h2>Baghdad Neighborhoods Map 1</h2>
+<div class='widget-content'>
+<a href='http://www.lib.utexas.edu/maps/middle_east_and_asia/baghdad_nima_2003.jpg'>
+<img alt='Baghdad Neighborhoods Map 1' height='92' id='Image3_img' src='http://www.lib.utexas.edu/maps/middle_east_and_asia/baghdad_nima_2003.jpg' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image3&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image3"));' target='configImage3' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image4'>
+<h2>Baghdad District Neighborhoods Map 2</h2>
+<div class='widget-content'>
+<a href='http://healingiraq.blogspot.com/baghdadethno1.JPG'>
+<img alt='Baghdad District Neighborhoods Map 2' height='180' id='Image4_img' src='http://healingiraq.blogspot.com/baghdadethno1.JPG' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image4&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image4"));' target='configImage4' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image14'>
+<h2>Baghdad Districts and Neibhborhods Map</h2>
+<div class='widget-content'>
+<a href='http://www.understandingwar.org/map/map-baghdad-neighborhoods'>
+<img alt='Baghdad Districts and Neibhborhods Map' height='147' id='Image14_img' src='http://4.bp.blogspot.com/-4zAr3RVqgH4/TmugMzfHahI/AAAAAAAAAi0/XUesHTH0KJA/s150/baghdad%2Bdistrict%2Bmap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image14&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image14"));' target='configImage14' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image15'>
+<h2>Anbar Map</h2>
+<div class='widget-content'>
+<a href='http://en.wikipedia.org/wiki/File:Anbarprovincedistricts.PNG'>
+<img alt='Anbar Map' height='110' id='Image15_img' src='http://3.bp.blogspot.com/-u3mTraaGYj8/Tmug2jW74HI/AAAAAAAAAi8/BNbDlDZVosA/s150/anbar%2Bdistricts' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image15&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image15"));' target='configImage15' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image20'>
+<h2>Babil Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/405/OIA_G_BABYLON_002_A1.pdf'>
+<img alt='Babil Map' height='136' id='Image20_img' src='http://4.bp.blogspot.com/-OEMmpygsuzA/TmuiznSYwbI/AAAAAAAAAjk/e08KOf08Ei0/s150/Babil%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image20&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image20"));' target='configImage20' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image24'>
+<h2>Basra Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/407/OIA_G_BASRAH_002_A1.pdf'>
+<img alt='Basra Map' height='127' id='Image24_img' src='http://2.bp.blogspot.com/-3gibnLLNiSY/Tmuj18zBu5I/AAAAAAAAAkE/AbbLcnNqWkI/s150/Basra%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image24&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image24"));' target='configImage24' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image26'>
+<h2>Dhi Qar Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/419/OIA_G_THI-QAR_002_A1.pdf'>
+<img alt='Dhi Qar Map' height='128' id='Image26_img' src='http://2.bp.blogspot.com/-OjBM5jyfi0Q/TmukWfkPijI/AAAAAAAAAkU/UEIh2TLB510/s150/Dhi%2BQar%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image26&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image26"));' target='configImage26' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image25'>
+<h2>Diyala Map</h2>
+<div class='widget-content'>
+<a href='http://en.wikipedia.org/wiki/File:Diyala_province.JPG'>
+<img alt='Diyala Map' height='150' id='Image25_img' src='http://3.bp.blogspot.com/-ZkGyrIHNpkc/Tn-Qoq5DPLI/AAAAAAAAAmY/7eBX0I-ZzcI/s150/diyala%2Bprovince' width='130'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image25&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image25"));' target='configImage25' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image17'>
+<h2>Dohuk Map</h2>
+<div class='widget-content'>
+<a href='http://en.wikipedia.org/wiki/File:Dahukdistricts.jpg'>
+<img alt='Dohuk Map' height='90' id='Image17_img' src='http://3.bp.blogspot.com/-RQnhMjTVTKw/TmuhbSVYlYI/AAAAAAAAAjM/tjQyfBTpONE/s150/Dohuk%2Bmap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image17&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image17"));' target='configImage17' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image27'>
+<h2>Irbil Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/409/OIA_G_ERBIL_002_A1.pdf'>
+<img alt='Irbil Map' height='127' id='Image27_img' src='http://3.bp.blogspot.com/-K2fN0f26taI/TmukiDAZ9oI/AAAAAAAAAkc/UfwIdGzUp5w/s150/Irbil%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image27&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image27"));' target='configImage27' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image21'>
+<h2>Karbala Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/410/OIA_G_KERBALA_002_A1.pdf'>
+<img alt='Karbala Map' height='91' id='Image21_img' src='http://4.bp.blogspot.com/-TSa3No7aCOg/TmujCBNm9HI/AAAAAAAAAjs/S7mE3Ki6pjE/s150/Karbala%2Bmap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image21&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image21"));' target='configImage21' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image28'>
+<h2>Maysan Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/411/OIA_G_MISSAN_002_A1.pdf'>
+<img alt='Maysan Map' height='129' id='Image28_img' src='http://3.bp.blogspot.com/-9HbzUQ-bB4k/TmukqAi5Q1I/AAAAAAAAAkk/4Gp-8oIhIU0/s150/Maysan%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image28&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image28"));' target='configImage28' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image16'>
+<h2>Muthanna Map</h2>
+<div class='widget-content'>
+<a href='http://en.wikipedia.org/wiki/File:Muthanaprovincedis.jpg'>
+<img alt='Muthanna Map' height='112' id='Image16_img' src='http://1.bp.blogspot.com/-TXuYsN7GKs0/TmuhFC7TvuI/AAAAAAAAAjE/nJktzEmPnYA/s150/Muthanna%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image16&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image16"));' target='configImage16' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image22'>
+<h2>Najaf Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/413/OIA_G_NAJAF_002_A1.pdf'>
+<img alt='Najaf Map' height='116' id='Image22_img' src='http://1.bp.blogspot.com/-YjKyLR4gqdM/TmujWYH6LoI/AAAAAAAAAj0/m49rNDNkmes/s150/Najaf%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image22&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image22"));' target='configImage22' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image18'>
+<h2>Ninewa Map</h2>
+<div class='widget-content'>
+<a href='http://en.wikipedia.org/wiki/File:Ninevehdistricts.jpg'>
+<img alt='Ninewa Map' height='111' id='Image18_img' src='http://4.bp.blogspot.com/-tZnO6ix4ivM/Tmuh228HNMI/AAAAAAAAAjU/LMVR5VxmSps/s150/Ninewa%2Bmap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image18&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image18"));' target='configImage18' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image29'>
+<h2>Qadisiyah Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/415/OIA_G_QADISSIYA_002_A1.pdf'>
+<img alt='Qadisiyah Map' height='127' id='Image29_img' src='http://4.bp.blogspot.com/-WpgO76G3PIY/Tmukwi9gL9I/AAAAAAAAAks/Bvevsvnz8js/s150/Qadisiyah%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image29&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image29"));' target='configImage29' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image19'>
+<h2>Salahaddin Map</h2>
+<div class='widget-content'>
+<a href='http://en.wikipedia.org/wiki/File:Salahedendistricts.jpg'>
+<img alt='Salahaddin Map' height='114' id='Image19_img' src='http://3.bp.blogspot.com/-_S1fIjrm-Bk/TmuiBTKcydI/AAAAAAAAAjc/XWOKcPP4u1I/s150/Salahaddin%2Bmap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image19&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image19"));' target='configImage19' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image31'>
+<h2>Sulaymaniya Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/417/OIA_G_SULAYMANIYAH_002_A0.pdf'>
+<img alt='Sulaymaniya Map' height='129' id='Image31_img' src='http://3.bp.blogspot.com/-ty32T7iJ4Po/Tmuk6UCoTNI/AAAAAAAAAk8/1QDFFeGo2Z0/s150/Sulaymaniya%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image31&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image31"));' target='configImage31' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image30'>
+<h2>Tamim/Kirkuk Map</h2>
+<div class='widget-content'>
+<a href='http://en.wikipedia.org/wiki/File:At-Tamin.JPG'>
+<img alt='Tamim/Kirkuk Map' height='127' id='Image30_img' src='http://4.bp.blogspot.com/-qvcaOq95i2A/Tmuk2HYeehI/AAAAAAAAAk0/KgzcRm6--aU/s150/Tamim%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image30&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image30"));' target='configImage30' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image32'>
+<h2>Wasit Map</h2>
+<div class='widget-content'>
+<a href='http://www.japuiraq.org/documents/420/OIA_G_WASSIT_002_A1.pdf'>
+<img alt='Wasit Map' height='116' id='Image32_img' src='http://2.bp.blogspot.com/-S_QoQsC96tE/Tmuk-Q3roII/AAAAAAAAAlE/VDR_MBL4oGo/s150/Wasit%2BMap' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Image&widgetId=Image32&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image32"));' target='configImage32' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget LinkList' id='LinkList1'>
+<h2>News, Think Tank, U.N. and Iraqi Government Sources on Iraq</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://english.aljazeera.net/news/middleeast/'>Al Jazeera English - Middle East</a></li>
+<li><a href='http://mawtani.al-shorfa.com/en_GB'>Al Shorfa</a></li>
+<li><a href='http://www.alliraqnews.com/en/'>All Of Iraq News Agency</a></li>
+<li><a href='http://www.alsumaria.tv/news/category/1/iraq-news'>Alsumaria TV</a></li>
+<li><a href='http://en.aswataliraq.info/'>Aswat al-Iraq/Voices of Iraq</a></li>
+<li><a href='http://www.azzaman.com/english/'>Azzaman English</a></li>
+<li><a href='http://www.brookings.edu/topics/iraq.aspx'>Brookings Institution - Iraq</a></li>
+<li><a href='http://www.csis.org/region/iraq'>Center For Strategic and International Studies - Iraq</a></li>
+<li><a href='http://www.csmonitor.com/world/middleEast.html'>Christian Science Monitor - Middle East</a></li>
+<li><a href='http://www.cfr.org/region/405/iraq.html'>Council On Foreign Relations - Iraq</a></li>
+<li><a href='http://www.ft.com/world/mideast'>Financial Times - Middle East</a></li>
+<li><a href='http://www.guardian.co.uk/world/iraq'>Guardian - Middle East</a></li>
+<li><a href='http://www.independent.co.uk/news/world/middle-east/'>Independent - Middle East</a></li>
+<li><a href='http://www.understandingwar.org/'>Institute for the Study of War</a></li>
+<li><a href='http://www.crisisgroup.org/home/index.cfm?id=2436&l=1'>International Crisis Group - Iraq</a></li>
+<li><a href='http://www.iraqbodycount.org/'>Iraq Body Count</a></li>
+<li><a href='http://www.iraq-businessnews.com/'>Iraq-Business News</a></li>
+<li><a href='http://www.irinnews.org/ME-Country.aspx?Country=IQ'>IRIN - Iraq</a></li>
+<li><a href='http://www.kurdishglobe.net/index.html'>Kurdish Globe</a></li>
+<li><a href='http://kurdistantribune.com/'>Kurdistan Tribune</a></li>
+<li><a href='http://www.mesop.de/category/sued-kurdistan/'>Mesopotamische Gesellschaft</a></li>
+<li><a href='http://www.ninanews.com/english/News_Menu.asp?Zr07_VQ=I'>National Iraqi News Agency</a></li>
+<li><a href='http://www.npr.org/templates/topics/topic.php?topicId=1010'>National Public Radio - Iraq</a></li>
+<li><a href='http://topics.nytimes.com/top/news/international/countriesandterritories/iraq/index.html'>New York Times - Iraq</a></li>
+<li><a href='http://www.niqash.org/content.php?contentTypeID=75&lang=0'>niqash</a></li>
+<li><a href='http://www.rferl.org/featuresarchive/country/iraq.html'>Radio Free Europe/Radio Liberty - Iraq</a></li>
+<li><a href='http://www.reliefweb.int/rw/dbc.nsf/doc108?OpenForm&emid=ACOS-635P5D&rc=3'>Relief Web - Iraq</a></li>
+<li><a href='http://www.rudaw.net/english/'>Rudaw</a></li>
+<li><a href='http://www.shafaaq.com/en/politics.html'>Shafaq News</a></li>
+<li><a href='http://www.stripes.com/news.asp'>Stars and Stripes</a></li>
+<li><a href='http://www.thenational.ae/section/NEWS&profile=1011'>The National</a></li>
+<li><a href='http://www.uniraq.org/'>UNAMI</a></li>
+<li><a href='http://www.unhcr.org/iraq.html'>UNHCR - Iraq</a></li>
+<li><a href='http://www.washingtoninstitute.org/templateI03.php?SID=7&newActiveSubNav=Iraq&activeSubNavLink=templateI03.php%3FSID%3D7&newActiveNav=researchAreas'>Washington Institute for Near East Policy - Iraq</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=LinkList&widgetId=LinkList1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList1"));' target='configLinkList1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Label' id='Label1'>
+<h2>Labels</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/1991%20Shiite%20Uprising'>1991 Shiite Uprising</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/1993%20World%20Trade%20Center%20bombing'>1993 World Trade Center bombing</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/2005%20Iraqi%20Elections'>2005 Iraqi Elections</a>
+<span dir='ltr'>(41)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/2009%20Kurdish%20Elections'>2009 Kurdish Elections</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/2009%20Provincial%20Elections'>2009 Provincial Elections</a>
+<span dir='ltr'>(113)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/2010%20Parliamentary%20Election'>2010 Parliamentary Election</a>
+<span dir='ltr'>(251)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/2013%20Kurdish%20Elections'>2013 Kurdish Elections</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/2013%20Provincial%20Elections'>2013 Provincial Elections</a>
+<span dir='ltr'>(25)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/2014%20Parliamentary%20Elections'>2014 Parliamentary Elections</a>
+<span dir='ltr'>(7)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/9%2F11'>9/11</a>
+<span dir='ltr'>(10)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Abu%20Ghraib'>Abu Ghraib</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Afghanistan'>Afghanistan</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Al%20Qaeda%20in%20Iraq'>Al Qaeda in Iraq</a>
+<span dir='ltr'>(190)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/al-Hadbaa%20Party'>al-Hadbaa Party</a>
+<span dir='ltr'>(34)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Albania'>Albania</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Amnesty%20Law'>Amnesty Law</a>
+<span dir='ltr'>(10)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Anbar'>Anbar</a>
+<span dir='ltr'>(186)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Anfal'>Anfal</a>
+<span dir='ltr'>(14)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Ansar%20al-Islam'>Ansar al-Islam</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Arab%20Neighbors'>Arab Neighbors</a>
+<span dir='ltr'>(33)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Arif'>Arif</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Armenia'>Armenia</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Australia'>Australia</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Awakening'>Awakening</a>
+<span dir='ltr'>(56)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Ayatollah%20Sistani'>Ayatollah Sistani</a>
+<span dir='ltr'>(19)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Baathists'>Baathists</a>
+<span dir='ltr'>(32)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Babil'>Babil</a>
+<span dir='ltr'>(100)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Badr%20Organization'>Badr Organization</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Baghdad'>Baghdad</a>
+<span dir='ltr'>(389)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Banks'>Banks</a>
+<span dir='ltr'>(13)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Basra'>Basra</a>
+<span dir='ltr'>(195)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Bosnia'>Bosnia</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/British'>British</a>
+<span dir='ltr'>(67)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Budget'>Budget</a>
+<span dir='ltr'>(76)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Bulgaria'>Bulgaria</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Bush%20Administration'>Bush Administration</a>
+<span dir='ltr'>(106)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/census'>census</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Cheney'>Cheney</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Chilcot%20Inquiry'>Chilcot Inquiry</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Cholera'>Cholera</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Christians'>Christians</a>
+<span dir='ltr'>(41)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Clinton%20Administration'>Clinton Administration</a>
+<span dir='ltr'>(7)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Coalition%20of%20the%20Willing'>Coalition of the Willing</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Coalition%20Provisional%20Authority'>Coalition Provisional Authority</a>
+<span dir='ltr'>(69)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Communist%20Party'>Communist Party</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/constitution'>constitution</a>
+<span dir='ltr'>(16)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Contractors'>Contractors</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Corruption'>Corruption</a>
+<span dir='ltr'>(124)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Creation%20Of%20Iraq'>Creation Of Iraq</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Crime'>Crime</a>
+<span dir='ltr'>(19)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/CURVEBALL'>CURVEBALL</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Czech'>Czech</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Dawa'>Dawa</a>
+<span dir='ltr'>(53)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/De-Baathification'>De-Baathification</a>
+<span dir='ltr'>(47)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Debt'>Debt</a>
+<span dir='ltr'>(7)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Denmark'>Denmark</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Dhi%20Qar'>Dhi Qar</a>
+<span dir='ltr'>(84)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Dinar'>Dinar</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Disputed%20Territories'>Disputed Territories</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Diyala'>Diyala</a>
+<span dir='ltr'>(156)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Dohuk'>Dohuk</a>
+<span dir='ltr'>(34)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Drought'>Drought</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Economy'>Economy</a>
+<span dir='ltr'>(203)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Education'>Education</a>
+<span dir='ltr'>(25)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Egypt'>Egypt</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/El%20Salvador'>El Salvador</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Electricity'>Electricity</a>
+<span dir='ltr'>(92)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Estonia'>Estonia</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Fadhila'>Fadhila</a>
+<span dir='ltr'>(23)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Fallujah'>Fallujah</a>
+<span dir='ltr'>(23)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Farming'>Farming</a>
+<span dir='ltr'>(18)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Feith'>Feith</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Female%20Suicide%20Bombers'>Female Suicide Bombers</a>
+<span dir='ltr'>(8)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/food'>food</a>
+<span dir='ltr'>(14)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/France'>France</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Future%20of%20Iraq'>Future of Iraq</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/garbage'>garbage</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/GDP'>GDP</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Gen.%20Qasim'>Gen. Qasim</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/General%20Council%20for%20the%20People%20of%20Iraq'>General Council for the People of Iraq</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Georgia'>Georgia</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Germany'>Germany</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Government%20Salaries'>Government Salaries</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Gulf%20War'>Gulf War</a>
+<span dir='ltr'>(54)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/gypsies'>gypsies</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Hard%20Lessons'>Hard Lessons</a>
+<span dir='ltr'>(24)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Health'>Health</a>
+<span dir='ltr'>(29)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Hezbollah'>Hezbollah</a>
+<span dir='ltr'>(19)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/History'>History</a>
+<span dir='ltr'>(98)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Housing'>Housing</a>
+<span dir='ltr'>(8)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Imports'>Imports</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Industry'>Industry</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Inflation'>Inflation</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Insurgency'>Insurgency</a>
+<span dir='ltr'>(305)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Intelligence%20Agencies'>Intelligence Agencies</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Interim%20Iraqi%20Government'>Interim Iraqi Government</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Interview'>Interview</a>
+<span dir='ltr'>(44)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iran'>Iran</a>
+<span dir='ltr'>(242)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iran-Iraq%20War'>Iran-Iraq War</a>
+<span dir='ltr'>(26)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraq%20Al%20Qaeda%20Connection'>Iraq Al Qaeda Connection</a>
+<span dir='ltr'>(16)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraq%20Experts'>Iraq Experts</a>
+<span dir='ltr'>(19)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraq%20National%20Project'>Iraq National Project</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20Accordance%20Front'>Iraqi Accordance Front</a>
+<span dir='ltr'>(31)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20Deaths'>Iraqi Deaths</a>
+<span dir='ltr'>(127)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20Islamic%20Party'>Iraqi Islamic Party</a>
+<span dir='ltr'>(27)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20Nation%20Party'>Iraqi Nation Party</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20National%20Congress'>Iraqi National Congress</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20National%20Dialogue%20Council'>Iraqi National Dialogue Council</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20National%20List'>Iraqi National List</a>
+<span dir='ltr'>(18)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20National%20Movement'>Iraqi National Movement</a>
+<span dir='ltr'>(148)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20Press'>Iraqi Press</a>
+<span dir='ltr'>(14)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqi%20Public%20Opinion'>Iraqi Public Opinion</a>
+<span dir='ltr'>(31)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iraqiya'>Iraqiya</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Irbil'>Irbil</a>
+<span dir='ltr'>(47)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Israel'>Israel</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Italy'>Italy</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Iyad%20Allawi'>Iyad Allawi</a>
+<span dir='ltr'>(55)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Jaafari%20Government'>Jaafari Government</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Japan'>Japan</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Jay%20Garner'>Jay Garner</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Jews'>Jews</a>
+<span dir='ltr'>(8)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Joe%20Wilson'>Joe Wilson</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Jordan'>Jordan</a>
+<span dir='ltr'>(7)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Justice%20System'>Justice System</a>
+<span dir='ltr'>(37)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Karbala'>Karbala</a>
+<span dir='ltr'>(97)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Khanaqin%20District'>Khanaqin District</a>
+<span dir='ltr'>(14)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Khoei'>Khoei</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Kirkuk'>Kirkuk</a>
+<span dir='ltr'>(90)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Korea'>Korea</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Kurdish%20National%20Assembly%20Elections'>Kurdish National Assembly Elections</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Kurds'>Kurds</a>
+<span dir='ltr'>(544)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Kuwait'>Kuwait</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Latvia'>Latvia</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Libya'>Libya</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Life%20in%20Iraq'>Life in Iraq</a>
+<span dir='ltr'>(186)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Lithuania'>Lithuania</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Local%20councils'>Local councils</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Looting'>Looting</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Macedonia'>Macedonia</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Maliki%20Government'>Maliki Government</a>
+<span dir='ltr'>(782)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Mandeans'>Mandeans</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Marsh%20Arabs'>Marsh Arabs</a>
+<span dir='ltr'>(14)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Maysan'>Maysan</a>
+<span dir='ltr'>(73)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/measles'>measles</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Monarchy'>Monarchy</a>
+<span dir='ltr'>(14)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Mosul'>Mosul</a>
+<span dir='ltr'>(57)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Mutahidun'>Mutahidun</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Muthanna'>Muthanna</a>
+<span dir='ltr'>(50)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Najaf'>Najaf</a>
+<span dir='ltr'>(86)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Nasiriyah'>Nasiriyah</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/National%20Accordance%20Front'>National Accordance Front</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/National%20Alliance'>National Alliance</a>
+<span dir='ltr'>(50)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/National%20Assembly%20of%20Iraqis'>National Assembly of Iraqis</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/National%20Dialogue%20Front'>National Dialogue Front</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/National%20Reform%20Party'>National Reform Party</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Natural%20Gas'>Natural Gas</a>
+<span dir='ltr'>(35)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Neoconservatives'>Neoconservatives</a>
+<span dir='ltr'>(10)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/New%20Zealand'>New Zealand</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Niger'>Niger</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Ninewa'>Ninewa</a>
+<span dir='ltr'>(138)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Nixon%20Administration'>Nixon Administration</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/no%20fly%20zones'>no fly zones</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Nuclear%20Program'>Nuclear Program</a>
+<span dir='ltr'>(18)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Obama%20Administration'>Obama Administration</a>
+<span dir='ltr'>(142)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Office%20of%20Reconstruction%20and%20Humanitarian%20Affairs'>Office of Reconstruction and Humanitarian Affairs</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Oil'>Oil</a>
+<span dir='ltr'>(333)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Oil%20for%20Food%20Program'>Oil for Food Program</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/OPEC'>OPEC</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Operation%20Desert%20Fox'>Operation Desert Fox</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Ottomans'>Ottomans</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Palestinians'>Palestinians</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/PKK'>PKK</a>
+<span dir='ltr'>(33)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Poland'>Poland</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/poverty'>poverty</a>
+<span dir='ltr'>(24)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Powell'>Powell</a>
+<span dir='ltr'>(8)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Prisoners'>Prisoners</a>
+<span dir='ltr'>(28)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Protests'>Protests</a>
+<span dir='ltr'>(158)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Qadisiyah'>Qadisiyah</a>
+<span dir='ltr'>(69)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Ramadan'>Ramadan</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Reagan%20administration'>Reagan administration</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Reconciliation'>Reconciliation</a>
+<span dir='ltr'>(7)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Reconstruction'>Reconstruction</a>
+<span dir='ltr'>(102)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Refugees'>Refugees</a>
+<span dir='ltr'>(140)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Reporting'>Reporting</a>
+<span dir='ltr'>(39)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Resayloon%20Party'>Resayloon Party</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Rice'>Rice</a>
+<span dir='ltr'>(10)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Romania'>Romania</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Rumsfeld'>Rumsfeld</a>
+<span dir='ltr'>(22)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Russia'>Russia</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Saddam'>Saddam</a>
+<span dir='ltr'>(145)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Sadr'>Sadr</a>
+<span dir='ltr'>(269)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Salahaddin'>Salahaddin</a>
+<span dir='ltr'>(105)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Saleh%20al-Mutlaq'>Saleh al-Mutlaq</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Saudi%20Arabia'>Saudi Arabia</a>
+<span dir='ltr'>(18)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Sectarianism'>Sectarianism</a>
+<span dir='ltr'>(39)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Security%20Forces'>Security Forces</a>
+<span dir='ltr'>(236)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Shabaks'>Shabaks</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Sons%20of%20Iraq'>Sons of Iraq</a>
+<span dir='ltr'>(65)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/South%20Korea'>South Korea</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Special%20Groups'>Special Groups</a>
+<span dir='ltr'>(88)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Status%20of%20Forces%20Agreement'>Status of Forces Agreement</a>
+<span dir='ltr'>(34)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Stock%20Exchange'>Stock Exchange</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Sulaymaniya'>Sulaymaniya</a>
+<span dir='ltr'>(42)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Supreme%20Islamic%20Iraqi%20Council'>Supreme Islamic Iraqi Council</a>
+<span dir='ltr'>(127)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Surge'>Surge</a>
+<span dir='ltr'>(52)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Syria'>Syria</a>
+<span dir='ltr'>(118)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Tamim'>Tamim</a>
+<span dir='ltr'>(111)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Tony%20Blair'>Tony Blair</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Torture'>Torture</a>
+<span dir='ltr'>(38)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Training'>Training</a>
+<span dir='ltr'>(42)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Transitional%20Administrative%20Law'>Transitional Administrative Law</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Tribal%20Support%20Councils'>Tribal Support Councils</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/tribes'>tribes</a>
+<span dir='ltr'>(7)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Troop%20Levels'>Troop Levels</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Turkey'>Turkey</a>
+<span dir='ltr'>(77)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Turkmen'>Turkmen</a>
+<span dir='ltr'>(18)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.N.%20Inspectors'>U.N. Inspectors</a>
+<span dir='ltr'>(27)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.N.%20sanctions'>U.N. sanctions</a>
+<span dir='ltr'>(17)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.S.%20aid'>U.S. aid</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.S.%20Casualties'>U.S. Casualties</a>
+<span dir='ltr'>(18)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.S.%20Intelligence'>U.S. Intelligence</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.S.%20Invasion'>U.S. Invasion</a>
+<span dir='ltr'>(152)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.S.%20Public%20Opinion'>U.S. Public Opinion</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.S.%20Strategy'>U.S. Strategy</a>
+<span dir='ltr'>(66)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/U.S.%20Troop%20Levels'>U.S. Troop Levels</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/UAE'>UAE</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Ukraine'>Ukraine</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/unions'>unions</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/United%20Iraqi%20Alliance'>United Iraqi Alliance</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/United%20Nations'>United Nations</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Unity%20of%20Iraq'>Unity of Iraq</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Valerie%20Plame'>Valerie Plame</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Violence'>Violence</a>
+<span dir='ltr'>(504)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Wasit'>Wasit</a>
+<span dir='ltr'>(82)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Water'>Water</a>
+<span dir='ltr'>(21)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Withdrawal'>Withdrawal</a>
+<span dir='ltr'>(247)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/WMD'>WMD</a>
+<span dir='ltr'>(55)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Wolfowitz'>Wolfowitz</a>
+<span dir='ltr'>(13)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/women'>women</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Yazidis'>Yazidis</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='http://musingsoniraq.blogspot.com/search/label/Zarqawi'>Zarqawi</a>
+<span dir='ltr'>(12)</span>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' target='configLabel1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' id='HTML3'>
+<h2 class='title'>Zimbio</h2>
+<div class='widget-content'>
+<a href="http://www.zimbio.com/member/motown67"> <img border="0" alt="My Zimbio" src="http://www.zimbio.com/images/badges/badgeBlue.png?u=motown67" title="My Zimbio"/></a><br/> <a style="margin-top:2px; display:block; font-size:11px; padding-left:10px; color:#244366;" href="http://www.zimbio.com"> Top Stories </a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3'><div class='widget Attribution' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Powered by <a href='http://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=1953410733493889728&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/645744161-widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV2";window['blogger_blog_id'] = '1953410733493889728';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d1953410733493889728','//musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html','1953410733493889728');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '1953410733493889728', 'bloggerUrl': 'http://www.blogger.com', 'title': 'MUSINGS ON IRAQ', 'pageType': 'item', 'url': 'http://musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html', 'canonicalUrl': 'http://musingsoniraq.blogspot.com/2014/01/video-mujahadeen-in-control-of-fallujah.html', 'canonicalHomepageUrl': 'http://musingsoniraq.blogspot.com/', 'homepageUrl': 'http://musingsoniraq.blogspot.com/', 'blogspotFaviconUrl': 'http://musingsoniraq.blogspot.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'VIDEO: Mujahadeen In Control Of Fallujah, Jan. 1, 2014', 'pageTitle': 'MUSINGS ON IRAQ: VIDEO: Mujahadeen In Control Of Fallujah, Jan. 1, 2014', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42MUSINGS ON IRAQ - Atom\42 href\75\42http://musingsoniraq.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42MUSINGS ON IRAQ - RSS\42 href\75\42http://musingsoniraq.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42MUSINGS ON IRAQ - Atom\42 href\75\42http://www.blogger.com/feeds/1953410733493889728/posts/default\42 /\76\n\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42MUSINGS ON IRAQ - Atom\42 href\75\42http://musingsoniraq.blogspot.com/feeds/2358019208751533542/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42jstiming\42,k\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[k](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[g].srt\75h-c)}if(a){var e\75b[g].load;0\74c\46\46h\76\75c\46\46(e[k](\42_wtsrt\42,void 0,c),e[k](\42wtsrt_\42,\42_wtsrt\42,h),e[k](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[k](\42_tbnd\42,void 0,b[f].csi().startE),e[k](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[k](\42_tbnd\42,void 0,b.external.startE),e[k](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[g].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[g].load[k](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[g].load[k](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42https://www.blogger.com/static/v1/jsbin/850967532-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/d6f37bb30c327165', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'testHtml5CssSrc': 'https://www.blogger.com/static/v1/widgets/2412321170-css_bundle_html5.css', 'sf': 'n', 'tf': ''}}, {'name': 'skin', 'data': {'vars': {'mobile_background_overlay': '', 'tabs_background_color': '#fff5b7', 'body_background_gradient': 'none', 'tabs_selected_background_color': '#eddc83', 'link_hover_color': '#6fa8dc', 'post_title_text_color': '#000000', 'description_text_color': '#e3a327', 'body_text_color': '#000000', 'link_visited_color': '#6fa8dc', 'mobile_background_size': 'auto', 'date_space': '15px', 'tabs_border_bevel_color': '#eddc83', 'post_title_font': 'normal bold 24px \47Times New Roman\47, Times, FreeSerif, serif', 'body_background_imageBorder': 'none', 'tabs_text_color': '#627349', 'endSide': 'right', 'startSide': 'left', 'link_visited_decoration': 'none', 'header_background_gradient': 'none', 'tabs_font': 'normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_font': 'normal normal 14px \47Times New Roman\47, Times, FreeSerif, serif', 'body_background_imageBorder_position_left': '0', 'link_hover_decoration': 'underline', 'body_border_color': '#d8af4c', 'widget_title_font': 'normal bold 12px Verdana, Geneva, sans-serif', 'widget_title_text_color': '#000000', 'body_background': '#e3a327 url(http://4.bp.blogspot.com/-sCytAX0TFgo/UBjIt1I-hGI/AAAAAAAACSs/7y-8mnX2Cl0/s0/iraq_flag_with_holes_caused_by_us.jpe) repeat scroll top left', 'link_decoration': 'none', 'content_background_gradient': 'none', 'link_color': '#627349', 'content_background_color': '#ffffff', 'widget_title_border_bevel_color': 'transparent', 'keycolor': '#fff5b7', 'header_font': 'normal bold 60px \47Times New Roman\47, Times, FreeSerif, serif', 'header_text_color': '#e3a327', 'widget_padding_top': '15px', 'widget_border_bevel_color': '#f9f9f9', 'tabs_selected_text_color': '#627349', 'body_background_imageBorder_position_right': '0', 'body_background_color': '#e3a327', 'post_first_padding_top': '0', 'widget_alternate_text_color': '#000000'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_GadgetView', new _WidgetInfo('Gadget1', 'sidebar-right-1', null, document.getElementById('Gadget1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'sidebar-right-1', null, document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar-right-1', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar-right-1', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar-right-1', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar-right-1', null, document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar-right-1', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList2', 'sidebar-right-1', null, document.getElementById('LinkList2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar-right-1', null, document.getElementById('BlogList1'), {'numItemsToShow': 0, 'totalItems': 11}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image7', 'sidebar-right-1', null, document.getElementById('Image7'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image10', 'sidebar-right-1', null, document.getElementById('Image10'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image8', 'sidebar-right-1', null, document.getElementById('Image8'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image6', 'sidebar-right-1', null, document.getElementById('Image6'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image33', 'sidebar-right-1', null, document.getElementById('Image33'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image34', 'sidebar-right-1', null, document.getElementById('Image34'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image35', 'sidebar-right-1', null, document.getElementById('Image35'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image36', 'sidebar-right-1', null, document.getElementById('Image36'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image37', 'sidebar-right-1', null, document.getElementById('Image37'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image38', 'sidebar-right-1', null, document.getElementById('Image38'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image39', 'sidebar-right-1', null, document.getElementById('Image39'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image40', 'sidebar-right-1', null, document.getElementById('Image40'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image11', 'sidebar-right-1', null, document.getElementById('Image11'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image9', 'sidebar-right-1', null, document.getElementById('Image9'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image13', 'sidebar-right-1', null, document.getElementById('Image13'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image12', 'sidebar-right-1', null, document.getElementById('Image12'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar-right-1', null, document.getElementById('Image2'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image23', 'sidebar-right-1', null, document.getElementById('Image23'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image5', 'sidebar-right-1', null, document.getElementById('Image5'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image3', 'sidebar-right-1', null, document.getElementById('Image3'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image4', 'sidebar-right-1', null, document.getElementById('Image4'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image14', 'sidebar-right-1', null, document.getElementById('Image14'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image15', 'sidebar-right-1', null, document.getElementById('Image15'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image20', 'sidebar-right-1', null, document.getElementById('Image20'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image24', 'sidebar-right-1', null, document.getElementById('Image24'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image26', 'sidebar-right-1', null, document.getElementById('Image26'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image25', 'sidebar-right-1', null, document.getElementById('Image25'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image17', 'sidebar-right-1', null, document.getElementById('Image17'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image27', 'sidebar-right-1', null, document.getElementById('Image27'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image21', 'sidebar-right-1', null, document.getElementById('Image21'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image28', 'sidebar-right-1', null, document.getElementById('Image28'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image16', 'sidebar-right-1', null, document.getElementById('Image16'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image22', 'sidebar-right-1', null, document.getElementById('Image22'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image18', 'sidebar-right-1', null, document.getElementById('Image18'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image29', 'sidebar-right-1', null, document.getElementById('Image29'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image19', 'sidebar-right-1', null, document.getElementById('Image19'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image31', 'sidebar-right-1', null, document.getElementById('Image31'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image30', 'sidebar-right-1', null, document.getElementById('Image30'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image32', 'sidebar-right-1', null, document.getElementById('Image32'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar-right-1', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar-right-1', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-right-1', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {'attribution': 'Powered by \74a href\75\47http://www.blogger.com\47 target\75\47_blank\47\76Blogger\74/a\76.'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'showBacklinks': true, 'postId': '2358019208751533542', 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1890062674-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/4138445517-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'null', null, document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'href': 'http://musingsoniraq.blogspot.com/', 'title': 'Home', 'isCurrentPage': false}], 'mobile': false}, 'displayModeFull'));
+</script>
+</body>
+</html>
