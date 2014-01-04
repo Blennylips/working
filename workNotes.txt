@@ -1,0 +1,32 @@
+intext:whales intext:"west coast" intext:fukushima inurl:blogspot
+http://augureye.blogspot.com/2013/03/fukushima-monster-under-our-bed.html
+intextwhales_intextqwest+coastq_intextfukushima
+
+www.moonofalabama.org_2014_01_hopeless-for-ohanlon.txt
+10bennettave.blogspot.com.txt
+
+Adventures in Ethics and Science 
+http://scientopia.org/blogs/ethicsandscience/2014/01/03/guest-post-missteps-on-the-road-back/
+source of scientopia.org_blogs_ethicsandscience_2014_01_03_guest-post-missteps-on-the-road-back.txt
+The Flying Trilobite - glendonmellow.blogspot.com
+source of glendonmellow.blogspot.com.txt
+weird imagery with keyword salad
+Labels: ArtRage, iPad, personal, Holiday, Trilobite, ArtRage, iPad, Trilobite Boy, #sciart,  digital, intuos, 
+ Copyright © 2007, 2008, 2009, 2010, 2011, 2012, 2013 Glendon Mellow. All rights reserved. See Creative Commons Licence above in the sidebar for details.
+
+ eats shoots n leaves
+http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/
+source of richardbrenneman.wordpress.com_2014_01_03_quote-of-the-day-the-uranium-boom-of-2014.txts
+probably okay
+
+intext:"public relations" inurl:blogspot
+intextqpublic+relationsq+inurlblogspot
+The Project-Based Middle School Music Class (Part 1)
+
+Public Relations
+intextqpublic+relationsq+inurlblogspot.jpg
+My Music Tech
+source of mymusictech.blogspot.com.txt
+Line 430: <a href='http://mymusictech.blogspot.com/2013/01/the-project-based-music-class-part-1.html'>The Project-Based Middle School Music Class (Part 1)</a>
+source of mymusictech.blogspot.com_2013_01_the-project-based-music-class-part1.txt
+diff of 2 sources of mymusictech.blogspot.com_2013_01_the-project-based-music-class-part1

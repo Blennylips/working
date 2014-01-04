@@ -1,0 +1,1289 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">http://historyunfolding.blogspot.com/
+View Blog
+<head>
+  <title>History Unfolding</title>
+
+  <script type="text/javascript">(function() { var b=window,f="chrome",g="jstiming",k="tick";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[k]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var n=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:n};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[g].srt=h-c)}if(a){var e=b[g].load;0<c&&h>=c&&(e[k]("_wtsrt",void 0,c),e[k]("wtsrt_","_wtsrt",h),e[k]("tbsd_","wtsrt_"))}try{a=null,
+b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[k]("_tbnd",void 0,b[f].csi().startE),e[k]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[k]("_tbnd",void 0,b.external.startE),e[k]("tbnd_","_tbnd",c))),a&&(b[g].pt=a)}catch(p){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[g].load[k]("aft")};var l=!1;function m(){l||(l=!0,b[g].load[k]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",m,!1):b.attachEvent("onscroll",m);
+ })();</script><script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
+</script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Blogger" />
+<link rel="icon" type="image/vnd.microsoft.icon" href="http://www.blogger.com/favicon.ico"/>
+<link rel="alternate" type="application/atom+xml" title="History Unfolding - Atom" href="http://historyunfolding.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="History Unfolding - RSS" href="http://historyunfolding.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="History Unfolding - Atom" href="http://www.blogger.com/feeds/8746692/posts/default" />
+<link rel="stylesheet" type="text/css" href="https://www.blogger.com/static/v1/v-css/50269083-blog_controls.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=8746692&zx=ef0c7bec-f60b-4856-a59c-3bf14477df7a"/>
+
+
+  <style type="text/css">
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima
+Designer: Douglas Bowman
+URL:      www.stopdesign.com
+Date:     26 Feb 2004
+----------------------------------------------- */
+
+
+body {
+  background:#fff;
+  margin:0;
+  padding:40px 20px;
+  font:x-small Georgia,Serif;
+  text-align:center;
+  color:#333;
+  font-size/* */:/**/small;
+  font-size: /**/small;
+  }
+a:link {
+  color:#58a;
+  text-decoration:none;
+  }
+a:visited {
+  color:#969;
+  text-decoration:none;
+  }
+a:hover {
+  color:#c60;
+  text-decoration:underline;
+  }
+a img {
+  border-width:0;
+  }
+
+
+/* Header
+----------------------------------------------- */
+@media all {
+  #header {
+    width:660px;
+    margin:0 auto 10px;
+    border:1px solid #ccc;
+    }
+  }
+@media handheld {
+  #header {
+    width:90%;
+    }
+  }
+#blog-title {
+  margin:5px 5px 0;
+  padding:20px 20px .25em;
+  border:1px solid #eee;
+  border-width:1px 1px 0;
+  font-size:200%;
+  line-height:1.2em;
+  font-weight:normal;
+  color:#666;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  }
+#blog-title a {
+  color:#666;
+  text-decoration:none;
+  }
+#blog-title a:hover {
+  color:#c60;
+  }
+#description {
+  margin:0 5px 5px;
+  padding:0 20px 20px;
+  border:1px solid #eee;
+  border-width:0 1px 1px;
+  max-width:700px;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+
+
+/* Content
+----------------------------------------------- */
+@media all {
+  #content {
+    width:660px;
+    margin:0 auto;
+    padding:0;
+    text-align:left;
+    }
+  #main {
+    width:410px;
+    float:left;
+    }
+  #sidebar {
+    width:220px;
+    float:right;
+    }
+  }
+@media handheld {
+  #content {
+    width:90%;
+    }
+  #main {
+    width:100%;
+    float:none;
+    }
+  #sidebar {
+    width:100%;
+    float:none;
+    }
+  }
+
+/* Headings
+----------------------------------------------- */
+h2 {
+  margin:1.5em 0 .75em;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+
+
+/* Posts
+----------------------------------------------- */
+@media all {
+  .date-header {
+    margin:1.5em 0 .5em;
+    }
+  .post {
+    margin:.5em 0 1.5em;
+    border-bottom:1px dotted #ccc;
+    padding-bottom:1.5em;
+    }
+  }
+@media handheld {
+  .date-header {
+    padding:0 1.5em 0 1.5em;
+    }
+  .post {
+    padding:0 1.5em 0 1.5em;
+    }
+  }
+.post-title {
+  margin:.25em 0 0;
+  padding:0 0 4px;
+  font-size:140%;
+  font-weight:normal;
+  line-height:1.4em;
+  color:#c60;
+  }
+.post-title a, .post-title a:visited, .post-title strong {
+  display:block;
+  text-decoration:none;
+  color:#c60;
+  font-weight:normal;
+  }
+.post-title strong, .post-title a:hover {
+  color:#333;
+  }
+.post div {
+  margin:0 0 .75em;
+  line-height:1.6em;
+  }
+p.post-footer {
+  margin:-.25em 0 0;
+  color:#ccc;
+  }
+.post-footer em, .comment-link {
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+.post-footer em {
+  font-style:normal;
+  color:#999;
+  margin-right:.6em;
+  }
+.comment-link {
+  margin-left:.6em;
+  }
+.post img {
+  padding:4px;
+  border:1px solid #ddd;
+  }
+.post blockquote {
+  margin:1em 20px;
+  }
+.post blockquote p {
+  margin:.75em 0;
+  }
+
+
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+  margin:1em 0;
+  font:bold 78%/1.6em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+#comments h4 strong {
+  font-size:130%;
+  }
+#comments-block {
+  margin:1em 0 1.5em;
+  line-height:1.6em;
+  }
+#comments-block dt {
+  margin:.5em 0;
+  }
+#comments-block dd {
+  margin:.25em 0 0;
+  }
+#comments-block dd.comment-timestamp {
+  margin:-.25em 0 2em;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+#comments-block dd p {
+  margin:0 0 .75em;
+  }
+.deleted-comment {
+  font-style:italic;
+  color:gray;
+  }
+
+
+/* Sidebar Content
+----------------------------------------------- */
+#sidebar ul {
+  margin:0 0 1.5em;
+  padding:0 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  list-style:none;
+  }
+#sidebar li {
+  margin:0;
+  padding:0 0 .25em 15px;
+  text-indent:-15px;
+  line-height:1.5em;
+  }
+#sidebar p {
+  color:#666;
+  line-height:1.5em;
+  }
+
+
+/* Profile
+----------------------------------------------- */
+#profile-container {
+  margin:0 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  padding-bottom:1.5em;
+  }
+.profile-datablock {
+  margin:.5em 0 .5em;
+  }
+.profile-img {
+  display:inline;
+  }
+.profile-img img {
+  float:left;
+  padding:4px;
+  border:1px solid #ddd;
+  margin:0 8px 3px 0;
+  }
+.profile-data {
+  margin:0;
+  font:bold 78%/1.6em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+.profile-data strong {
+  display:none;
+  }
+.profile-textblock {
+  margin:0 0 .5em;
+  }
+.profile-link {
+  margin:0;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+
+
+/* Footer
+----------------------------------------------- */
+#footer {
+  width:660px;
+  clear:both;
+  margin:0 auto;
+  }
+#footer hr {
+  display:none;
+  }
+#footer p {
+  margin:0;
+  padding-top:15px;
+  font:78%/1.6em "Trebuchet MS",Trebuchet,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+  </style>
+
+<link rel="me" href="http://www.blogger.com/profile/05020082243968071584" />
+<link rel="openid.server" href="http://www.blogger.com/openid-server.g" />
+<!-- --><style type="text/css">@import url(https://www.blogger.com/static/v1/v-css/navbar/3334278262-classic.css);
+div.b-mobile {display:none;}
+</style>
+
+</head>
+
+<body><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+          if (gapi.iframes && gapi.iframes.getContext) {
+            gapi.iframes.getContext().openChild({
+                url: '//www.blogger.com/navbar.g?targetBlogID\758746692\46blogName\75History+Unfolding\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75LIGHT\46layoutType\75CLASSIC\46searchRoot\75http://historyunfolding.blogspot.com/search\46blogLocale\75en\46v\0752\46homepageUrl\75http://historyunfolding.blogspot.com/\46vt\75977320520112607745',
+                where: document.getElementById("navbar-iframe-container"),
+                id: "navbar-iframe"
+            });
+          }
+        });
+      </script>
+
+<div id="header">
+
+  <h1 id="blog-title">
+    
+	History Unfolding
+	
+  </h1>
+  <p id="description">A historian's comments on current events, foreign and domestic.</p>
+
+</div>
+
+<!-- Begin #content -->
+<div id="content">
+
+
+<!-- Begin #main -->
+<div id="main"><div id="main2">
+
+
+
+    
+  <h2 class="date-header">Saturday, December 28, 2013</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="6759682566889772638"></a>
+         
+    <h3 class="post-title">
+	 
+	 Governments and peoples
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      The Middle East suffers from an enormous problem: many nations lack any consensus on how they should be governed.&nbsp; Shi'ia and Sunni factions contend for power in Syria, Iraq, Bahrain, and elsewhere.&nbsp; In Egypt, the military-backed government has just declared the Muslim Brotherhood, which won Egypt's only genuine free election in its entire history, a terrorist organization.&nbsp; Meanwhile, various states enjoying relative stability, such as Turkey, Saudi Arabia, and Iran, are intervening in civil wars elsewhere.&nbsp; All this reminds me very much of early modern Europe, which I investigated pretty thoroughly back in the 1980s, and it isn't encouraging.&nbsp; But in the last two days, the Obama Administration has added a new element to the mix.<br />
+<br />
+Sunni extremists, including Al Queda elements, are getting more powerful in much of Iraq, and their bombings are taking an increasingly heavy toll on the majority Shi'ite population.&nbsp; The Obama Administration wisely decided to get the United States out of Iraq a couple of years ago, and I do not think that a continuing American presence would have helped.&nbsp; Now, however, the US has decided to come to the aid&nbsp; What disturbs me deeply is the manner in which we have decided to do so.<br />
+<br />
+A little historical background is in order.&nbsp; During the 45 years of the Cold War, both sides assumed that conventional war similar to the campaigns of the Second World War might occur at any moment.&nbsp; They spent billions preparing for it, developed sophisticated weapons, and, crucially, encouraged their regional allies to acquire such weapons as well.&nbsp; Billions of dollars worth of jet aircraft, tanks, artillery and much more went from the US, the Soviets and other nations to India and Pakistan, Egypt and Israel, Iran and Saudi Arabia, North and South Korea, North and South Vietnam, and elsewhere.&nbsp; Occassionally this weaponry was used in local wars.<br />
+<br />
+For the time being--and nothing lasts forever--the age of conventional warfare seems to over.&nbsp; The conflicts that rule the front pages are waged by insurgents of one kind or another against governments or occupiers, and terrorism has become the weapon of choice.&nbsp; Hamas and Hezbollah terrorist have also made extensive use of rockets.&nbsp;&nbsp; From time to time, Israel in Lebanon and Gaza and the United States in Afghanistan and Iraq have tried to deal with such groups with conventional forces.&nbsp; They generally score temporary successes, but with the exception of the Israelis in the West Bank, no one has been willing to prolong such an occupation indefinitely.&nbsp; As a result, they have turned to other strategies.<br />
+<br />
+The most common counter-insurgent strategy pursued by the most advanced nations originated in Israel: the use of aerial surveillance and air to ground missiles to kill individual militants.&nbsp; I don't believe I ever blogged about the excellent Israeli documentary <i>The Gatekeepers</i>, which consists of lengthy interviews with retired heads of Mossad, but they described the development of this stragegy and the problems of applying them.&nbsp; They generally agreed, moreover, that it did not provide any long-term solution to political problems.&nbsp; And in one particularly chilling moment, one of them mentioned the Israelis had taught Americans these techniques after 9/11.&nbsp; "I know," he said, "because I saw them."<br />
+<br />
+Drone strikes have now of course become the centerpiece of our strategy in Afghanistan and Pakistan.&nbsp; They kill individual militants.&nbsp; They often kill innocent civilians as well, and from time to time they are based upon faulty intelligence or analysis and kill nothing but innocent civilians.&nbsp; As in the West Bank and Gaza, there is no evidence that they reduce the supply of militants in the long run. Because they are aimed at militant leadership, they probably make it much harder eventually to negotiate peace.&nbsp; There is no evidence, in my opinion, that the contribute to building a more peaceful world.<br />
+<br />
+Now it seems that the Cold War precedent is about to be revived in the age of terror.&nbsp; The United States' response to the resurgent Al Queda and Sunni revolt in Iraq is to supply the Shi'ite government of Nouri Al-Maliki with drones and hellfire missiles.&nbsp; The Iraqi government will be able to turn them on their own people.&nbsp; In an atmosphere of long-term religious war, I find it very difficult to believe that they will use better intelligence or more discrimination than the US has, or that this tactic will contribute to peace in Iraq.&nbsp; And where will this lead?&nbsp; Will Russia soon be providing similar technology to the Assad regime in Syria?&nbsp;<br />
+<br />
+Researching my forthcoming book, I found that the leadership of the US government in 1940-1 believed deeply that civilized norms of behavior had to be preserved in international law.&nbsp; Americans throughout the twentieth century had shared that view, differing only on the degree to which the United States should try to compel observance of the norms in which it believed.&nbsp; That is why Roosevelt and his Administration designed the UN and other international institutions during the war.&nbsp; The richest and most domestically peaceful nations still have a responsibility, I think, to try to spread the rule of law.&nbsp; That is why I think the United States should be leading an international initiative to try to stop a long-term religious war in the Middle East.&nbsp; It is also why I believe that the United States should <i>not</i> be promoting the use of drones against domestic terrorists as a solution to anyone's domestic political problems. Yet I have not seen one word of protest against the new policy.
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by David Kaiser at <a href="http://historyunfolding.blogspot.com/2013/12/governments-and-peoples.html" title="permanent link">8:58 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=8746692&amp;postID=6759682566889772638"location.href=http://www.blogger.com/comment.g?blogID=8746692&postID=6759682566889772638;>3 comments</a>
+
+      
+  <span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=8746692&postID=6759682566889772638" title="Email Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_email.gif" height="13" width="18"/></a></span><span class="item-control blog-admin pid-1093273098"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=8746692&postID=6759682566889772638&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Friday, December 20, 2013</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="1570829332477569606"></a>
+         
+    <h3 class="post-title">
+	 
+	 Should governments help each other?
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      It now seems clear that the modern state reached the zenith of its power during the middle third of the twentieth century.&nbsp; Driven by a series of great wars, revolutions, and technological changes, states mobilized unprecedented numbers of men and resources, and enjoyed a remarkable degree of loyalty from their peoples.&nbsp; The western model of states based upon rational thought--whose offshoots included Communism--spread to nearly every corner of the globe and seemed to be wiping out any fundamental challenges to itself.&nbsp; Religious authority was in retreat even in most of the Islamic world for the first two thirds of the twentieth century.&nbsp; During the Cold War both the United States and the Soviet Union tried to strengthen states in all the nations that belonged to their alliances.&nbsp; States also assumed responsibility for the health of their nation's economies.<br />
+<br />
+The world rejoiced when perhaps the most highly organized state of all, the USSR, declined and then suddenly collapsed in the early 1990s.&nbsp; Francis Fukuyama boldly proclaimed the end of history and political conflict.&nbsp; But now, almost a quarter of a century later, the Soviet collapse strikes me as a kind of canary in a global coal mine, a symbol of things to come.&nbsp; States have weakened, militarily and otherwise, in much of the world over the last two decades.&nbsp;&nbsp; Conscription survives in only&nbsp; a few countries with major security threats, such as Israel, the two Koreas, Iran, and Saudi Arabia.&nbsp; Taxation has fallen drastically in most of the world, and global financial giants make governments tremble.&nbsp; The United States routinely carries out drone strikes that violent the most fundamental sovereignty of foreign govrnments and pay no respect to the lives and property of their citizens.&nbsp; Globalization has taken national economies out of the control of political authorities.&nbsp; With the exception of North Korea, even surviving Communist states exert far less control over their people and economy than they used to. &nbsp; And religious authority has made an astonishing comeback, not only in much of the Muslim world--including Turkey, once a secular bastion--but even here in the United States.<br />
+<br />
+This development is not entirely unwelcome; it has had many good consequences.&nbsp; The aggressor states of the twentieth century unleashed wars that killed tens of millions of people, and despite China's new round of saber-rattling over maritime rights, no one seems in the least likely to start such a war any time soon.&nbsp; The casualties in civil wars in places like Iraq and Syria still horrify us, but they do not compare in the least even to those in the opening conflicts of the Second World War, such as the Spanish Civil War and the Sino-Japanese war.&nbsp; We now fear terrorists that can kill hundreds or perhaps thousands of people, not armies that could kill hundreds of thousands, occupy whole nations, and redraw the map.&nbsp; Yet our new environment undoubtedly presents dangers of its own--and states are making them worse.<br />
+<br />
+The Second World War was an ideological fight to the death, but when it was over, the United States and the Soviet Union in effect accepted each other as the two leading nations of the world, especially after Stalin's death and the Cuban missile crisis.&nbsp; They competed for influence around the globe and spied upon each other, but they did very little to undermine one another's societies and governments. The third world was their main battleground. &nbsp; Today, on the hand weaker states are trying to increase one another's weakness in various ways.&nbsp; The Chinese hack into our computers; the United States has spied upon world leaders all over the globe.&nbsp; Russia is continually trying to intervene in the affairs of other former Soviet states, such as Ukraine.&nbsp; The Middle East has become the site of a wide-ranging religious war between Sunnis and Shi'ites, waged without regard to national sovereignty or traditional rules of diplomacy.&nbsp; Russia has also given asylum to Edward Snowden, an American who has embarrassed his own country to an extraordinary extent, and who has in so doing become a hero to millions of people around the world who distrust states, including many right here in the United States.&nbsp; Snowden exemplifies another trend, the use of contractors, rather than lifetime civil servants, to do important government work. &nbsp; An American Assistant Secretary of State visits Ukraine and meets openly with the leaders of protesters in a political crisis, an unheard of development in earlier eras.&nbsp; On the other hand, Secretary of State Kerry's recognition that a deal with Syria over chemical weapons made more sense than air strikes was a welcome exception to this trend--it acknowledged the authority of the Syrian state in an attempt to make its civil war less violent.&nbsp; The same applies, of course, to the potential nuclear agreement with Iran--although here in the United States the pro-Israel lobby is working to make the project fail.<br />
+<br />
+The weakness of states reflects profound intellectual changes as well.&nbsp; Nationalism is now almost the exclusive province of xenophobic extreme right groups, rather than an encouragement to make one's own country a better place, as it was in Kennedy's America or de Gaulle's France.&nbsp;&nbsp; Religion has trumped citizenship in large parts of the world, and has threatened to do so in some parts of the United States.&nbsp; In the western world, at least, the academy has lost interest in the great dramas of citizenship and statehood.&nbsp; For more than half a century we have taken the remarkable civic achievements of our parents and grandparents for granted.&nbsp; They have decayed as a result.<br />
+<br />
+Here in the United States last week's news was actually relatively encouraging.&nbsp; The budget deal signals an enormous power shift within the Republican Party and suggests that its attempt to dismantle the federal government--now finishing its third year--could soon be abandoned.&nbsp; Yet that will leave us with a status quo in which the federal government, to say nothing of the states, remains a shadow of its former self with respect to its power to promote the general welfare, much less play a major role in planning our economy.&nbsp; In any case, the trends I have been discussing are far too profound to be reversed merely by a couple of elections or a budget deal.&nbsp; They represent a turning point in western and world history, and I expect future generations to be dealing with their impact long after we have left the scene.
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by David Kaiser at <a href="http://historyunfolding.blogspot.com/2013/12/should-governments-help-each-other.html" title="permanent link">10:06 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=8746692&amp;postID=1570829332477569606"location.href=http://www.blogger.com/comment.g?blogID=8746692&postID=1570829332477569606;>5 comments</a>
+
+      
+  <span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=8746692&postID=1570829332477569606" title="Email Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_email.gif" height="13" width="18"/></a></span><span class="item-control blog-admin pid-1093273098"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=8746692&postID=1570829332477569606&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Friday, December 13, 2013</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="6637894607591225765"></a>
+         
+    <h3 class="post-title">
+	 
+	 Is the Constitution the problem?
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      For about 45 years now, many if not most members of the Boom generation has been convinced that all would be well is they could simply run the world.&nbsp; Such illusions come naturally from growing up in a remarkably stable society in which parents, convinced that their children would naturally follow in their footsteps, left them alone to form their own opinions.&nbsp; Their parents' decision to undertake the Vietnam war encouraged Boomer self-confidence.&nbsp; As I pointed out in one of my very first posts here, no one ever exemplified this aspect of his generation better than George W. Bush.<br />
+<br />
+Jeffrey Toobin, born in 1960, belongs to the very tail end of the Boom generation.&nbsp; He entered Harvard in 1978 and thus could have been one of the 160 students who took my lecture course during my last two years there, but I do not think that he was.&nbsp; He is a graduate of Harvard law school whose legal career was brief, and he became a legal journalist instead.&nbsp; I enjoyed his book on the O. J. Simpson case very much, and most of his work on legal issues is absorbing and very good.&nbsp; Last week, however, in <i>The New Yorker</i>, he had an article suggesting that what is really wrong with the United States today is--you'll never guess--the U.S. Constitution.&nbsp; He is not very forthcoming about how exactly he thinks it should be changed, and he has to admit near the end of the article that the Constitution is fiendishly hard to amend, but the article generally gives the feeling that the Constitution strikes him as yet another useless artifact of a bygone era such as dial telephones, cars with fins and V-8 engines, and transistor radio sets.<br />
+<br />
+Toobin begins with an argument that has become fundamental to Boomer academic views of the world.&nbsp; The worst aspects of the Constitution as adopted in 1787-88, he says, are that it institutionalized "race and gender discrimination."&nbsp; I am rather fascinated by the popularity of this argument, because anyone who takes the trouble to read the document will realize that it is not true.&nbsp; Certainly the original Constitution did not <i>outlaw</i> race or gender discrimination, or even slavery, but it did not bless them either.&nbsp; Slavery at the moment that Constitution was adopted was in retreat.&nbsp; It was being abolished in the northern states, it had just been banned from the Northwest territories (the future upper midwest), and even many prominent southerners were freeing their slaves upon their death.&nbsp; The founders took great care <i>not</i> to refer to slavery by name, the reason for the convoluted language that occurs whenever they have to refer to it, such as in the three-fifths clause.&nbsp; As for gender, the Constitution invariably refers to "persons" or "citizens," not "men," and there was nothing in it to forbid states from granting women the vote, as some of the western ones did in the late nineteenth century.&nbsp; The abolitionist and escaped slave Frederick Douglass argued exactly the contrary before the Civil War--that the Constitution <i>could not be reconciled</i> with slavery--and that was a stronger argument than the reverse.<br />
+<br />
+Toobin then focuses on the undemocratic features of the Senate as a major source of our ills.&nbsp; Here he has a much stronger case.&nbsp; The Senate does give hugely disproportionate power to smaller states, and this is much truer now than it was when the Constitution was adopted.&nbsp;&nbsp; At that time, Virginia, the largest state, had ten Representatives and Rhode Island one, while both had two Senators. Now California has 53 Representatives and Wyoming and five other states have one each, but all of them still have two Senators.&nbsp; Toobin then adds that the filibuster has made the Senate an even bigger obstacle to democracy.&nbsp; He is right, of course, but the filibuster, like slavery in 1787, isn't <i>mandated</i> by the Constitution, it is simply <i>allowed</i> by it, since Article I gives each house of Congress the power to make its own rules.&nbsp; And indeed, it has been convincingly argued that the Constitution in effect does specify a majority vote as all that is necessary to do business in the Senate, since it specifically calls for a two-thirds vote to ratify treaties or convict an executive officer in an impeachment trial.&nbsp; Under traditional Anglo-American legal doctrine, tying such a requirement to specific cases implies that it is limited to those cases only.&nbsp; Unfortunately, the courts have been unwilling to hear this argument, but the Senate itself has just shown that the filibuster rule can be amended by a simple majority vote.<br />
+<br />
+Toobin's argument is based, naturally, upon our current political deadlock, but even there he is on somewhat shaky ground.&nbsp; The key event of the Obama Administration, of course, was the Republcian landslide in the House of Representatives in 2010, which immediately made it impossible for the President to accomplish anything further.&nbsp; It is true, as he points out, that the Republicans in several medium-size states promptly gave themselves an unbeatable advantage through redistricting, without which it is possible--although in my opinion, not as likely as one might think--that the Democrats would have regained the House in 2012.&nbsp; In any case, the more democratically chosen House, not the Senate, has been the major obstacle to getting anything done for the last three years.&nbsp; (In another misstatement of fact, Toobin claims that the Senate blocked the Clinton health care reform in the 1990s.&nbsp; As a matter of fact it never passed either house.)<br />
+<br />
+Toobin quotes several legal authorities or polemicists (includng the talk show host Mark Levin, who sometimes sits in for Rush Limbaugh) who also believe the Constitution is fatally flawed.&nbsp; One law professor, however--Akhil Amar of Yale--argues that the Constitution is not the problem--what is wrong is what has happened to the Republican Party.&nbsp; "One half of one of our two great political parties has gone bonkers," says Amar.&nbsp; "That's the problem. Not the Constitution."&nbsp; That is also a typical Boomer statement, defining anyone in fundamental disagreement with one's self as crazy, but I think it's a great deal closer to the truth than the argument that the Constitution is to blame.<br />
+<br />
+The Constitution itself does not pose an insuperable barrier to effective political change in the United States.&nbsp; The federal government has had an enormous impact upon American life during the Civil War era, the Progressive era, the New Deal, and the era of the Great Society and its aftermath.&nbsp; In the last three of those eras a broad consensus led large majorities in both houses to pass sweeping legislation and even constitutional amendments.&nbsp; That consensus, however, has evaporated over the last half century, and whether or not one chooses to define the Tea Party as "bonkers," that is why we are in the mess that we are in today.<br />
+<br />
+To understand where we are it is not enough to point out that California, with 50 times the population of Wyoming or North Dakota, has the same number of Senators; we must also ask why the Senators from the smaller states see the world so differently.&nbsp; The smaller states are, in all probably, the ones with the highest percentage of white people (although I am pretty certain that that percentage is falling in every state of the union.)&nbsp; But more importantly, it seems to me, in the last half century the Democratic Party has failed to persuade the inhabitants of those states that it has anything to offer them.&nbsp; A large percentage of the population of less populated states were farmers in the New Deal era and even in the middle of the last century, and the New Deal and later farm programs saved them from being wiped out. The New Deal also brought electricity and better roads to the countryside.&nbsp; Many voters appreciated these changes.&nbsp; Now farm programs chiefly benefit agribusiness.&nbsp; Many of the smaller states are dominated by energy producers, a trend which fracking seems to be increasing.&nbsp; Equally importantly, state governments have drastically been weakened in states like Pennsylvania, Ohio, Wisconsin and Michigan, allowing the Republicans to gain control of those state governments and pass redistricting plans.&nbsp;&nbsp; As I ponder all this, it occurs to me that the Republicans may understand better than the Democrats how crucial the fight over the Affordable Care Act is.&nbsp; If it works it could create a major new Democratic constituency in every state of the union.<br />
+<br />
+Toobin's problem--and Amar's--are characteristic of the eastern elite, particularly in academia.&nbsp; Because academics live in a politically monolithic environment they have trouble taking opposing ideas seriously.&nbsp; Nor can they believe, given the pampered lives they lead, that there can be anything seriously wrong with the country.&nbsp; If some one disagrees with them they must simply be crazy; if their ideas do not pass Congress, institutions must be to blame.&nbsp; Meanwhile, Democrats have collaborated with Republicans in dismantling all the major pillars of the New Deal and allowing inequality to grow.&nbsp; They should not be shocked that the average American does not put a high priority on keeping them in office.&nbsp; One of the interesting things about Toobin's article is his failure to discover anyone actively pushing for changes in the Constitution along lines that he would find more congenial.&nbsp; The activists he interviews who want new amendments are all ultraconservatives who want to cripple the federal government.&nbsp; Bill James, the founder of baseball statistics, defined in the 1980s something called the law of competitive balance.&nbsp; Winners, he argued, naturally adopted conservative strategies that rapidly took away their edge; losers tried harder and became winners.&nbsp; That has been the story of the last 40 years of American politics.&nbsp; It is the reason that conservatives can now <i>use</i> the Constitution to block progress.&nbsp; The Constitution is not primarily at fault.
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by David Kaiser at <a href="http://historyunfolding.blogspot.com/2013/12/is-constitution-problem.html" title="permanent link">9:24 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=8746692&amp;postID=6637894607591225765"location.href=http://www.blogger.com/comment.g?blogID=8746692&postID=6637894607591225765;>3 comments</a>
+
+      
+  <span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=8746692&postID=6637894607591225765" title="Email Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_email.gif" height="13" width="18"/></a></span><span class="item-control blog-admin pid-1093273098"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=8746692&postID=6637894607591225765&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Friday, December 06, 2013</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="8379977291876421024"></a>
+         
+    <h3 class="post-title">
+	 
+	 Obama and FDR
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      &nbsp; Let's imagine how the implementation of the health care bill might have gone differently.<br />
+<br />
+&nbsp; When the Affordable Care Act passed in 2010, President Obama would have created a temporary agency to implement it, including representatives of the AMA, the health insurance association, associations of hospitals, and patients' rights groups, as well as the Secretary of Health and Human Services, the Secretary of the Treasury, and an official from the Office of Management and Budget.&nbsp; Everyone selected from the private sector would have taken a leave of absence from their day job and most of them would have served for $1 a year.&nbsp; The most famous dollar a year man would have been Jeff Bezos of Amazon.com, who would have been given the job of supervising the development of healthcare.gov.&nbsp; He would have brought some of his staff with him and made use of all the techniques they had used to turn amazon into what it is today.&nbsp; By the time of the roll-out in October 2013, the site would have been running smoothly, and insurance companies would be using it to communicate with their customers as well.&nbsp; Meanwhile,. the Health Care Authority would be turning out suggestions for making care more efficient and cheaper, as well as more affordable.<br />
+<br />
+&nbsp;&nbsp; If all this sounds fantastic to you, you might want to brush up your history.&nbsp; Specifically, you might want to think about purchasing my new book, <i>No End Save Victory: How FDR Led the Nation Into War</i>, when it appears in April.&nbsp; Why? Because that is how the United States, facing a far more desperate situation, dealt with the thread of world war in 1940-1.&nbsp; The rearmament effort began in late May of 1940, while France was collapsing and England was threatened with invasion and defeat.&nbsp; That was, in essence, the equivalent of 2010 when the ACA was passed.&nbsp; Four years later, in 1944, the decisive offensives against the Germans and the Japanese began.&nbsp; The Affordable Care Act will go into effect after four years as well, but its prospects are most uncertain.&nbsp; Here, by the way, is the cover of my forthcoming book.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-eFYidxszOvM/UqIbhQzSHTI/AAAAAAAAAqk/ZXxf5RKv6M8/s1600/No+End+Save+Victory.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-eFYidxszOvM/UqIbhQzSHTI/AAAAAAAAAqk/ZXxf5RKv6M8/s320/No+End+Save+Victory.jpg" width="210" /></a></div>
+<br />
+Let me fill in some of the blanks.&nbsp; The New Deal from the beginning was based upon creating new government agencies to solve pressing problems.&nbsp; The most successful were the Agricultural Adjustment Agency, which saved American agriculture by controlling production; the Public Works Administration (PWA) and Works Progress Administration (WPA), which put people to work; the SEC; and the National Labor Relations Board, which presided over a massive expansion of the work force.&nbsp; When in the spring of 1940 it became clear that war threatened the United States, Roosevelt used the same technique. He created a series of agencies to stimulate war production: the National Defense Advisory Commission in the spring of 1940, the Office of Production Management in the following winter, and the Supply Priorities and Allocations Board in August 1941.&nbsp; All of them had the same key personnel: the Secretaries of War and of the Navy (there was no Secretary of Defense in those days), and leading industrialists and retailers who put their expertise to work.&nbsp; The Jeff Bezos of those years was William Knudsen of General Motors, an immigrant from Denmark who had worked his way up from the shop floor to be CEO of one of the world's largest corporations.&nbsp; Knudsen was to automobiles what Bezos was to on-line marketing: he had started&nbsp; his career setting up assembly lines for Henry Ford.<br />
+<br />
+The most critical problem in 1940, Roosevelt had decided, was to produce huge numbers of military aircraft.&nbsp; Germany was sweeping all before it in Europe with air superiority and superior tactics, and Roosevelt was determined that the U.S. must build an air force, as well as a navy, second to none.&nbsp; In typical fashion, he set a goal in 1940 of 50,000 combat aircraft--more than 20 times what was then available, and far more than the War Department had plans for.&nbsp; The aircraft industry was however in its infancy, and assembly lines were unknown.&nbsp; Knudsen went right to work, showing the aircraft industry how parts could be mass produced and assembled, and his fellow automakers began turning out aircraft parts in Detroit.&nbsp; By 1942 FDR's goal had been achieved, and in subsequent years it was exceeded.&nbsp; Asked in a Congressional hearing why he had given up $150,000 a year plus bonuses to work for nothing, Kundsen replied in January 1941 that the United States had been very good to him and he wanted to give something back.&nbsp; Another key figure in the new agencies was Donald Nelson, the Vice President for Merchandising of Sears, Roebuck.&nbsp; He turned out to be critical because he was used to making sure that Sears had the products it needed in stores and warehouses when they needed them--ideal training for preparing an army, navy and air force for war.&nbsp; After Pearl Harbor he was put in charge of the last supervisory body, the War Production Board.<br />
+<br />
+The Affordable Care Act, it seems to me, is in big trouble because, to begin with, no single person was really in charge of implementation.&nbsp; Ironically, that charge was also leveled against FDR's agencies before Pearl Harbor.&nbsp; Knudsen and labor's representative, Sidney Hillman, were co-chairs of the Office of Production Management.&nbsp; But FDR set things up that way for one simple reason: he wanted to be the ultimate authority, and that is exactly how he functioned, as I discovered, in 1940-1.&nbsp; President Obama does not seem to have the executive ambition that FDR had, but he could have found some one who did and made the implementation of the act their full-time job.&nbsp; Ideally that person would have combined political and executive experience.&nbsp; He or she would have known that success in organizing the new health care system could easily lead to a run for the White House.<br />
+<br />
+The ACA has also suffered, of course, because it does not command the overwhelming support from the American people that the rearmament effort did.&nbsp; While many Americans opposed entry into the war in Europe in 1940-1, very few indeed denied that the United States had to prepare for survival in a very dangerous world.&nbsp; As I show, they were willing not only to stand up forces of unprecedented size, but to raise taxes to pay for them.&nbsp; That is not, of course, the case today.&nbsp; The sacrifices the ACA demands of the American people are much, much smaller--it's not clear that, if properly implemented, it would entail any sacrifices for most of us at all--but a large portion of the people and one entire political party remain totally opposed to it.&nbsp; That obstacle might still have been overcome, however, if Obama made the <i>implementation</i> of the act, rather than its passage, the centerpiece of his administration, and recruited the human capital from both the private and public sector that he needed to make it work.&nbsp; This, clearly, he was not able to do--because he did not attempt to.<br />
+<br />
+We cannot recreate the world of 1940-1, and in many ways we would not want to.&nbsp;&nbsp; We do not, thankfully, face threats around the world comparable to Nazi Germany and imperial Japan.&nbsp; Yet it is a major theme of my book that we succeeded then because of a real sense of national purpose and common enterprise that FDR had managed to arouse while fighting the Depression, and it is impossible to look at today's world without feeling the absence of exactly that spirit today.&nbsp;&nbsp; The outcome of the crisis over the ACA is just as uncertain now as the outcome of the world war was in 1941.&nbsp; Next year, if millions of Americans suddenly enjoy coverage they did not have, it may upset the political balance in the President's favor.&nbsp; If on the other hand men and women who thought that they had secured insurance on healthcare.gov find at the doctor's office or the hospital that their insurance companies don't recognize them because the "back end" of the system had not been fixed, the effect may be just the reverse.&nbsp; Obama needed Jeff Bezos to make sure that didn't happen, but he didn't try to recruit him.&nbsp; He might have failed to do so in any case: I have no idea if Bezos has enough sense of the public good to respond favorably.&nbsp; Knudsen did, even though he was a Republican with no great affection for the New Deal.&nbsp; That is one of the many differences between the last crisis in our national life and this one.
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by David Kaiser at <a href="http://historyunfolding.blogspot.com/2013/12/obama-and-fdr.html" title="permanent link">2:14 PM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=8746692&amp;postID=8379977291876421024"location.href=http://www.blogger.com/comment.g?blogID=8746692&postID=8379977291876421024;>3 comments</a>
+
+      
+  <span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=8746692&postID=8379977291876421024" title="Email Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_email.gif" height="13" width="18"/></a></span><span class="item-control blog-admin pid-1093273098"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=8746692&postID=8379977291876421024&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Friday, November 29, 2013</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="7477173277664504621"></a>
+         
+    <h3 class="post-title">
+	 
+	 Thanksgivings in Paris
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      The theme of the different world that we live in now than fifty years ago was theme of my CNN appearance (see below), and the nature of the world we lived in 75 years or so ago, before I was born, and how it differs from the present is a major theme of my forthcoming book, <i>No End Save Victory: How FDR Led the Nation into War</i>, which will appear in April.&nbsp; It's an inexhaustible theme, and it pops up in the most unexpected ways and places--for instance, in newspaper column I read this morning, which reminded me of one published about 60 years ago.<br />
+<br />
+This morning's column, <i>"</i>The Lament of the Expatriate," appears on the op-ed page of the <i>New York Times</i>.&nbsp; It's written by Pamela Druckerman, a writer who has already written a book on the wisdom of French parenting techniques.&nbsp;&nbsp; She presumably belongs to Generation X.&nbsp; Although I didn't especially enjoy the column, I'm going to reproduce it in full for non-commercial use only. (Don't worry--if you don't like this one,. I'm sure you'll like the next one much more.)<br />
+<br />
+<h1>
+<b><span style="font-weight: normal;">An American Neurotic in Paris</span></b></h1>
+<b>
+
+</b><h6 class="byline">
+<b><span style="font-weight: normal;">By 
+<span itemprop="author creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">PAMELA DRUCKERMAN</span></span></span></b></h6>
+<b>
+
+ 
+
+</b><div id="articleBody">
+<b>
+ 
+
+    </b><div itemprop="articleBody">
+<b>
+PARIS — A few years back I took the ultimate expatriate plunge: I 
+started doing psychotherapy in French. I figured that, as part of the 
+deal, I’d get free one-on-one French lessons. And I hoped that if I 
+revealed my innermost thoughts in French, I might finally feel like an 
+ordinary Parisian — or at least like an ordinary Parisian neurotic.     
+   </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+I soon realized this was a doomed enterprise. Each week I’d manage to 
+vaguely sketch out my feelings and describe the major characters in my 
+life. But it was hard to free associate when I was worried about 
+conjugating verbs correctly. Sometimes I’d just trail off, saying, 
+“Never mind, everything’s fine.”        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+I’m aware that there are worse things to be than an American in Paris. 
+You could be, for example, a Congolese in the Democratic Republic of 
+Congo. But as I spend my 10th Thanksgiving here, permit me a moment of 
+reflection. Because Thanksgiving prompts the question that expatriates 
+everywhere face: Shouldn’t I be going home?        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+The Americans in Paris tend to fall into three categories. There are the
+ fantasists — people nourished by Hemingway and Sartre, who are 
+enthralled with the idea of living here. The moneyed version of this 
+person lives as close as possible to the Eiffel Tower. The Bohemian 
+version teaches English or tends bar, to finance his true vocation: 
+being in France.        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+Then there are the denialists — often here for a spouse’s job — who cope
+ with living in Paris by pretending they’re not in Paris. They tap into a
+ parallel universe of Anglophone schools, babysitters and house 
+painters, and get their French news from CNN.        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+Finally there are people like me, who study France and then describe it 
+to the folks back home. We’re determined to have an “authentic” French 
+experience. And yet, by mining every encounter for its anthropological 
+significance, we keep our distance, too.        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+No matter how familiar Paris becomes, something always reminds me that I
+ don’t belong. The other evening, as I chastised the lady who had cut in
+ line at the supermarket, I realized she was grinning at me — amused by 
+my accent. During conversations in French, I often have the sensation 
+that someone is hitting my head. When surrounded by Parisians, I feel 40
+ percent fatter, and half as funny. Even my shrink eventually took pity 
+and offered to do the sessions in English. (It turns out she’s fluent.) 
+       </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+The question of whether to stay is especially resonant for Americans in 
+Paris, because many feel that they live here by accident. Not many 
+foreigners move to Paris for their dream job. Many do it on a romantic 
+whim. Expatriates often say that they came for six months, but ended up 
+staying for 15 years. And no one is quite sure where the time went. It’s
+ as if Paris is a vortex that lulls you with its hot croissants and 
+grand boulevards. One morning, you wake up middle-aged — still speaking 
+mediocre French.        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+I wasn’t sure how long I’d live here, but I did expect my stay to follow
+ a certain expatriate narrative: You arrive; you struggle to understand 
+the place; you finally crack the codes and are transformed; you 
+triumphantly return home, with a halo of foreign wisdom and your stylish
+ bilingual children in tow.        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+But 10 years on, I’ve gone way off that script. Those stylish children 
+threaten to mutiny if I even mention the possibility of moving. I’ve got
+ a French mortgage, and I’m on the French equivalent of the P.T.A. It’s 
+like being a stranger in a very familiar land. I haven’t cracked the 
+codes, but I no longer feel entirely out of sync: When the whole country
+ goes into mourning after a beloved singer or actor dies, these days I 
+actually know who the guy was.        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+Sometimes I yearn to be in a place where I don’t just know more or less 
+what people are saying, but know exactly what they mean. But I’m no 
+longer fully in sync with America either. Do people there really eat 
+Cronuts, go on juice fasts and work at treadmill desks?        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+The thought of becoming an ordinary American again scares me. We 
+expatriates don’t like to admit it, but being foreign makes us feel 
+special. Just cooking pancakes on Sunday morning is an intercultural 
+event. I imagine being back in the United States and falling in with a 
+drone army of people who think and talk just like me — the same 
+politics, the same references to summer camp and ’70s television.       
+ </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+But the fact is, those drones are my people. I end up gravitating toward
+ them in Paris, too. The biggest lesson I’ve learned in 10 years is that
+ I’m American to the core. It’s not just my urge to eat turkey in late 
+November. It’s my certainty that I have an authentic self, which must be
+ expressed. It’s being so averse to idleness that I multitask even when 
+I’m having my head shrunk. And it’s my strange confidence that, whether I
+ stay or go, everything will be fine.        </b></div>
+<b>
+</b><div itemprop="articleBody">
+<b>
+</b><em><b> <em>Pamela Druckerman </em> is the author of “Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting.”&nbsp;</b></em></div>
+<div itemprop="articleBody">
+<br /></div>
+<div itemprop="articleBody">
+This article seems to me to recapitulate a number of the trends of our own time.&nbsp; It is compulsively self-revealing and totally self-referential.&nbsp; Ms. Druckerman assumes that the details of her life are critically important, not only to her, but to everyone else. More significantly, the editors of the <em>Times</em><b> </b>op-ed page agree.&nbsp; It's not clear what the point of her piece is supposed to be, other than sharing her own very specific feelings about her life and herself with the world. &nbsp;</div>
+<div itemprop="articleBody">
+<em><b> </b></em>        </div>
+<div itemprop="articleBody">
+Now it so happens that, 61 years ago, a 25-year old American war veteran was living as an expatriate in Paris.&nbsp; It turned out, four decades later when he published a most revealing autobiography, that he had a very troubled childhood and still had plenty of emotional problems of his own, but as men often did in those days, he found outlets for his problems, at that time, in his work.&nbsp; He decided that Thanksgiving to write a piece about Americans in France as well, but his reads very differently--in large part because of the nature of his writing, but more than that, it seems to me, because he, after the fashion of his time, linked what he had to say to a broader story, specifically, the early history of the United States.&nbsp; His name was Art Buchwald, and his column was about the problem of explaining Thanksgiving, a holiday without parallel in France, to the French.</div>
+<div itemprop="articleBody">
+<em><b></b><br /></em>        </div>
+<b>One of our most important holidays is Thanksgiving Day, known in France as <i>le Jour de Merci Donnant</i>.</b><br />
+<br />
+<b>
+</b>
+
+     
+<b><i>Le Jour de Merci Donnant </i>was first started by a group of Pilgrims (<i>Pélerins</i>) who fled from <i>l'Angleterre </i>before the McCarran Act to found a colony in the New World (<i>le Nouveau Monde</i>) where they could shoot Indians (<i>les Peaux-Rouges</i>) and eat turkey (<i>dinde</i>) to their hearts' content.</b>
+
+<br />
+<b>
+</b>
+
+     <b> They landed at a place called Plymouth (now a famous <i>voiture Américaine</i>) in a wooden sailing ship called the Mayflower (or <i>Fleur de Mai</i>) in 1620. But while the <i>Pélerins </i>were killing the <i>dindes</i>, the <i>Peaux-Rouges </i>were killing the <i>Pélerins, </i>and there were several hard winters ahead for both of them. The only way the <i>Peaux-Rouges </i>helped the <i>Pélerins </i>was when they taught them to grow corn (<i>mais</i>). The reason they did this was because they liked corn with their <i>Pélerins</i>.</b><br />
+<br />
+<b>
+</b>
+
+     <b> In 1623, after another harsh year, the <i>Pélerins' </i>crops were so good that they decided to have a celebration and give thanks because more <i>mais </i>was raised by the <i>Pélerins </i>than <i>Pélerins </i> were killed by <i>Peaux-Rouges</i>.</b><br />
+<br />
+<b>
+</b>
+
+     <b> Every year on <i>le Jour de Merci Donnant</i>, parents tell their children an amusing story about the first celebration.</b><br />
+<br />
+<b>
+</b>
+
+     <b> It concerns a brave <i>capitaine</i> named Miles Standish (known in France as <i>Kilom</i><i>è</i><i>tres Deboutish</i>)
+ and a young, shy lieutenant named Jean Alden. Both of them were in love
+ with a flower of Plymouth called Priscilla Mullens (no translation). 
+The <i>vieux capitaine </i>said to the <i>jeune lieutenant</i>:</b><br />
+<br />
+<b>
+</b>
+
+     <b> "Go to the damsel Priscilla (<i>allez tres vite chez Priscilla</i>), the loveliest maiden of Plymouth (<i>la plus jolie demoiselle de Plymouth</i>). Say that a blunt old captain, a man not of words but of action (<i>un vieux Fanfan la Tulipe</i>),
+ offers his hand and his heart, the hand and heart of a soldier. Not in 
+these words, you know, but this, in short, is my meaning.</b><br />
+<br />
+<b>
+</b>
+
+     <b> "I am a maker of war (<i>je suis un fabricant de la guerre</i>) and not a maker of phrases. You, bred as a scholar (<i>vous, qui êtes pain comme un étudiant</i>),
+ can say it in elegant language, such as you read in your books of the 
+pleadings and wooings of lovers, such as you think best adapted to win 
+the heart of the maiden."</b><br />
+<br />
+<b>
+</b>
+
+     <b> Although Jean was fit to be tied (<i>convenable à être emballi</i>),
+ friendship prevailed over love and he went to his duty. But instead of 
+using elegant language, he blurted out his mission. Priscilla was muted 
+with amazement and sorrow (<i>rendue muette par l'étonnement et las tristesse</i>).</b>
+
+<br />
+<b>
+</b>
+
+     <b> At length she exclaimed, interrupting the ominous silence: 
+"If the great captain of Plymouth is so very eager to wed me, why does 
+he not come himself and take the trouble to woo me?" (<i>Où est-il, le vieux Kilomètres? Pourquoi ne vient-il pas aupres de moi pour tenter sa chance</i>?)</b>
+
+<br />
+<b>
+</b>
+
+     <b> Jean said that <i>Kilomètres Deboutish </i>was very busy and didn't have time for those things. He staggered on, telling what a wonderful husband <i>Kilomètres </i>would make. Finally Priscilla arched her eyebrows and said in a tremulous voice, "Why don't you speak for yourself, Jean?" (<i>Chacun a son gout</i>.)</b><br />
+<br />
+<b>
+</b>
+
+     <b> And so, on the fourth Thursday in November, American 
+families sit down at a large table brimming with tasty dishes, and for 
+the only time during the year eat better than the French do.</b>
+
+<br />
+<b>
+</b><b>
+
+      No one can deny that <i>le Jour de Merci Donnant </i>is a <i>grande fête </i>and no matter how well fed American families are, they never forget to give thanks to <i>Kilomètres Deboutish</i>, who made this great day possible.</b><br />
+<br />
+<b>&nbsp; &nbsp; &nbsp; &nbsp; </b>My apologies to those who never studied any French. . .Happy Thanksgiving to all.<b>&nbsp;</b>
+
+<br />
+<div itemprop="articleBody">
+<em></em>        </div>
+<div class="articleCorrection">
+</div>
+</div>
+
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by David Kaiser at <a href="http://historyunfolding.blogspot.com/2013/11/thanksgivings-in-paris.html" title="permanent link">11:10 AM</a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=8746692&amp;postID=7477173277664504621"location.href=http://www.blogger.com/comment.g?blogID=8746692&postID=7477173277664504621;>1 comments</a>
+
+      
+  <span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=8746692&postID=7477173277664504621" title="Email Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_email.gif" height="13" width="18"/></a></span><span class="item-control blog-admin pid-1093273098"><a style="border:none;" href="http://www.blogger.com/post-edit.g?blogID=8746692&postID=7477173277664504621&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+</div></div>
+<!-- End #main -->
+
+
+
+
+
+
+
+<!-- Begin #sidebar -->
+<div id="sidebar"><div id="sidebar2">
+  
+  
+  <!-- Begin #profile-container -->
+
+   <div id="profile-container"><h2 class="sidebar-title">About Me</h2>
+<dl class="profile-datablock">
+<dd class="profile-data"><strong>Name:</strong> <a rel="author" href="http://www.blogger.com/profile/05020082243968071584"> David Kaiser </a></dd>
+<dd class="profile-data"><strong>Location:</strong>  Watertown, Massachusetts, United States </dd></dl>
+<p class="profile-textblock">For the past 37 years I have been a historian of international and domestic politics, as well as an authority on some of the more famous criminal cases in American history.  For the past eight years I have been using this space to comment on current events.  Links to my books, including, <i>The Road to Dallas: The Assassination of John F. Kennedy</i> (2008), appear below.  Simply click to learn more about them or to order them.  A collection of History Unfolding from 2004 through 2008 is also available as a book below.
+The email circulating widely attributed to me comparing President Obama to Adolf Hitler is a forgery: see snopes.com/politics/soapbox/proportions.asp.
+    Comments are welcome, but comments that are both abusive and anonymous will be deleted.
+    </p>
+<p class="profile-link"><a rel="author" href="http://www.blogger.com/profile/05020082243968071584">View my complete profile</a></p></div>
+   
+  <!-- End #profile -->
+    
+        
+  <h2 class="sidebar-title">Books by David Kaiser</h2>
+    <ul>
+        <li><a href="http://www.lulu.com/content/paperback-book/history-unfolding/4393355"><i>History Unfolding: Crisis and Rebirth in American Life, 2004-2008</i></a></li>
+        <li><a href="http://www.amazon.com/Road-Dallas-Assassination-John-Kennedy/dp/0674027663/ref=pd_bbs_sr_1/105-6705669-5300447?ie=UTF8&s=books&qid=1194109018&sr=8-1"><i>The Road to Dallas: The Assassination of John F. Kennedy</i></a></li>
+        <li><a href="http://www.amazon.com/American-Tragedy-Kennedy-Johnson-Origins/dp/0674006720/ref=sr_1_1/105-6705669-5300447?ie=UTF8&s=books&qid=1194109335&sr=1-1"><i>American Tragedy: Kennedy, Johnson, and the Origins of the Vietnam War</i></a></li>
+        <li><a href="http://www.amazon.com/Epic-Season-American-League-Pennant/dp/1558491465/ref=sr_1_1/105-6705669-5300447?ie=UTF8&s=books&qid=1194109548&sr=1-1"><i>Epic Season: The 1948 American League Pennant Race</i></a></li>
+        <li><a href="http://www.amazon.com/Politics-War-European-Conflict-Enlarged/dp/0674002725/ref=sr_1_9/105-6705669-5300447?ie=UTF8&s=books&qid=1194109612&sr=1-9"><i>Politics and War: European Conflict from Philip II to Hitler</i></a></li>
+        <li><a href="http://www.amazon.com/Postmortem-Evidence-Case-Sacco-Vanzetti/dp/087023479X/ref=sr_oe_1_1/105-6705669-5300447?ie=UTF8&s=books&qid=1194109745&sr=1-1"><i>Postmortem: New Evidence in the Case of Sacco and Vanzetti</i></a></li>
+        <li><a href="http://www.amazon.com/Economic-Diplomacy-Origins-Second-World/dp/0691101019/ref=sr_1_1/105-6705669-5300447?ie=UTF8&s=books&qid=1194109835&sr=1-1"><i>Economic Diplomacy and the Origins of the Second World War</i></a></li></ul>
+  
+
+<g:plusone></g:plusone>
+
+<style type="text/css">
+@import url(http://www.google.com/cse/api/branding.css);
+</style>
+<div class="cse-branding-right" style="background-color:#FFFFFF;color:#000000">
+  <div class="cse-branding-form">
+    <form action="http://historyunfolding.blogspot.com" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-5964401237913933:eel29ibvp8w" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="ISO-8859-1" />
+        <input type="text" name="q" size="31" />
+        <input type="submit" name="sa" value="Search" />
+      </div>
+    </form>
+  </div>
+  <div class="cse-branding-logo">
+    <img src="http://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google" />
+  </div>
+  <div class="cse-branding-text">
+    Custom Search
+  </div>
+</div>
+
+
+<div id="cse-search-results"></div>
+<script type="text/javascript">
+  var googleSearchIframeName = "cse-search-results";
+  var googleSearchFormName = "cse-search-box";
+  var googleSearchFrameWidth = 800;
+  var googleSearchDomain = "www.google.com";
+  var googleSearchPath = "/cse";
+</script>
+<script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
+
+
+      
+  
+  <h2 class="sidebar-title">Previous Posts</h2>
+    <ul id="recently">
+    
+        <li><a href="http://historyunfolding.blogspot.com/2013/12/governments-and-peoples.html">Governments and peoples</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/12/should-governments-help-each-other.html">Should governments help each other?</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/12/is-constitution-problem.html">Is the Constitution the problem?</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/12/obama-and-fdr.html">Obama and FDR</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/11/thanksgivings-in-paris.html">Thanksgivings in Paris</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/11/kaiser-on-air.html">Kaiser on the Air</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/11/jfk-and-me.html">JFK and me</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/11/the-crisis-goes-on.html">The Crisis Goes On</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/11/peace.html">Peace?</a></li>
+     
+        <li><a href="http://historyunfolding.blogspot.com/2013/11/the-two-nations-at-war.html">The two nations, at war</a></li>
+     
+  </ul>
+    
+
+  <h2 class="sidebar-title">Archives</h2>
+    <ul class="archive-list">
+   	  
+    	<li><a href="http://historyunfolding.blogspot.com/2004_10_01_archive.html">October 2004</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2004_11_01_archive.html">November 2004</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2004_12_01_archive.html">December 2004</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_01_01_archive.html">January 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_02_01_archive.html">February 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_03_01_archive.html">March 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_04_01_archive.html">April 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_05_01_archive.html">May 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_06_01_archive.html">June 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_07_01_archive.html">July 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_08_01_archive.html">August 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_09_01_archive.html">September 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_10_01_archive.html">October 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_11_01_archive.html">November 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2005_12_01_archive.html">December 2005</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_01_01_archive.html">January 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_02_01_archive.html">February 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_03_01_archive.html">March 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_04_01_archive.html">April 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_05_01_archive.html">May 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_06_01_archive.html">June 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_07_01_archive.html">July 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_08_01_archive.html">August 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_09_01_archive.html">September 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_10_01_archive.html">October 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_11_01_archive.html">November 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2006_12_01_archive.html">December 2006</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_01_01_archive.html">January 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_02_01_archive.html">February 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_03_01_archive.html">March 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_04_01_archive.html">April 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_05_01_archive.html">May 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_06_01_archive.html">June 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_07_01_archive.html">July 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_08_01_archive.html">August 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_09_01_archive.html">September 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_10_01_archive.html">October 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_11_01_archive.html">November 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2007_12_01_archive.html">December 2007</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_01_01_archive.html">January 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_02_01_archive.html">February 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_03_01_archive.html">March 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_04_01_archive.html">April 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_05_01_archive.html">May 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_06_01_archive.html">June 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_07_01_archive.html">July 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_08_01_archive.html">August 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_09_01_archive.html">September 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_10_01_archive.html">October 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_11_01_archive.html">November 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2008_12_01_archive.html">December 2008</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_01_01_archive.html">January 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_02_01_archive.html">February 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_03_01_archive.html">March 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_04_01_archive.html">April 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_05_01_archive.html">May 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_06_01_archive.html">June 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_07_01_archive.html">July 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_08_01_archive.html">August 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_09_01_archive.html">September 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_10_01_archive.html">October 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_11_01_archive.html">November 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2009_12_01_archive.html">December 2009</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_01_01_archive.html">January 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_02_01_archive.html">February 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_03_01_archive.html">March 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_04_01_archive.html">April 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_05_01_archive.html">May 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_06_01_archive.html">June 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_07_01_archive.html">July 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_08_01_archive.html">August 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_09_01_archive.html">September 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_10_01_archive.html">October 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_11_01_archive.html">November 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2010_12_01_archive.html">December 2010</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_01_01_archive.html">January 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_02_01_archive.html">February 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_03_01_archive.html">March 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_04_01_archive.html">April 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_05_01_archive.html">May 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_06_01_archive.html">June 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_07_01_archive.html">July 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_08_01_archive.html">August 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_09_01_archive.html">September 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_10_01_archive.html">October 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_11_01_archive.html">November 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2011_12_01_archive.html">December 2011</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_01_01_archive.html">January 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_02_01_archive.html">February 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_03_01_archive.html">March 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_04_01_archive.html">April 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_05_01_archive.html">May 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_06_01_archive.html">June 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_07_01_archive.html">July 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_08_01_archive.html">August 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_09_01_archive.html">September 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_10_01_archive.html">October 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_11_01_archive.html">November 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2012_12_01_archive.html">December 2012</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_01_01_archive.html">January 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_02_01_archive.html">February 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_03_01_archive.html">March 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_04_01_archive.html">April 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_05_01_archive.html">May 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_06_01_archive.html">June 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_07_01_archive.html">July 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_08_01_archive.html">August 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_09_01_archive.html">September 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_10_01_archive.html">October 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_11_01_archive.html">November 2013</a></li>
+	  
+    	<li><a href="http://historyunfolding.blogspot.com/2013_12_01_archive.html">December 2013</a></li>
+	  
+
+  </ul>
+  
+
+      <p id="powered-by"><a href="http://www.blogger.com"><img src="http://buttons.blogger.com/bloggerbutton1.gif" alt="Powered by Blogger" /></a></p>
+  
+  <!--
+  <p>This is a paragraph of text that could go in the sidebar.</p>
+  -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-5964401237913933";
+google_ad_host = "pub-1556223355139109";
+google_ad_host_channel="00881+00000+00016+00396";
+//728x90, created 1/1/08
+google_ad_slot = "7718467262";
+google_ad_width = 728;
+google_ad_height = 90;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+  
+<form Method="POST"  action="http://www.feedblitz.com/f/f.fbz?AddNewUserDirect">
+Enter your Email<br><input name="EMAIL" maxlength="255" type="text" size="30" value=""><br>
+<input name="FEEDID" type="hidden" value="344393">
+<input name="PUBLISHER" type="hidden" value="531590">
+<input type="submit" value="Subscribe me!">
+<br><a href="http://www.feedblitz.com/f?previewfeed=344393">Preview</a> | Powered by <a href="http://www.feedblitz.com">FeedBlitz</a></form>
+
+</div></div>
+<!-- End #sidebar -->
+
+
+</div>
+<!-- End #content -->
+
+
+
+<!-- Begin #footer -->
+<div id="footer"><hr />
+  <p><!--This is an optional footer. If you want text here, place it inside these tags, and remove this comment. -->&nbsp;</p>
+
+</div>
+<!-- End #footer -->
+
+
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/common/js/1912144495-csitail.js"></script>
+<script type="text/javascript">BLOG_initCsi('classic_blogspot');</script></body>
+</html><!--Start Branica Code-->
+<table Cellpadding=0 Cellspacing=0 Border=0><tr align=center><td>
+<a href="http://www.branica.com" target="_blank">
+<script language="javascript">
+var data, p;
+var agt=navigator.userAgent.toLowerCase();p='http';
+if((location.href.substr(0,6)=='https:')||(location.href.substr(0,6)=='HTTPS:')) {p='https';} data = '&r=' + escape(document.referrer) + '&n=' + escape(navigator.userAgent) + '&p=' + escape(navigator.userAgent)
+if(navigator.userAgent.substring(0,1)>'3') {data = data + '&sd=' + screen.colorDepth + '&sw=' + escape(screen.width+ 'x'+screen.height)};
+document.write('<img border=0 hspace=0 '+'vspace=0 src="http://www.branica.com/counter.php?i=1338' + data + '" alt="Website Counter">');
+</script><br></a><font size="1"><a href="http://www.stereo411.com">Stereo 411</a></font>
+</td></tr></table>
+<!--End Branica Code-->

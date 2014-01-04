@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<title>Guest Post: Missteps on the road back. | Adventures in Ethics and Science</title>
+	
+	<link type="text/css" rel="stylesheet" media="all" href="http://scientopia.org/blogs/ethicsandscience/wp-content/themes/ethicsandscience/style.css" />
+	
+			<link rel="shortcut icon" href="http://scientopia.org/scientopia-favicon.png" type="image/vnd.microsoft.icon" />
+		<link rel="icon" href="http://scientopia.org/scientopia-favicon.png" type="image/gif" />
+			<link rel="alternate" type="application/rss+xml" title="Adventures in Ethics and Science &raquo; Feed" href="http://scientopia.org/blogs/ethicsandscience/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Adventures in Ethics and Science &raquo; Comments Feed" href="http://scientopia.org/blogs/ethicsandscience/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Adventures in Ethics and Science &raquo; Guest Post: Missteps on the road back. Comments Feed" href="http://scientopia.org/blogs/ethicsandscience/2014/01/03/guest-post-missteps-on-the-road-back/feed/" />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://scientopia.org/blogs/ethicsandscience/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='quote_rotator_frontend_style-css'  href='http://scientopia.org/blogs/ethicsandscienceQUOTE_ROTATOR_CSS_URLfrontend-style.css?ver=3.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://scientopia.org/blogs/ethicsandscience/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://scientopia.org/blogs/ethicsandscience/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://scientopia.org/blogs/ethicsandscience/wp-content/plugins/quote-rotator/js/jquery.sideswap.js?ver=3.8'></script>
+<script type='text/javascript' src='http://scientopia.org/blogs/ethicsandscience/wp-includes/js/comment-reply.min.js?ver=3.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var AJAXCommentPreview = {"loading":"Loading\u2026","error":"Preview error","emptyString":"Click the \"Preview\" button to preview your comment here.","url":"http:\/\/scientopia.org\/blogs\/ethicsandscience\/wp-admin\/admin-ajax.php?action=ajax_comment_preview"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://scientopia.org/blogs/ethicsandscience/wp-content/plugins/ajax-comment-preview/ajax-comment-preview.js?ver=2.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://scientopia.org/blogs/ethicsandscience/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://scientopia.org/blogs/ethicsandscience/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Good strategies and bad strategies for furthering your cause.' href='http://scientopia.org/blogs/ethicsandscience/2013/12/26/good-strategies-and-bad-strategies-for-furthering-your-cause/' />
+<meta name="generator" content="WordPress 3.8" />
+<link rel='canonical' href='http://scientopia.org/blogs/ethicsandscience/2014/01/03/guest-post-missteps-on-the-road-back/' />
+<link rel='shortlink' href='http://scientopia.org/blogs/ethicsandscience/?p=3098' />
+
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.tracking_callback=['ready',wpa2a.script_onready];
+//--></script>
+
+<!-- Bad Behavior 2.2.15 run time: 3.551 ms -->
+<script type="text/javascript">
+<!--
+function bb2_addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			oldonload();
+			func();
+		}
+	}
+}
+
+bb2_addLoadEvent(function() {
+	for ( i=0; i < document.forms.length; i++ ) {
+		if (document.forms[i].method == 'post') {
+			var myElement = document.createElement('input');
+			myElement.setAttribute('type', 'hidden');
+			myElement.name = 'bb2_screener_';
+			myElement.value = '1388799992 108.242.178.195';
+			document.forms[i].appendChild(myElement);
+		}
+	}
+});
+// --></script>
+		
+	<!-- Google Ajax Search -->
+
+	
+	<link href="http://www.google.com/uds/css/gsearch.css" type="text/css" rel="stylesheet"/>
+	<style>	
+	
+	/* Width */
+	.gsc-control {
+	  	width: px;
+		overflow: hidden
+	}
+	.gs-result .gs-title,
+	.gs-result .gs-title * {
+		font-size: 9em;
+	  	color: #000000;
+	}
+	.gsc-results .gsc-trailing-more-results,
+	.gsc-results .gsc-trailing-more-results * {
+	  	color: #000000;
+	}
+	.gs-result a.gs-visibleUrl,
+	.gs-result .gs-visibleUrl {
+	  	color: #000000;
+	}
+	.gs-result a.gs-clusterUrl,
+	.gs-result .gs-clusterUrl {
+	  	color: #000000;
+	}
+	.gsc-resultsbox-visible {
+		display: table;
+		width: 100%;
+		overflow: hidden
+	}
+	</style>
+
+
+
+		
+	<script src='http://www.google.com/uds/api?file=uds.js&amp;v=1.0&key=' type='text/javascript'></script>
+	<!-- Google AjaxSearch Plugin for WordPress initialization -->
+	<script type='text/javascript'> 
+
+
+
+
+		function OnLoad()
+		{
+			
+			var searchControl = new GSearchControl();
+			searchControl .setLinkTarget(GSearch.LINK_TARGET_SELF); 
+			var webSearch = new GwebSearch();   
+			webSearch.setSiteRestriction("http://scientopia.org/blogs/ethicsandscience");
+			webSearch.setUserDefinedLabel("Results");
+			webSearch.setUserDefinedClassSuffix("webSearch");
+											var options = new GsearcherOptions();
+			options.setExpandMode(GSearchControl.EXPAND_MODE_);
+			searchControl.addSearcher(webSearch, options);
+											
+
+			var drawOptions = new GdrawOptions();
+			drawOptions.setDrawMode(GSearchControl.DRAW_MODE_LINEAR);
+			searchControl.draw(document.getElementById("searchcontrol"),drawOptions);
+		}
+		GSearch.setOnLoadCallback(OnLoad);
+
+	</script>
+	<!-- Google Maps Plugin for WordPress (end) -->
+
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17732805-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="single single-post postid-3098 single-format-standard">
+<div id="header">
+	<div id="logo">
+		<div id="h1"><a href="http://scientopia.org/blogs/ethicsandscience/">
+
+			<img src='http://scientopia.org/blogs/ethicsandscience/files/2010/07/cropped-new-version-01smaller.jpg' style='' alt='Adventures in Ethics and Science' />		</a></div>
+		<div id="h2" class="description">Just another Scientopia Blogs site</div>
+	</div>
+	<div id="header-icons">
+	
+					<div class="twitter"><a href="http://twitter.com/@docfreeride">&nbsp;</a></div>
+				
+					<div class="rss"><a href="http://scientopia.org/blogs/ethicsandscience/feed/">&nbsp;</a></div>
+			</div>
+
+<a href="http://cedarlanelabs.com/"><img src="http://scientopia.org/public_html/clr_lympholyte_banner.gif"/></a>
+		
+	<div id="menu">
+		<div class="menu-bottom">
+			<ul><li ><a href='http://scientopia.org/blogs/ethicsandscience' title='Home'>Home</a></li><li class="page_item page-item-1926"><a href="http://scientopia.org/blogs/ethicsandscience/about-2/">About</a></li>
+<li class="page_item page-item-1797"><a href="http://scientopia.org/blogs/ethicsandscience/aieas-series/">AiEaS series</a></li>
+<li class="page_item page-item-1791"><a href="http://scientopia.org/blogs/ethicsandscience/critical-notice/">Critical notice</a></li>
+</ul>			<div class="spacer" style="clear: both;"></div>
+		</div>
+	</div>
+</div>
+
+<div id="main">
+	<div id="content">
+	    	        <div id="post-3098" class="post-3098 post type-post status-publish format-standard hentry category-blogospheric-science category-communication category-diversity-in-science category-guest-post category-journalism">
+            
+            <h1 class="title"><a href="http://scientopia.org/blogs/ethicsandscience/2014/01/03/guest-post-missteps-on-the-road-back/" rel="bookmark">Guest Post: Missteps on the road back.</a></h1>
+            <div class="meta">
+				<p>
+				Jan 03 2014									Published by <a href="http://scientopia.org/blogs/ethicsandscience/author/ethicsandscience/" title="Posts by Janet D. Stemwedel" rel="author">Janet D. Stemwedel</a> under <a href="http://scientopia.org/blogs/ethicsandscience/category/blogospheric-science/" title="View all posts in Blogospheric science" rel="category tag">Blogospheric science</a>, <a href="http://scientopia.org/blogs/ethicsandscience/category/communication/" title="View all posts in Communication" rel="category tag">Communication</a>, <a href="http://scientopia.org/blogs/ethicsandscience/category/diversity-in-science/" title="View all posts in Diversity in science" rel="category tag">Diversity in science</a>, <a href="http://scientopia.org/blogs/ethicsandscience/category/guest-post/" title="View all posts in Guest post" rel="category tag">Guest post</a>, <a href="http://scientopia.org/blogs/ethicsandscience/category/journalism/" title="View all posts in Journalism" rel="category tag">Journalism</a>												</p>
+			</div>
+			<div class="entry">
+              <p>This is a guest post from <a href="https://twitter.com/mjrobbins">Martin Robbins</a>, who writes about science and other interesting things for <em>The Guardian</em>, <em>Vice</em> and <em>New Statesman</em>.</p>
+<p>* * * * *</p>
+<p>The first time I ever met Bora Zivkovic, we talked about sexual harassment. We were in Dublin to take part in a panel at ESOF 2012, and I found him beforehand catching some air outside. The issue of harassment policies at TAM and other conferences was high on the agenda, and he explained to me that he felt a similar policy was unnecessary at Science Online, though they’d probably stick one in to ‘keep people happy’. Bora argued that maintaining a high proportion of women at events was more likely to lead to a safe environment than any policy. It seemed like reasonable logic at the time.</p>
+<p>During the panel, I took <a href="https://twitter.com/mjrobbins/status/224117518854397953/photo/1">this photograph</a>. As you can see from the comments, the #IHuggedBora meme was in full swing. If I’m honest I found his fixation on hugging everybody – even showing us pictures of previous hugs on his phone - a little odd in person, but nobody seemed to mind. It was July 2012, the same month that Bora <a href="https://medium.com/the-power-of-harassment/3e809dfadd77">told Kathleen Raven that he wanted to have sex with her</a>, a few weeks before he <a href="http://monicacatherine.wordpress.com/2012/10/09/this-happened/">told Monica Byrne that he was a ‘very sexual person’</a>, and two years after he <a href="https://medium.com/ladybits-on-medium/857e2f71059a">began his pursuit of Hannah Waters</a>.</p>
+<p>In October, these stories and others came to light. Bora was forced to resign from his positions at Scientific American and Science Online, and he removed himself from public discourse. On January 1st he returned to the blogosphere - supported by his friend and Science Online cofounder Anton Zuiker – with the intention of rebuilding his reputation and career.</p>
+<p>In the rest of this post I intend to explain why I’m deeply unhappy with the manner of Bora’s departure and return. Along the way I will fisk Zuiker and Bora’s posts, and Bora’s later addendum, and explain why Bora’s apology is not just insufficient, but concerning to me. Then I’m going to try to answer Bora’s question, about what he needs to do next.</p>
+<p>I’m going to do all of this without any personal anecdotes about brewing with root vegetables, and in considerably less than 5,500 words.<span id="more-3098"></span></p>
+<p>- - - - - -</p>
+<p>Bora Zivkovic was an outstandingly talented science blogging expert. A fundamentally good man, he made some terrible mistakes that affected three women he worked with, although ultimately nobody was really harmed. Those mistakes cost him his friends, reputation and career. Now, he’s paid the price, and hopefully we can forgive him and welcome him back into the community he’s done so much for.<br />
+ <br />
+It’s a pleasing, comfortable narrative that many of us would love to subscribe to. It’s also toxic and wrong, and an acknowledgment of this from Bora (and his supporters) would be a welcome step on the road to genuine redemption.</p>
+<p>The first problem is that by any objective, clear-headed assessment, Bora was incompetent. He didn’t lose his positions at Science Online and Scientific American as a punishment for doing bad things, or to somehow ‘pay’ a ‘price’ – as if these jobs were his to give away – he lost them because it became apparent that he wasn’t fit to do them, and in fact never had been.</p>
+<p>A lot of people will object to this, pointing to all the good work he did, all the projects he took part in, the legacy written into the very fabric of the science blogging community. He did many good things, and of course we shouldn’t ignore them.</p>
+<p>But this isn’t a set of scales were balancing. We’re not weighing good against bad here, because the things that Bora fucked up <strong><em>are not optional</em></strong>. ‘Not sexually harassing women’ is not a ‘bonus extra’ in the job description. He harassed professional contacts for sex, brought his employers into very public disrepute, seriously damaged the reputation of a major conference, and undermined relations in the communities in which he worked.  Bora was one of the community’s key gatekeepers, and months later men and women are left wondering if the course of their career was altered for better or worse by one man’s sex drive.</p>
+<p>When it came to fundamental aspects of his professional life, Bora was a walking disaster. He was incompetent, and he was lucky that he lasted as long as he did. Any attempt to rebuild his career has to start by honestly confronting that.</p>
+<p>The second problem is the nature of sexual harassment, and how that fits in with the stories of Monica Byrne, Hannah Waters and Kathleen Raven – three names entirely absent from Anton Zuiker’s grueling 5,000 word ode to rare vegetables, incidentally.</p>
+<p>A key thing to understand about harassment is that it’s usually part of a long-term pattern of recidivist behaviour, often by people who are not obviously ‘villains’, who rely heavily on psychological manipulation and the abuse of power structures within their communities or institutions.</p>
+<p>The evidence we have here, in the form of testimony and e-mails, shows a clear pattern of deliberate behaviour repeated on many occasions over at least two years. The women were identified, targeted, isolated, manipulated, and their boundaries repeatedly tested, often in professional contexts, over a sustained period of time. The methodologies of these incidents are so uncannily alike that even the same pick-up lines are used.</p>
+<p>In her own account of Bora’s behaviour, <a href="https://medium.com/the-power-of-harassment/3e809dfadd77">Raven writes</a>:  <em>“I’ve never been taken advantage of by a male off the street. All of the men who have sexually harassed me in professional settings have been smart, accomplished, eloquent, driven. But ultimately, and this is key, they have been and are predators.”</em></p>
+<p>What makes things worse is Bora’s continued deceit and manipulation when these stories began to emerge, and the damaging impact this had. His first mea-not-so-culpa, in response to Byrne’s original allegations, claimed: “It is not behavior that I have engaged in before or since.” People were embarrassingly desperate to believe this, and Byrne found her story <a href="http://www.huffingtonpost.co.uk/priya-shetty/sexual-harassment-in-science_b_4102449.html">met with indifference or even outright hostility by large sections of the online science community</a>. It was only when Hannah Waters stepped forward, and then Kathleen Raven, that this was exposed as a lie and the house of cards finally toppled.  A curt tweet -<a href="https://twitter.com/BoraZ/status/390614469933813760">“I was wrong. I am sorry.  I am learning.”</a> – contained the sum total of Bora’s public apology and contrition, and he was gone.</p>
+<p>That leads to more a serious question about Bora’s place in the community. In person, he was a man of strange contradictions. He presented himself as weak, harmless, shy, bumbling, quirkily European; and yet he was clearly confident, incisive, intelligent, ambitious, and wielded considerable power. He was also happy to lie to us. In hindsight, it leaves one with a nagging doubt; that uncomfortable feeling you get when a street magician shows you your watch. How could I be this clueless, and how on Earth do I know what else he’s taken? How can I trust this man?</p>
+<p> - - - - - - -</p>
+<p>That brings me to <a href="http://blog.coturnix.org/2014/01/01/2013-year-in-review/">Bora’s return to world on online science on January 1st</a>, accompanied by his friend and Science Online co-founder <a href="http://mistersugar.com/2014/01/01/roots-and-bitters">Anton Zuiker’s epic meditation on friendship and something called ‘Piper Methysticum roots’</a>. Zuiker begins his post with what he believes is a sparkling and colourful anecdote about some sort of vegetable brewing, but that isn’t his most serious mistake. Indeed, it probably isn’t even in the top five.</p>
+<p>“It’s good that Bora offered his apology, and I believe he did so contritely and humbly,” he writes, failing to link to this apology because at the time of writing it simply did not exist. He mentions the need to be “sensitive to the women who spoke out,” yet in 5,500 words that include two substantial diatribes on the apparently substantial difficulties he experiences procuring root vegetables, he fails to mention any of them (though links were later added).</p>
+<p>Perhaps he was unfamiliar with their testimonies. That would explain his repeated misrepresentation of the allegations against Bora, described as “a conversation, a situation and a relationship that [the women] identified as harassment.” Later, Zuiker suggests, “he said things to others that would have been better shared with a best friend or a therapist, women called him on it, he apologized, he disappeared in shame and regret.” Both statements are demonstrably inaccurate; both minimize the substantial testimony - and lengthy e-mail records - provided by Waters, Raven and Byrne.</p>
+<p>Zuiker’s worst mistake though was publishing this self-absorbed, history-rewriting, pseudo-intellectual clusterfuck when he sits on the board of one of the organizations still trying to deal with the fallout from Bora’s actions, ScienceOnline. They were <a href="http://scienceonline.com/2014/01/03/update-from-scienceonline-board/">forced to issue a statement on Friday in response to Zuiker’s post</a>: <em>“given the close personal and professional history between Bora Zivkovic and Anton Zuiker – and their connection with ScienceOnline – we’ve asked Anton to refrain from any public communication about Bora and that all official communications from ScienceOnline come from the entire board or its Executive Director, Karyn Traphagen.”</em> Nonetheless, this casts a shadow over the upcoming conference.</p>
+<p>So what about the man himself? Bora reappeared with a <a href="http://blog.coturnix.org/2014/01/01/2013-year-in-review/">blog post summarizing his year which omitted any mention of the scandal</a>. “In October I moved my blog from its spot at Scientific American back to its home here,” he mentioned, without further explanation. The post concluded with a link to Zuiker’s post. No acknowledgement, no apology, no contrition, not a good start.</p>
+<p>Meanwhile, Bora’s behaviour on Twitter was almost triumphant. <a href="https://twitter.com/BoraZ/status/418520562114113536">“Happy to see so many people (with just a couple of exceptions) deeply moved by this morning's  [Anton Zuiker] post.”</a> It was a crass thing to say given the huge discomfort at this return, once again seeming to rewrite history and minimize the voices of those who suffered at his hands. The comments beneath speak for themselves.<br />
+ <br />
+Perhaps realizing that his comeback was veering into the rocks, Bora finally <a href="http://blog.coturnix.org/2014/01/01/2013-year-in-review/">added an apology</a>, but this too was problematic. “I didn’t think I needed to offer a new public apology in my first post, ” he explained, linking to his original response to Byrne (since shown to be misleading) and two terse tweets of “I’m sorry.” It’s hard to understand why anyone would feel that this was enough.<br />
+ <br />
+What concerned me most though were his references to the women involved. “Only the women affected by my actions can decide what they want to do, and what, where, when and how they want to ask me to do. […] I am more than willing and happy to do whatever the women I harmed ask me to do. I don’t know whether it is appropriate for me to do this all in public, though. I have to pay attention to the actual needs and wants of people I harmed, rather than the popular public opinion.”</p>
+<p>Taken in combination with Bora’s other public statements since his return, this comes across to me as manipulative. The three women who spoke out suddenly find themselves thrust by Bora into the unwanted position of public judge, jury and executioner, dragged into the middle of his personal redemption drama, and put under enormous public pressure by someone who remains a key community figure with 20,000+ Twitter followers.  He is making demands of them here, albeit obliquely, and that needs to stop.  It also sidesteps the fact that Bora’s behaviour didn’t just affect the women who came forward, but the wider community, as beautifully documented by <a href="http://storify.com/kejames/ripples-of-doubt">Karen James’s ‘Ripples of Doubt’ project</a> . Ultimately, it isn’t up to any individuals to rehabilitate Bora; if it happens it will be a community process driven largely by how Bora chooses to conduct himself.</p>
+<p>My fear - and I accept your mileage may very - is that there has been no real change, and that the same pattern of manipulation that we saw in the past is continuing here. I could be wrong, but as the old saying goes: fool me once, shame on you; fool me twice, shame on me. Whatever you or I believe though, the onus now is on Bora to regain people’s trust, and the high profile manner in which he chose to return to the online world – on the back of what felt almost like a mini PR campaign - was not the right way to go about that.</p>
+<p>- - - - - - - - - -</p>
+<p>So how would I answer <a href="http://blog.coturnix.org/2014/01/01/2013-year-in-review/">the question Bora poses at the end of his statement?</a> “What kinds of changes do you expect to see from me, how can I make amends, what kind of actions will persuade you I’ve changed for real, what kind of changes you’d require to let me back into your circle of people you trust?”</p>
+<p>I have some sympathy for this. I suffered from depression in my 20s - to the extent of taking an overdose - and lost friends because of it. I spent sleepless nights wondering how to make things right, but what I learned in the end is: you can’t. It’s not about fixing things or persuading people. It’s not about making extravagant gestures to make up for what you’ve done. It’s not about doing the right set of things to get back into a circle of friends.</p>
+<p>Because ultimately, <strong><em>getting your friends and your career back shouldn’t be the goal at all.</em></strong> The goal should be to fix yourself, and to do everything in your power to ensure that you never find yourself back here again. That means acknowledging everything that happened – not just the stuff people have found out about so far. It means accepting that there may be situations that you need to avoid in future. It means admitting just how bad things got, and beginning a process of real, honest change to make them better.</p>
+<p>It isn’t easy, and it may not relaunch your career or win your friends back or repair your damaged reputation. It may mean sacrifice – changing career, moving cities, accepting that you’ll never regain certain friendships - but eventually you’ll be able to look at yourself in the mirror and know that you’ve grown and improved; that you’ve made genuine progress toward a better and healthier future; that you can be proud of your achievements in the months or years since you made the decision to change. </p>
+<p>In my experience, that’s when people start to trust you again. And then, when you’re not looking for it and you least expect it, you might just find some old faces stopping by to see how you’re getting along. </p>
+<div class="addtoany_share_save_container"><div class="a2a_kit a2a_kit_size_32 a2a_target addtoany_list" id="wpa2a_1"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fscientopia.org%2Fblogs%2Fethicsandscience%2F2014%2F01%2F03%2Fguest-post-missteps-on-the-road-back%2F&amp;linkname=Guest%20Post%3A%20Missteps%20on%20the%20road%20back." title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fscientopia.org%2Fblogs%2Fethicsandscience%2F2014%2F01%2F03%2Fguest-post-missteps-on-the-road-back%2F&amp;linkname=Guest%20Post%3A%20Missteps%20on%20the%20road%20back." title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fscientopia.org%2Fblogs%2Fethicsandscience%2F2014%2F01%2F03%2Fguest-post-missteps-on-the-road-back%2F&amp;linkname=Guest%20Post%3A%20Missteps%20on%20the%20road%20back." title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save"></a>
+<script type="text/javascript"><!--
+wpa2a.script_load();
+//--></script>
+</div></div>              			  				<div class="tags"></div>
+			        		</div>
+			
+            <p class="comments">
+              <a href="http://scientopia.org/blogs/ethicsandscience/2014/01/03/guest-post-missteps-on-the-road-back/#respond" class="comments-link"  title="Comment on Guest Post: Missteps on the road back.">No responses yet</a>            </p>
+	          
+	
+
+
+								<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/blogs/ethicsandscience/2014/01/03/guest-post-missteps-on-the-road-back/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://scientopia.org/blogs/ethicsandscience/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																										<p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" aria-required='true' /><label for="author">Name (required)</label></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" value="" size="30" aria-required='true' /><label for="email">Email (required)</label></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" value="" size="30" /><label for="url">Website</label></p>
+												<p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>												<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment" />
+							<input type='hidden' name='comment_post_ID' value='3098' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+
+<input name="acp-preview" type="button" id="acp-preview" tabindex="6" value="Preview" />						</p>
+						<div id="ajax-comment-preview"></div><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="5535b6595d" /></p>					</form>
+							</div><!-- #respond -->
+				        </div>
+      
+      
+	</div>
+  
+<div id="sidebar1" class="sidecol">
+	<ul>
+        <li id="text-3" class="widget widget_text">
+	   <div class="textwidget"><a href="http://scientopia.org/blogs"><img src="http://scientopia.org/img-archive/logo-small.png" /></a></div> 
+	</li> 
+
+         <li id="text-999" class="widget widget_text">
+         <div class="textwidget">
+ 	<p><b>Scientopia Blogs</b></p>
+ <select name="sciblogs" id="sciblogs" class="postform">
+ <option class="level-0" value="">Select a Blog</option>
+ <option class="level-0" value="/blogs/ethicsandscience/">Adventures in Ethics and Science</option>
+ <option class="level-0" value="/blogs/attackpol/">Attack Polymerase</option> 
+ <option class="level-0" value="/blogs/gertyz/">Balanced Instability</option> 
+ <option class="level-0" value="/blogs/bookoftrogool/">Book of Trogool</option>
+ <option class="level-0" value="/blogs/candidengineer/">Candid Engineer in Academia</option> 
+ <option class="level-0" value="/blogs/chemicalbilology/">Chemical BiLOLogy</option> 
+ <option class="level-0" value="/blogs/childsplay/">Child's Play</option> 
+ <option class="level-0" value="/blogs/christinaslisrant/">Christina's LIS Rant</option> 
+ <option class="level-0" value="/blogs/fcs/">The Difference Engine</option> 
+ <option class="level-0" value="/blogs/drugmonkey/">Drugmonkey</option>
+ <option class="level-0" value="/blogs/nccurise/">Eagles RISE</option>
+ <option class="level-0" value="/blogs/neuropolarbear">Elephants, Giraffes, Baboons</option>
+ <option class="level-0" value="/blogs/everydaybiology">Everyday Biology</option>
+ <option class="level-0" value="/blogs/drbecca">Fumbling Towards Tenure Track</option>
+ <option class="level-0" value="/blogs/galacticinteractions/">Galactic Interactions</option> 
+ <option class="level-0" value="/blogs/guestblog/">Guest Blog</option>
+
+ <option class="level-0" value="/blogs/goodmath/">Good Math/Bad Math</option> 
+ <option class="level-0" value="/blogs/hardtack/">Hardtack and Sardines</option>
+ <option class="level-0" value="/blogs/neurodynamics">Neurodynamics</option>
+ <option class="level-0" value="/blogs/scicurious/">Neurotic Physiology</option> 
+ <option class="level-0" value="/blogs/blather/">Pondering Blather</option>
+ <option class="level-0" value="/blogs/trainingprofessor/">Professor in Training</option> 
+ <option class="level-0" value="/blogs/proflikesubstance/">Prof-Like Substance</option> 
+ <option class="level-0" value="/blogs/sanitized/">Sanitized for Your Protection</option> 
+ <option class="level-0" value="/blogs/science-professor/">Science Professor</option>
+ <option class="level-0" value="/blogs/skullsinthestars/">Skulls in the Stars</option> 
+ <option class="level-0" value="/blogs/bridgeblog">Take it to the Bridge</option>
+ <option class="level-0" value="/blogs/genrepair">Tales of the Genomic Repairman</option>
+ <option class="level-0" value="/blogs/thehermitage/">The Hermitage</option>
+ <option class="level-0" value="/blogs/meanderingscholar">The Meandering Scholar</option>
+  <option class="level-0" value="/blogs/biochembelle">Transient Interactions</option>
+ <option class="level-0" value="/blogs/authority/">The Questionable Authority</option> 
+ <option class="level-0" value="/blogs/urbanethno/">The Urban Ethnographer</option> 
+ <option class="level-0" value="/blogs/thirtyseven/">Thirty-Seven</option>
+ <option class="level-0" value="/blogs/thisscientificlife/">This Scientific Life</option> 
+ <option class="level-0" value="/blogs/thusspakezuska/">Thus Spake Zuska</option> 
+ <option class="level-0" value="/blogs/voltagegate/">Voltage Gate</option> 
+ <option class="level-0" value="/blogs/amasianv/">Wandering Third Instar</option>
+ <option class="level-0" value="/blogs/whitecoatunderground/">White Coat Underground</option> 
+ <option class="level-0" value="/blogs/whizbang/">WhizBANG</option> 
+ </select>
+ 
+ <script type='text/javascript'> 
+ /* <![CDATA[ */
+ 	var blogsdropdown = document.getElementById("sciblogs");
+ 	function onBlogChange() {
+ 		if ( blogsdropdown.options[blogsdropdown.selectedIndex].value != "" ) {
+ 			location.href = "http://scientopia.org" + blogsdropdown.options[blogsdropdown.selectedIndex].value;
+ 		}
+ 	}
+ 	blogsdropdown.onchange = onBlogChange;
+ /* ]]> */
+ </script>
+          </div></li>
+	
+	 	
+	
+<div class="textwidget">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2721062361340994";
+/* Scientopia Sidebar */
+google_ad_slot = "2270592141";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+<li id="search-3" class="widget widget_search"> 
+<form method="get" id="searchform" action="http://scientopia.org/blogs/ethicsandscience/"> 
+<input type="text" value="Search this site"  
+	name="s" id="s"  class="with-button"
+	onblur="if (this.value == '')  
+	{this.value = 'Search this site';}"  
+	onfocus="if (this.value == 'Search this site')  
+	{this.value = '';}" /> 
+	<input type="submit" value="Go" class="go" />
+<input type="hidden" id="searchsubmit" /> 
+</form></li>
+<li id="recent-comments-3" class="widget widget_recent_comments"><h2 class="widgettitle">Recent Comments</h2>
+<ul id="recentcomments"><li class="recentcomments">Gaythia Weis on <a href="http://scientopia.org/blogs/ethicsandscience/2013/12/26/good-strategies-and-bad-strategies-for-furthering-your-cause/#comment-42402">Good strategies and bad strategies for furthering your cause.</a></li><li class="recentcomments"><a href='http://SouthernFriedScience.com' rel='external nofollow' class='url'>WhySharksMatter</a> on <a href="http://scientopia.org/blogs/ethicsandscience/2013/12/26/good-strategies-and-bad-strategies-for-furthering-your-cause/#comment-42377">Good strategies and bad strategies for furthering your cause.</a></li><li class="recentcomments">Amber Clifford on <a href="http://scientopia.org/blogs/ethicsandscience/2012/02/14/things-to-do-instead-of-grading-that-first-stack-of-student-papers/#comment-42136">Things to do instead of grading that first stack of student papers.</a></li><li class="recentcomments"><a href='http://vivimariev.blogspot.com' rel='external nofollow' class='url'>Vivimarie</a> on <a href="http://scientopia.org/blogs/ethicsandscience/2012/02/14/things-to-do-instead-of-grading-that-first-stack-of-student-papers/#comment-41833">Things to do instead of grading that first stack of student papers.</a></li><li class="recentcomments">charlie on <a href="http://scientopia.org/blogs/ethicsandscience/2013/12/05/figuring-out-why-something-makes-me-cranky/#comment-41474">Figuring out why something makes me cranky.</a></li></ul></li>
+<li id="text-3" class="widget widget_text"><h2 class="widgettitle">Your blogger</h2>
+			<div class="textwidget"><p><img src="http://scientopia.org/blogs/ethicsandscience/files/2010/07/ScientopiaProfilePic-e1280519357876.jpg" alt="Photo of Illustrious Blogger"/></p>
+
+Janet D. Stemwedel (whose <em>nom de blog</em> is Dr. Free-Ride</em>) is an Associate Professor of Philosophy at San Jose State University with a misspent scientific youth in physical chemistry.
+</div>
+		</li>
+<li id="text-5" class="widget widget_text"><h2 class="widgettitle">Keep Scientopia&#8217;s server bills paid!</h2>
+			<div class="textwidget"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="YLM686VKA73M8">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></div>
+		</li>
+<li id="text-4" class="widget widget_text"><h2 class="widgettitle">2013 DonorsChoose Drive!</h2>
+			<div class="textwidget"><p><iframe  width="160" height="600" scrolling="no" frameborder="0" src="http://www.donorschoose.org/common/challenge_widget.html?id=347594&bannerType=skyscraper"></iframe></p>
+
+
+Widget doesn't work?  Go <a href="http://www.donorschoose.org/donors/viewChallenge.html?id=347594&active=true">right to my giving page</a>.
+
+Thanks!</div>
+		</li>
+		<li id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+					<li>
+				<a href="http://scientopia.org/blogs/ethicsandscience/2014/01/03/guest-post-missteps-on-the-road-back/">Guest Post: Missteps on the road back.</a>
+						</li>
+					<li>
+				<a href="http://scientopia.org/blogs/ethicsandscience/2013/12/26/good-strategies-and-bad-strategies-for-furthering-your-cause/">Good strategies and bad strategies for furthering your cause.</a>
+						</li>
+					<li>
+				<a href="http://scientopia.org/blogs/ethicsandscience/2013/12/05/figuring-out-why-something-makes-me-cranky/">Figuring out why something makes me cranky.</a>
+						</li>
+					<li>
+				<a href="http://scientopia.org/blogs/ethicsandscience/2013/12/01/donorschoose-science-bloggers-for-students-2013-lets-dedicate-december-to-helping-public-school-classrooms/">DonorsChoose Science Bloggers for Students 2013: let's dedicate December to helping public school classrooms.</a>
+						</li>
+					<li>
+				<a href="http://scientopia.org/blogs/ethicsandscience/2013/11/19/an-open-letter-to-men-scared-that-women-will-call-out-their-behavior-publicly/">An open letter to men scared that women will call out their behavior publicly.</a>
+						</li>
+				</ul>
+		</li>
+<li id="categories-3" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+<select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="3">Academia</option>
+	<option class="level-0" value="4">Academic integrity</option>
+	<option class="level-0" value="5">Announcements</option>
+	<option class="level-0" value="6">Ask a ScienceBlogger</option>
+	<option class="level-0" value="7">Astronomy/astrophysics</option>
+	<option class="level-0" value="8">Basic concepts</option>
+	<option class="level-0" value="9">Biology</option>
+	<option class="level-0" value="10">Blogospheric science</option>
+	<option class="level-0" value="11">Book Club</option>
+	<option class="level-0" value="12">Book review</option>
+	<option class="level-0" value="13">Carnival barking</option>
+	<option class="level-0" value="14">Chemistry</option>
+	<option class="level-0" value="98">Climate science</option>
+	<option class="level-0" value="15">Communication</option>
+	<option class="level-0" value="16">Conferences</option>
+	<option class="level-0" value="17">Critters</option>
+	<option class="level-0" value="18">Current events</option>
+	<option class="level-0" value="19">Curricular issues</option>
+	<option class="level-0" value="20">Disciplinary boundaries</option>
+	<option class="level-0" value="21">Diversity in science</option>
+	<option class="level-0" value="22">Doing science for the government</option>
+	<option class="level-0" value="97">Economics</option>
+	<option class="level-0" value="23">Education</option>
+	<option class="level-0" value="24">Engineering</option>
+	<option class="level-0" value="25">Environment</option>
+	<option class="level-0" value="26">Ethical research</option>
+	<option class="level-0" value="27">Ethics 101</option>
+	<option class="level-0" value="28">Evolution</option>
+	<option class="level-0" value="29">Food</option>
+	<option class="level-0" value="30">Garden</option>
+	<option class="level-0" value="31">Geology</option>
+	<option class="level-0" value="32">Globalizing science</option>
+	<option class="level-0" value="33">Governing</option>
+	<option class="level-0" value="95">Guest post</option>
+	<option class="level-0" value="34">History of science</option>
+	<option class="level-0" value="35">Housekeeping</option>
+	<option class="level-0" value="36">Institutional ethics</option>
+	<option class="level-0" value="37">Introductions</option>
+	<option class="level-0" value="38">Journalism</option>
+	<option class="level-0" value="39">Kids and science</option>
+	<option class="level-0" value="40">Lab Lit</option>
+	<option class="level-0" value="41">Linkfest</option>
+	<option class="level-0" value="42">Mailbag</option>
+	<option class="level-0" value="43">Mathematics</option>
+	<option class="level-0" value="44">Medicine</option>
+	<option class="level-0" value="45">Methodology</option>
+	<option class="level-0" value="46">Minds and/or brains</option>
+	<option class="level-0" value="47">Misconduct</option>
+	<option class="level-0" value="48">Movie review</option>
+	<option class="level-0" value="49">Numeracy and innumeracy</option>
+	<option class="level-0" value="50">Passing thoughts</option>
+	<option class="level-0" value="51">Peer review</option>
+	<option class="level-0" value="52">Personal</option>
+	<option class="level-0" value="53">Philanthropy</option>
+	<option class="level-0" value="54">Philosophy</option>
+	<option class="level-0" value="56">Physics</option>
+	<option class="level-0" value="57">Plagiarism</option>
+	<option class="level-0" value="58">Politics</option>
+	<option class="level-0" value="59">Pop culture</option>
+	<option class="level-0" value="60">Professional ethics</option>
+	<option class="level-0" value="61">Reader participation</option>
+	<option class="level-0" value="62">Research with animals</option>
+	<option class="level-0" value="63">Research with human subjects</option>
+	<option class="level-0" value="64">Science and pseudo-science</option>
+	<option class="level-0" value="65">Science Blogging Conference</option>
+	<option class="level-0" value="66">Science in everyday life</option>
+	<option class="level-0" value="67">Scientist/layperson relations</option>
+	<option class="level-0" value="68">Shameless self-promotion</option>
+	<option class="level-0" value="70">Social issues</option>
+	<option class="level-0" value="72">Teaching and learning</option>
+	<option class="level-0" value="73">Teaching Carnival</option>
+	<option class="level-0" value="74">Technical issues</option>
+	<option class="level-0" value="75">Tribe of Science</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="76">Weather</option>
+	<option class="level-0" value="77">Women and science</option>
+	<option class="level-0" value="78">[Biology&amp;Environment]</option>
+	<option class="level-0" value="80">[Education&amp;Careers]</option>
+	<option class="level-0" value="81">[Et Al]</option>
+	<option class="level-0" value="82">[Etc]</option>
+	<option class="level-0" value="83">[Humanities&amp;Social Science]</option>
+	<option class="level-0" value="93">[LifeTrajectories]</option>
+	<option class="level-0" value="86">[Math&amp;Technology]</option>
+	<option class="level-0" value="87">[Medicine&amp;Pharma]</option>
+	<option class="level-0" value="88">[PhysicalScience]</option>
+	<option class="level-0" value="92">[ScienceInSociety]</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://scientopia.org/blogs/ethicsandscience/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</li>
+<li id="archives-3" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>
+		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Select Month</option> 	<option value='http://scientopia.org/blogs/ethicsandscience/2014/01/'> January 2014 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/12/'> December 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/11/'> November 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/10/'> October 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/09/'> September 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/07/'> July 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/06/'> June 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/05/'> May 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/04/'> April 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/03/'> March 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/02/'> February 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2013/01/'> January 2013 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/12/'> December 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/11/'> November 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/10/'> October 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/09/'> September 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/08/'> August 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/07/'> July 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/06/'> June 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/05/'> May 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/04/'> April 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/03/'> March 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/02/'> February 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2012/01/'> January 2012 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/12/'> December 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/11/'> November 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/10/'> October 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/09/'> September 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/08/'> August 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/07/'> July 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/06/'> June 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/05/'> May 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/04/'> April 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/03/'> March 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2011/02/'> February 2011 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/12/'> December 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/11/'> November 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/10/'> October 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/09/'> September 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/08/'> August 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/07/'> July 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/06/'> June 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/05/'> May 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/04/'> April 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/03/'> March 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/02/'> February 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2010/01/'> January 2010 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/12/'> December 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/11/'> November 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/10/'> October 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/09/'> September 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/08/'> August 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/07/'> July 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/06/'> June 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/05/'> May 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/04/'> April 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/03/'> March 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/02/'> February 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2009/01/'> January 2009 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/12/'> December 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/11/'> November 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/10/'> October 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/09/'> September 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/08/'> August 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/07/'> July 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/06/'> June 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/05/'> May 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/04/'> April 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/03/'> March 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/02/'> February 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2008/01/'> January 2008 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/12/'> December 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/11/'> November 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/10/'> October 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/09/'> September 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/08/'> August 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/07/'> July 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/06/'> June 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/05/'> May 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/04/'> April 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/03/'> March 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/02/'> February 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2007/01/'> January 2007 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/12/'> December 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/11/'> November 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/10/'> October 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/09/'> September 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/08/'> August 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/07/'> July 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/06/'> June 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/05/'> May 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/04/'> April 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/03/'> March 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/02/'> February 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2006/01/'> January 2006 </option>
+	<option value='http://scientopia.org/blogs/ethicsandscience/2005/12/'> December 2005 </option>
+ </select>
+</li>
+<li id="better-blogroll" class="widget widget_betterblogroll"><h2 class="widgettitle">A Better Blogroll</h2>
+<p><div style="width: 140px;margin-bottom:10px;"><small>This random selection from my daily reads changes each time the page is refreshed.</small></div></p><ul><li><a target="_blank" href="http://mammothtales.southernfriedscience.com/" title="">Mammoth Tales</a></li><li><a target="_blank" href="http://www.labspaces.net/blog/profile/589/Dr_Becca__Ph_D_" title="">Dr. Becca</a></li><li><a target="_blank" href="http://glendonmellow.blogspot.com/" title="">The Flying Trilobite</a></li><li><a target="_blank" href="http://blogs.discovermagazine.com/gnxp/" title="">Gene Expression</a></li><li><a target="_blank" href="http://cenblog.org/terra-sigillata/" title="">Terra Sigillata</a></li><li><a target="_blank" href="http://coo.fieldofscience.com/" title="">Catalogue of Organisms</a></li><li><a target="_blank" href="http://newkidonthehallway.typepad.com/" title="">New Kid on the Hallway</a></li><li><a href="http://codex.wordpress.org/" title="">Documentation</a></li><li><a target="_blank" href="http://angrybychoice.fieldofscience.com/" title="">Angry by Choice</a></li><li><a target="_blank" href="http://faultline.org/" title="">Coyote Crossing</a></li><li><a target="_blank" href="http://junctionpotential.blogspot.com/" title="">The Junction Potential</a></li><li><a target="_blank" href="http://blogs.nature.com/eva/" title="">Expression Patterns</a></li><li><a target="_blank" href="http://inversesquare.wordpress.com/" title="">The Inverse Square Blog</a></li><li><a target="_blank" href="http://www.inkstain.net/fleck/" title="">jfleck at inkstain</a></li><li><a target="_blank" href="http://meinhermitage.blogspot.com/" title="">TheHermitage</a></li></ul></li>
+</ul>
+</div>
+  <div style="clear:both"> </div>
+</div><div id="footer">
+  	<p>
+		<span>
+		<a href="http://scientopia.org/blogs/ethicsandscience/wp-admin/" title="Site Admin">Site Admin</a> | Theme by <a href="http://www.diovo.com/links/voidy/" title="Diovo">Niyaz</a>
+		</span>
+		<strong>Adventures in Ethics and Science</strong> Copyright &copy; 2014 All Rights Reserved	</p>
+</div>
+
+<script type="text/javascript"><!--
+wpa2a.targets=[
+{title:'Guest Post: Missteps on the road back.',url:'http://scientopia.org/blogs/ethicsandscience/2014/01/03/guest-post-missteps-on-the-road-back/'}];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//--></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201401'></script>
+</body>
+</html>
+<!-- Dynamic page generated in 0.363 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-01-03 20:46:32 -->
+
+<!-- super cache -->

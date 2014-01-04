@@ -1,0 +1,555 @@
+http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NewsFromUnderground+%28News+From+Underground%29
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>What game is PayPal playing? And where are all those documents that Edward Snowden gave the world? :: News From Underground</title>
+
+	<link rel="stylesheet" href="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/css/blue.css" media="screen" />
+	<link rel="stylesheet" href="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/css/jquery.lightbox-0.5.css" media="screen" />
+	 <link rel="stylesheet" href="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/css/superfish.css" media="screen" />
+	 
+	 
+    <![endif]-->
+	<script language="JavaScript" type="text/javascript" src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/js/jquery-1.3.2.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/js/jquery.form.js"></script>
+	<script language="JavaScript" type="text/javascript" src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/js/jquery.lightbox-0.5.min.js">
+	</script>
+	<script type="text/javascript" src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/js/hoverintent.js"></script>
+    <script type="text/javascript" src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/js/superfish.js"></script>
+	<!-- lightbox itialize script -->
+	<script type="text/javascript">
+		$(function() {
+		   $('a.lightbox').lightBox();
+		});
+	 </script>
+	<!-- ajax contact form -->
+	 <script type="text/javascript">
+		 $(document).ready(function(){
+			  $('#contact').ajaxForm(function(data) {
+				 if (data==1){
+					 $('#success').fadeIn("slow");
+					 $('#bademail').fadeOut("slow");
+					 $('#badserver').fadeOut("slow");
+					 $('#contact').resetForm();
+					 }
+				 else if (data==2){
+						 $('#badserver').fadeIn("slow");
+					  }
+				 else if (data==3)
+					{
+					 $('#bademail').fadeIn("slow");
+					}
+					});
+				 });
+		</script>
+		<script type="text/javascript"> 
+			$(document).ready(function(){ 
+				$("ul.sf-menu").superfish({
+					autoArrows:  false,
+					delay:       200,                             // one second delay on mouseout 
+					animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+					speed:       'fast',                          // faster animation speed 
+					autoArrows:  false,                           // disable generation of arrow mark-up 
+					dropShadows: false                            // disable drop shadows 			
+					}); 
+			});
+		</script>
+
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://markcrispinmiller.com/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://markcrispinmiller.com/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="http://markcrispinmiller.com/feed/atom/" />
+
+	<link rel="pingback" href="http://markcrispinmiller.com/xmlrpc.php" />
+		<link rel='archives' title='January 2014' href='http://markcrispinmiller.com/2014/01/' />
+	<link rel='archives' title='December 2013' href='http://markcrispinmiller.com/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://markcrispinmiller.com/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://markcrispinmiller.com/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://markcrispinmiller.com/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://markcrispinmiller.com/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://markcrispinmiller.com/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://markcrispinmiller.com/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://markcrispinmiller.com/2013/05/' />
+	<link rel='archives' title='April 2013' href='http://markcrispinmiller.com/2013/04/' />
+	<link rel='archives' title='March 2013' href='http://markcrispinmiller.com/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://markcrispinmiller.com/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://markcrispinmiller.com/2013/01/' />
+	<link rel='archives' title='December 2012' href='http://markcrispinmiller.com/2012/12/' />
+	<link rel='archives' title='November 2012' href='http://markcrispinmiller.com/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://markcrispinmiller.com/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://markcrispinmiller.com/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://markcrispinmiller.com/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://markcrispinmiller.com/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://markcrispinmiller.com/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://markcrispinmiller.com/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://markcrispinmiller.com/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://markcrispinmiller.com/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://markcrispinmiller.com/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://markcrispinmiller.com/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://markcrispinmiller.com/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://markcrispinmiller.com/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://markcrispinmiller.com/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://markcrispinmiller.com/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://markcrispinmiller.com/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://markcrispinmiller.com/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://markcrispinmiller.com/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://markcrispinmiller.com/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://markcrispinmiller.com/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://markcrispinmiller.com/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://markcrispinmiller.com/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://markcrispinmiller.com/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://markcrispinmiller.com/2010/12/' />
+	<link rel='archives' title='November 2010' href='http://markcrispinmiller.com/2010/11/' />
+	<link rel='archives' title='October 2010' href='http://markcrispinmiller.com/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://markcrispinmiller.com/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://markcrispinmiller.com/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://markcrispinmiller.com/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://markcrispinmiller.com/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://markcrispinmiller.com/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://markcrispinmiller.com/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://markcrispinmiller.com/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://markcrispinmiller.com/2010/02/' />
+	<link rel='archives' title='November 2007' href='http://markcrispinmiller.com/2007/11/' />
+	<link rel='archives' title='October 2007' href='http://markcrispinmiller.com/2007/10/' />
+	<link rel='archives' title='September 2007' href='http://markcrispinmiller.com/2007/09/' />
+	<link rel='archives' title='August 2007' href='http://markcrispinmiller.com/2007/08/' />
+	<link rel='archives' title='July 2007' href='http://markcrispinmiller.com/2007/07/' />
+	<link rel='archives' title='June 2007' href='http://markcrispinmiller.com/2007/06/' />
+	<link rel='archives' title='May 2007' href='http://markcrispinmiller.com/2007/05/' />
+	<link rel='archives' title='April 2007' href='http://markcrispinmiller.com/2007/04/' />
+	<link rel='archives' title='March 2007' href='http://markcrispinmiller.com/2007/03/' />
+	<link rel='archives' title='February 2007' href='http://markcrispinmiller.com/2007/02/' />
+	<link rel='archives' title='January 2007' href='http://markcrispinmiller.com/2007/01/' />
+	<link rel='archives' title='December 2006' href='http://markcrispinmiller.com/2006/12/' />
+	<link rel='archives' title='November 2006' href='http://markcrispinmiller.com/2006/11/' />
+	<link rel='archives' title='October 2006' href='http://markcrispinmiller.com/2006/10/' />
+	<link rel='archives' title='September 2006' href='http://markcrispinmiller.com/2006/09/' />
+	<link rel='archives' title='August 2006' href='http://markcrispinmiller.com/2006/08/' />
+	<link rel='archives' title='July 2006' href='http://markcrispinmiller.com/2006/07/' />
+	<link rel='archives' title='June 2006' href='http://markcrispinmiller.com/2006/06/' />
+	<link rel='archives' title='May 2006' href='http://markcrispinmiller.com/2006/05/' />
+	<link rel='archives' title='April 2006' href='http://markcrispinmiller.com/2006/04/' />
+	<link rel='archives' title='March 2006' href='http://markcrispinmiller.com/2006/03/' />
+	<link rel='archives' title='February 2006' href='http://markcrispinmiller.com/2006/02/' />
+	<link rel='archives' title='January 2006' href='http://markcrispinmiller.com/2006/01/' />
+	<link rel='archives' title='December 2005' href='http://markcrispinmiller.com/2005/12/' />
+	<link rel='archives' title='November 2005' href='http://markcrispinmiller.com/2005/11/' />
+	<link rel='archives' title='October 2005' href='http://markcrispinmiller.com/2005/10/' />
+	<link rel='archives' title='September 2005' href='http://markcrispinmiller.com/2005/09/' />
+	<link rel='archives' title='August 2005' href='http://markcrispinmiller.com/2005/08/' />
+	<link rel='archives' title='July 2005' href='http://markcrispinmiller.com/2005/07/' />
+	<link rel='archives' title='June 2005' href='http://markcrispinmiller.com/2005/06/' />
+	<link rel='archives' title='May 2005' href='http://markcrispinmiller.com/2005/05/' />
+		<link rel="alternate" type="application/rss+xml" title="News From Underground &raquo; What game is PayPal playing? And where are all those documents that Edward Snowden gave the world? Comments Feed" href="http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/feed/" />
+<link rel='stylesheet' id='avatars-css'  href='http://markcrispinmiller.com/wp-content/plugins/add-local-avatar/avatars.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='imgareaselect-css'  href='http://markcrispinmiller.com/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://markcrispinmiller.com/wp-includes/css/dashicons.min.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://markcrispinmiller.com/wp-includes/js/thickbox/thickbox.css?ver=20131201' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-external-links-css'  href='http://markcrispinmiller.com/wp-content/plugins/wp-external-links/css/wp-external-links.css?ver=1.41' type='text/css' media='all' />
+<script type='text/javascript' src='http://markcrispinmiller.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://markcrispinmiller.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://markcrispinmiller.com/wp-content/plugins/font-resizer/js/jquery.cookie.js?ver=3.8'></script>
+<script type='text/javascript' src='http://markcrispinmiller.com/wp-content/plugins/font-resizer/js/jquery.fontsize.js?ver=3.8'></script>
+<script type='text/javascript' src='http://markcrispinmiller.com/wp-content/plugins/font-resizer/js/main.js?ver=3.8'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://markcrispinmiller.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://markcrispinmiller.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Radiation level spikes at Surfers Beach in California' href='http://markcrispinmiller.com/2014/01/radiation-level-spikes-at-surfers-beach-in-california/' />
+<link rel='canonical' href='http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/' />
+<link rel='shortlink' href='http://wp.me/pkFiL-9tO' />
+<script type='text/javascript' src='http://markcrispinmiller.com/wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+<script type="text/javascript">
+//<![CDATA[
+function alo_em_pubblic_form ()
+{
+//edit : added all this for
+  var alo_cf_array = new Array();
+      document.alo_easymail_widget_form.submit.value="sending...";
+  document.alo_easymail_widget_form.submit.disabled = true;
+  document.getElementById('alo_em_widget_loading').style.display = "inline";
+  document.getElementById('alo_easymail_widget_feedback').innerHTML = "";
+  
+  var alo_em_sack = new sack("http://markcrispinmiller.com/wp-admin/admin-ajax.php" );
+
+  alo_em_sack.execute = 1;
+  alo_em_sack.method = 'POST';
+  alo_em_sack.setVar( "action", "alo_em_pubblic_form_check" );
+  alo_em_sack.setVar( "alo_em_opt_name", document.alo_easymail_widget_form.alo_em_opt_name.value );
+  alo_em_sack.setVar( "alo_em_opt_email", document.alo_easymail_widget_form.alo_em_opt_email.value );
+    alo_em_sack.setVar( "alo_easymail_txt_generic_error", 'Error during operation.' );  
+  alo_em_sack.setVar( "alo_em_error_email_incorrect", "The e-email address is not correct");
+  alo_em_sack.setVar( "alo_em_error_name_empty", "The name field is empty");
+    alo_em_sack.setVar( "alo_em_error_email_added", "Warning: this email address has already been subscribed, but not activated. We are now sending another activation email");
+  alo_em_sack.setVar( "alo_em_error_email_activated", "Warning: this email address has already been subscribed");
+  alo_em_sack.setVar( "alo_em_error_on_sending", "Error during sending: please try again");
+  alo_em_sack.setVar( "alo_em_txt_ok", "Subscription successful. You will receive an e-mail with a link. You have to click on the link to activate your subscription.");
+  alo_em_sack.setVar( "alo_em_txt_subscribe", "Subscribe");
+  alo_em_sack.setVar( "alo_em_lang_code", "en");  
+  
+  var cbs = document.getElementById('alo_easymail_widget_form').getElementsByTagName('input');
+  var length = cbs.length;
+  var lists = "";
+  for (var i=0; i < length; i++) {
+  	if (cbs[i].name == 'alo_em_form_lists' +'[]' && cbs[i].type == 'checkbox') {
+  		if ( cbs[i].checked ) lists += cbs[i].value + ",";
+  	}
+  }
+  alo_em_sack.setVar( "alo_em_form_lists", lists );
+  alo_em_sack.setVar( "alo_em_nonce", '4f2fd9fc81' );  
+  //alo_em_sack.onError = function() { alert('Ajax error' )};
+  alo_em_sack.runAJAX();
+
+  return true;
+
+} 
+//]]>
+</script>
+<!-- Equal Columns Script Begins -->
+	<script src="http://markcrispinmiller.com/wp-content/plugins/wp-equal-columns/equalcolumns.js" type="text/javascript"></script>
+    <!-- Equal Columns Script Ends -->
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<link rel="icon" href="http://markcrispinmiller.com/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://markcrispinmiller.com/favicon.ico" type="image/x-icon" />
+
+<meta name="google-site-verification" content="riT2oV1ECbZ8hj80iQTjjO1Zv9bHCcQg0PurP_ZG6L0" />
+
+</head>
+<body>
+
+<!-- begin wrapper -->
+
+
+
+<div id="wrapper">
+	<!-- begin header -->
+	<div id="header">
+		<!-- begin top links -->
+			<ul id="topLinks">
+				<li><a href="http://markcrispinmiller.com/">home</a></li>
+				<li class="page_item page-item-2"><a href="http://markcrispinmiller.com/about/">About Mark Crispin Miller</a></li>
+<li class="page_item page-item-23542"><a href="http://markcrispinmiller.com/books-by-mark-crispin-miller/">Books by Mark Crispin Miller</a></li>
+<li class="page_item page-item-23569"><a href="http://markcrispinmiller.com/donate/">Donate!</a></li>
+<li class="page_item page-item-25980"><a href="http://markcrispinmiller.com/marks-current-reading-list/">Mark&#8217;s Current Reading List</a></li>
+<li class="page_item page-item-30"><a href="http://markcrispinmiller.com/speaking-engagements/">Speaking Engagements</a></li>
+			</ul>
+		<!-- end top links -->
+		<div id="site5top">&nbsp;</div>
+		<!-- begin logo & tagline -->
+		<div id="logoTag">
+						<div id="logoImg"><a href="http://markcrispinmiller.com/"><img src="http://markcrispinmiller.com/images/newsMCM.png" alt="" /></a>
+			</div>
+								</div>
+		<!-- end logo & tagline -->
+
+		<!-- begin search box -->
+			<form id="searchform" action="" method="get">
+				<input id="s" type="text" name="s" value=""/>
+				<input id="searchsubmit" type="submit" value=""/>
+			</form>
+		<!-- end search box -->
+		<!-- begin top menu -->
+		<div id="topMenu">
+			<ul class="sf-menu">
+					<li class="cat-item cat-item-1"><a href="http://markcrispinmiller.com/category/general/" title="View all posts filed under General">General</a>
+</li>
+			</ul>
+		</div>
+		<!-- end top menu -->
+		<!-- begin social links -->
+		<div id="socialLinks">
+				<a href="http://twitter.com/mcrispinmiller" title="Twitter" target="blank"><img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/ico_twitter.png" alt="Twitter" /></a>				<a href="http://www.facebook.com/#!/pages/Mark-Crispin-Miller/28725531227?ref=ts" title="Facebook" target="blank"><img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/ico_facebook.png" alt="Facebook" /></a><a href="http://youtube.com/newsfromunderground" title="youtube" target="blank"><img src="http://markcrispinmiller.com/images/ico_youtube.png" alt="youtube" /></a>
+		<a href="http://markcrispinmiller.com/feed/" title="RSS" ><img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/ico_rss.png" alt="RSS" /></a>		
+		</div>
+		<!-- end social links -->
+	</div>
+	<!-- end header -->
+	
+	<!-- begin content -->
+	<div id="content" class="clearfix">
+
+<!-- begin col left -->
+	<div id="colLeft" class="clearfix">		
+					
+			<!-- blog item -->
+		<div class="blogItem">
+				<div class="itemTitle clearfix">
+					<div class="date">
+						<span class="month">Jan</span><br />
+						<span class="day">3</span>
+					</div>
+					<h1><a href="http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/">What game is PayPal playing? And where are all those documents that Edward Snowden gave the world?</a></h1>
+				</div>
+				<p><strong>The Risks of Trusting the Snowden Story<br />
+Posted on January 1, 2014 by Kevin Ryan</strong></p>
+<p>Last June, Glenn Greenwald at The Guardian revealed that Edward Snowden was the NSA insider behind “one of the most significant leaks in US political history.” Snowden explained his motivations through Greenwald by saying, “There are more important things than money…. harming people isn’t my goal. Transparency is.” Such altruistic motivations were welcome news at the time but have come into question recently given that only a tiny fraction of the documents have been released nearly a year after Snowden started working with Greenwald. Perhaps more importantly, billionaire Pierre Omidyar is funding Greenwald’s slow release of those documents and Omidyar’s Paypal colleagues have highly suspicious links to NSA spying and other dangers to civil rights.</p>
+<p>It was originally reported that the number of documents Snowden had stolen was in the thousands. Today, however, that number is said to be nearly two million. This calls into question Snowden’s early statement, as reported by Greenwald, that he “carefully evaluated every single document to ensure that each was legitimately in the public interest.” The huge, new number also reveals that less than one tenth of one percent of the documents (only about 900) have actually been released to the public.</p>
+<p>How could Snowden have “carefully evaluated every single” one of what is now being said to be nearly two million documents? He only worked for Booz Allen Hamilton for a few months. According to NSA Director Keith Alexander, Snowden also worked directly for NSA for twelve months prior to that, which is interesting. But still, that would require carefully evaluating thousands of documents a day during that entire time. Didn’t he have a job apart from that?</p>
+<p>Journalist Margie Burns asked some good questions back in June that have not yet been answered. She wondered about the 29-year old Snowden who had been a U.S. Army Special Forces recruit, a covert CIA operative, and an NSA employee in various capacities, all in just a few, short years. Burns asked “How, exactly, did Snowden get his series of NSA jobs? Did he apply through regular channels? Was it through someone he knew? Who recommended him? Who were his references for a string of six-figure, high-level security jobs? Are there any safeguards in place so that red flags go up when a subcontractor jumps from job to job, especially in high-level clearance positions?”</p>
+<p><a href="http://digwithin.net/2014/01/01/snowden/" class="external" rel="nofollow" target="_blank">Read more.</a></p>
+<div id="crp_related" class="crp_related"><br /><h3>Related Posts:</h3><ul><li><a href="http://markcrispinmiller.com/2013/06/you-cant-wait-around-for-someone-else-to-act-edward-snowden-american-hero-must-see/" class="crp_title">&#8220;You can&#8217;t wait around for someone else to&hellip;</a></li><li><a href="http://markcrispinmiller.com/2013/06/edward-snowden-is-the-lucky-seventh-of-obamacos-espionage-act-prosecutions/" class="crp_title">Edward Snowden is the lucky seventh of ObamaCo&#8217;s&hellip;</a></li><li><a href="http://markcrispinmiller.com/2013/06/let-the-people-of-hong-kong-decide-my-fate-says-snowden/" class="crp_title">&#8220;Let the people of Hong Kong decide my fate,&#8221;&hellip;</a></li><li><a href="http://markcrispinmiller.com/2013/07/snowden-to-seek-asylum-in-russia/" class="crp_title">Snowden to seek asylum in Russia</a></li><li><a href="http://markcrispinmiller.com/2013/06/more-americans-think-snowden-is-a-patriot-than-a-traitor/" class="crp_title">More Americans think Snowden is a patriot than a traitor</a></li><li>Powered by <a href="http://ajaydsouza.com/wordpress/plugins/contextual-related-posts/" rel="nofollow" class="external" target="_blank">Contextual Related Posts</a></li></ul></div>
+<!-- start wp-tags-to-technorati 1.02 -->
+
+<!-- end wp-tags-to-technorati -->
+ <br />
+				<div class="metadata">
+				January 3, 2014 &nbsp;&nbsp;//&nbsp;&nbsp; <a href="http://markcrispinmiller.com/category/general/" title="View all posts in General" rel="category tag">General</a> &nbsp;&nbsp;//&nbsp;&nbsp; <a href="http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/#respond" title="Comment on What game is PayPal playing? And where are all those documents that Edward Snowden gave the world?">No Comments</a> &nbsp;&nbsp;//&nbsp;&nbsp; </div>
+			</div>
+			
+		<!-- end blogItem -->
+		
+		<!-- Social Sharing Icons -->
+		<div class="social">
+			 <p>Do you like this article?<strong> Share It!</strong></p>
+				<a href="http://twitter.com/home/?status=What game is PayPal playing? And where are all those documents that Edward Snowden gave the world? : http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/" title="Tweet this!">
+				<img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/twitter.png" alt="Tweet this!" />
+				</a>
+				
+				<a href="http://www.stumbleupon.com/submit?url=http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/&amp;amp;title=What game is PayPal playing? And where are all those documents that Edward Snowden gave the world?" title="StumbleUpon.">
+				<img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/stumbleupon.png" alt="StumbleUpon" />
+				</a>
+				
+				<a href="http://www.reddit.com/submit?url=http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/&amp;amp;title=What game is PayPal playing? And where are all those documents that Edward Snowden gave the world?" title="Vote on Reddit.">
+				<img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/reddit.png" alt="Reddit" />
+				</a>
+				<a href="http://digg.com/submit?phase=2&amp;amp;url=http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/&amp;amp;title=What game is PayPal playing? And where are all those documents that Edward Snowden gave the world?" title="Digg this!">
+				<img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/digg.png" alt="Digg This!" />
+				</a>
+				
+				<a href="http://del.icio.us/post?url=http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/&amp;amp;title=What game is PayPal playing? And where are all those documents that Edward Snowden gave the world?" title="Bookmark on Delicious.">
+				<img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/delicious.png" alt="Bookmark on Delicious" />
+				</a>
+				
+				<a href="http://www.facebook.com/sharer.php?u=http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/&amp;amp;t=What game is PayPal playing? And where are all those documents that Edward Snowden gave the world?" title="Share on Facebook.">
+				<img src="http://markcrispinmiller.com/wp-content/themes/rockwell_wp/rockwell/images/facebook.png" alt="Share on Facebook" id="sharethis-last" />
+				</a>
+			</div>
+		
+		<!-- end Social Sharing Icons -->
+		
+       <br /> 
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	 
+
+
+<div id="respond">
+
+<h2>Post comment</h2>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+NewsFromUnderground+%28News+From+Underground%29#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://markcrispinmiller.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label>
+<input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required='true' />
+</p>
+
+<p><label for="email">Mail (will not be published) (required)</label>
+<input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required='true' />
+</p>
+
+<p><label for="url">Website</label>
+<input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+</p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><label for="comment">Comment</label>
+<textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Send &raquo;" />
+<input type='hidden' name='comment_post_ID' value='36444' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="cf144fcd11" /></p>
+
+	<p style="clear: both;" class="subscribe-to-comments">
+	<input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" />
+	<label for="subscribe">Notify me of followup comments via e-mail</label>
+	</p>
+
+
+
+</form>
+
+</div>
+
+					
+			</div>
+			<!-- end col left -->
+	
+<!-- begin col right -->
+		<div id="colRight" class="clearfix">
+						<!-- begin colRightInner -->
+			<div id="colRightInner">
+
+
+
+<h2> The Hidden History of the JFK Assassination</h2>			<div class="textwidget"><a href="http://amzn.to/1fj8BoA" target="_blank" class="external" rel="nofollow"><img src="http://markcrispinmiller.com/wp-content/uploads/2013/12/jfk_lamar.jpg" alt="The Hidden History of the JFK Assassination" title="The Hidden History of the JFK Assassination" width="250" border="0" /></a><br /><br /></div>
+					<div class="textwidget"><a href="http://markcrispinmiller.com/2011/07/urgent-how-george-bush-beat-john-kerry-in-2004-ken-blackwells-secret-contract-with-mike-connell-to-rip-off-ohios-vote/"><img src="http://markcrispinmiller.com/wp-content/uploads/2011/07/urgent.png" width="260"></a><br /><br /><br /></div>
+		<h2>&#8220;While We Were Sleeping&#8221;</h2>			<div class="textwidget"><div style="margin-left:10px; line-height:22px;">
+<p><a href="https://www.wepay.com/donations/while-we-were-sleeping-nyu-and-the-destruction-of-new-york" target="_blank" class="external" rel="nofollow"><img src="http://nyufasp.com/wp-content/uploads/2012/07/EBM-NYU.jpg" align="left" border="0" width="75px" style="padding-right:5px"></a>While We Were Sleeping is an urgent call to save Greenwich Village from New York University's uncontrolled expansion. </p>
+
+<p><a href="https://www.wepay.com/donations/while-we-were-sleeping-nyu-and-the-destruction-of-new-york" target="_blank" class="external" rel="nofollow">Click here to donate to NYUFASP and receive a copy of "While We Were Sleeping: NYU and the Destruction of New York" (minimum donation to receive a book is $10 plus $8 shipping).</a></p>
+
+</div>
+
+</div>
+		<h2>Orwell Rolls In His Grave, featuring MCM &#8211; Buy the DVD</h2>			<div class="textwidget"><a href="http://markcrispinmiller.com/orwell-rolls-in-his-grave/"><img src="http://markcrispinmiller.com/wp-content/uploads/2011/06/BoxAd1-1.jpg" width="260"></a><br /><br /></div>
+					<div class="textwidget"><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/510679273/feed.css" />
+<script language="javascript" src="http://cache.blogads.com/510679273/feed.js"></script></div>
+					<div class="textwidget"><!-- begin box about -->
+			<div id="boxAbout">
+				<h2>About News From Underground</h2>
+				<p><p>News From Underground is a daily e-news service run by <a href="http://markcrispinmiller.com/about/">Mark Crispin Miller</a>, a Professor of Culture and Communication at NYU. It is based on his belief that academics, like reporters, have a civic obligation to help keep the people well-informed, so that American democracy might finally work.</p>
+
+<p>If you&apos;d like to receive updates delivered to your inbox daily, sign up for News From Underground Alerts: <form action=http://groups.google.com/group/newsfromunderground/boxsubscribe>
+<input type=text name=email> <input type=submit name=sub value=Subscribe>
+</form>
+</p></p>
+			</div>
+					<!-- end box about --></div>
+					<div class="textwidget"><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_71b61a32-f24a-4074-9522-1b7d88f18306"  WIDTH="260px" HEIGHT="150px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fthedustbin-20%2F8010%2F71b61a32-f24a-4074-9522-1b7d88f18306&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fthedustbin-20%2F8010%2F71b61a32-f24a-4074-9522-1b7d88f18306&Operation=GetDisplayTemplate" id="Player_71b61a32-f24a-4074-9522-1b7d88f18306" quality="high" bgcolor="#ffffff" name="Player_71b61a32-f24a-4074-9522-1b7d88f18306" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="150px" width="260px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fthedustbin-20%2F8010%2F71b61a32-f24a-4074-9522-1b7d88f18306&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT><br /></div>
+		<h2>Help News From Underground!</h2>			<div class="textwidget"><br /><br /><center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="DBFAKXY94TBLL">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></center><br /><br />
+
+Message from Mark: "I am a one-man operation, although assisted greatly by some volunteers, and, now and then, by people paid by others for one-time projects. There is no shortage of skilled, dedicated folks out there who want to help me. There is, however, nothing I can pay them with, unless you decide you can contribute something."
+<br /><br />
+Please donate via the PayPal button above or via PayPal by email to: markcrispinmiller@gmail.com
+<br /><br /></div>
+						<h2>Recent Posts</h2>		<ul>
+					<li>
+				<a href="http://markcrispinmiller.com/2014/01/what-game-is-paypal-playing-and-where-are-all-those-documents-that-edward-snowden-gave-the-world/">What game is PayPal playing? And where are all those documents that Edward Snowden gave the world?</a>
+						</li>
+					<li>
+				<a href="http://markcrispinmiller.com/2014/01/radiation-level-spikes-at-surfers-beach-in-california/">Radiation level spikes at Surfers Beach in California</a>
+						</li>
+					<li>
+				<a href="http://markcrispinmiller.com/2013/12/marty-leo-you-got-conned-an-open-letter-to-the-makers-of-the-wolf-of-wall-street/">&#8220;Marty, Leo, you got conned&#8221;: An open letter to the makers of &#8220;The Wolf of Wall Street&#8221;</a>
+						</li>
+					<li>
+				<a href="http://markcrispinmiller.com/2013/12/the-tao-of-uncle-sam-nsas-covert-team-of-hyper-hackers-der-spiegel/">The TAO of Uncle Sam: NSA&#8217;s covert team of hyper-hackers (Der Spiegel)</a>
+						</li>
+					<li>
+				<a href="http://markcrispinmiller.com/2013/12/fukushima-radiation-hits-west-coast-with-no-mention-by-the-corporate-press/">Fukushima radiation hits West Coast (with no mention by the corporate press)</a>
+						</li>
+				</ul>
+		<h2>Recent Comments</h2><ul id="recentcomments"><li class="recentcomments">Mark Crispin Miler on <a href="http://markcrispinmiller.com/2013/12/elizabeth-warren-comes-down-hard-against-keystone-xl-the-kochs-and-hillary/comment-page-1/#comment-26254">Elizabeth Warren comes down hard against Keystone XL, the Kochs&#8212;and Hillary</a></li><li class="recentcomments">Mike on <a href="http://markcrispinmiller.com/2013/12/elizabeth-warren-comes-down-hard-against-keystone-xl-the-kochs-and-hillary/comment-page-1/#comment-26251">Elizabeth Warren comes down hard against Keystone XL, the Kochs&#8212;and Hillary</a></li><li class="recentcomments">Mike on <a href="http://markcrispinmiller.com/2013/12/elizabeth-warren-comes-down-hard-against-keystone-xl-the-kochs-and-hillary/comment-page-1/#comment-26250">Elizabeth Warren comes down hard against Keystone XL, the Kochs&#8212;and Hillary</a></li><li class="recentcomments">John Bottomly on <a href="http://markcrispinmiller.com/2013/08/new-documentary-about-twa-flight-800/comment-page-1/#comment-26246">New documentary about TWA Flight 800!</a></li><li class="recentcomments">Mark Crispin Miler on <a href="http://markcrispinmiller.com/2013/12/elizabeth-warren-comes-down-hard-against-keystone-xl-the-kochs-and-hillary/comment-page-1/#comment-26244">Elizabeth Warren comes down hard against Keystone XL, the Kochs&#8212;and Hillary</a></li></ul><h2>Popular Posts</h2>
+<ul class='wppp_list'>
+	<li><a href='http://markcrispinmiller.com/2013/12/fukushima-radiation-hits-west-coast-with-no-mention-by-the-corporate-press/' title='Fukushima radiation hits West Coast (with no mention by the corporate press)'>Fukushima radiation hits West Coast (with no mention by the corporate press)</a></li>
+	<li><a href='http://markcrispinmiller.com/2011/02/dont-buy-these-products-from-koch-industries/' title='Don&#039;t buy these products from Koch Industries!'>Don&#039;t buy these products from Koch Industries!</a></li>
+	<li><a href='http://markcrispinmiller.com/2014/01/radiation-level-spikes-at-surfers-beach-in-california/' title='Radiation level spikes at Surfers Beach in California'>Radiation level spikes at Surfers Beach in California</a></li>
+	<li><a href='http://markcrispinmiller.com/2011/09/you-talkin-to-me-ny-cop-attacks-a-man-for-speaking-to-him/' title='&quot;You talkin&#039; to me??&quot; NY cop attacks a man for speaking to him'>&quot;You talkin&#039; to me??&quot; NY cop attacks a man for speaking to him</a></li>
+	<li><a href='http://markcrispinmiller.com/2013/12/marty-leo-you-got-conned-an-open-letter-to-the-makers-of-the-wolf-of-wall-street/' title='&quot;Marty, Leo, you got conned&quot;: An open letter to the makers of &quot;The Wolf of Wall Street&quot;'>&quot;Marty, Leo, you got conned&quot;: An open letter to the makers of &quot;The Wolf of Wall Street&quot;</a></li>
+</ul>
+<h2>Blogroll</h2><ul><li><a rel="nofollow" href="http://www.democrats.com" title="">Democrats.com</a></li><li><a rel="nofollow" href="http://www.ithp.org" title="">The International Human Press</a></li><li><a rel="nofollow" href="http://www.williambetz.com/" title="">William Betz</a></li><li><a rel="nofollow" href="http://consortiumnews.com" title="">consortiumnews.com</a></li><li><a rel="nofollow" href="http://richardcharnin.com/" title="">Richard Charnin</a></li><li><a rel="nofollow" href="http://www.truthout.org/" title="">t r u t h o u t</a></li><li><a rel="nofollow" href="http://historyunfolding.blogspot.com/" title="">History Unfolding</a></li><li><a rel="nofollow" href="http://cannonfire.blogspot.com/" title="">Cannonfire</a></li><li><a rel="nofollow" href="http://www.meria.net/" title="">Meria</a></li><li><a rel="nofollow" href="http://www.thomhartmann.com" title="">Thom Hartmann</a></li><li><a rel="nofollow" href="http://words-of-power.blogspot.com/" title="">Words of Power</a></li><li><a rel="nofollow" href="http://www.onlinejournal.com/" title="">Online Journal</a></li><li><a rel="nofollow" href="http://www.philly.com/philly/blogs/attytood/" title="">Attytood</a></li><li><a rel="nofollow" href="http://bradblog.com" title="">BradBlog</a></li><li><a rel="nofollow" href="http://electiondefensealliance.org/" title="">Election Defense Alliance</a></li><li><a rel="nofollow" href="http://susiemadrak.com" title="">Suburban Guerrilla</a></li><li><a rel="nofollow" href="http://www.veteransforcommonsense.org" title="">Veterans for Common Sense</a></li><li><a rel="nofollow" href="http://www.evilgopbastards.com/" title="">Evil GOP Bastards</a></li><li><a rel="nofollow" href="http://www.buzzflash.com/" title="">Buzzflash</a></li><li><a rel="nofollow" href="http://www.writersvoice.net/" title="">Writers Voice</a></li><li><a rel="nofollow" href="http://barrygordonfromleftfield.com" title="">Barry Gordon</a></li><li><a rel="nofollow" href="http://www.talkingpointsmemo.com/" title="">Talking Points Memo</a></li><li><a rel="nofollow" href="http://aliasbruce.typepad.com/" title="">alias Bruce</a></li><li><a rel="nofollow" href="http://firedoglake.com" title="">Firedoglake</a></li><li><a rel="nofollow" href="http://www.fair.org/" title="">Fairness &amp; Accuracy in Reporting</a></li></ul><h2>Need a bigger font size?</h2>			<div class="textwidget"><br />
+
+<li class="fontResizer" style="text-align: center; font-weight: bold;"><a class="fontResizer_minus" title="Decrease font size" style="font-size: 0.7em;">A</a> <a class="fontResizer_reset" title="Reset font size">A</a> <a class="fontResizer_add" title="Increase font size" style="font-size: 1.2em;">A</a> <input type="hidden" id="fontResizer_value" value="body" /><input type="hidden" id="fontResizer_ownid" value="" /><input type="hidden" id="fontResizer_ownelement" value="" /><input type="hidden" id="fontResizer_resizeSteps" value="1.6" /><input type="hidden" id="fontResizer_cookieTime" value="31" /></li>
+<br /><br /></div>
+		<h2>Sponsored Links</h2>			<div class="textwidget"><ul><li>Your link could be here too, <a href="mailto:markcrispinmiller@gmail.com" style="color:#12b6d1;">contact us</a> for pricing details.</li></ul> 
+
+<ul>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+</div>
+		
+			</div>
+			<!-- end colRightInner -->
+			&nbsp;</a>
+		</div>
+		<!-- end colRight -->
+	
+		</div>
+		<!-- end col right -->
+
+
+
+<div id='avatar_footer_credit' style='display: none;'>Avatars by <a href='http://www.sterling-adventures.co.uk/blog/'>Sterling Adventures</a></div>
+	</div>
+	<!-- end content -->
+
+</div>
+<!-- end wrapper -->
+
+<br clear="all">
+
+<!-- begin footer -->
+	<div id="footer">
+		<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />This work is licenced under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Licence</a>.
+		<ul id="bottomLinks">
+				<li><a href="http://markcrispinmiller.com/">home</a></li>
+				<li class="page_item page-item-2"><a href="http://markcrispinmiller.com/about/">About Mark Crispin Miller</a></li>
+<li class="page_item page-item-23542"><a href="http://markcrispinmiller.com/books-by-mark-crispin-miller/">Books by Mark Crispin Miller</a></li>
+<li class="page_item page-item-23569"><a href="http://markcrispinmiller.com/donate/">Donate!</a></li>
+<li class="page_item page-item-25980"><a href="http://markcrispinmiller.com/marks-current-reading-list/">Mark&#8217;s Current Reading List</a></li>
+<li class="page_item page-item-30"><a href="http://markcrispinmiller.com/speaking-engagements/">Speaking Engagements</a></li>
+			</ul>
+<br /><br />
+
+
+<div align="right"><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/989941683/feed.css" /><script language="javascript" src="http://cache.blogads.com/989941683/feed.js"></script></div><br />
+
+</div>
+
+<!-- end footer -->	
+<script type='text/javascript' src='http://markcrispinmiller.com/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js?ver=0.9.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/markcrispinmiller.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://markcrispinmiller.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201401.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'4925327',v:'ext',post:'36444'});
+var load_cmc = function(){linktracker_init(4925327,36444,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-385223-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>

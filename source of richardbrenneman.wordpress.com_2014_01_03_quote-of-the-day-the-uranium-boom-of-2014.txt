@@ -1,0 +1,1297 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en">
+<![endif]-->
+<!--[if (!IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+<!--
+	generated in 0.434 seconds
+	86978 bytes batcached for 300 seconds
+-->
+<head>
+<meta charset="UTF-8" />
+<title>Quote of the day: The uranium boom of 2014 | eats shoots &#039;n leaves</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://richardbrenneman.wordpress.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="eats shoots &#039;n leaves &raquo; Feed" href="http://richardbrenneman.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="eats shoots &#039;n leaves &raquo; Comments Feed" href="http://richardbrenneman.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="eats shoots &#039;n leaves &raquo; Quote of the day: The uranium boom of&nbsp;2014 Comments Feed" href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<style type="text/css">
+	/*body div.jp-relatedposts { border-color:#cccccc; }
+	body div.jp-relatedposts .jp-relatedposts-headline em { background:#ffffff }
+	body div.jp-relatedposts, body div.jp-relatedposts .jp-relatedposts-post a { color:#333333 }*/
+	body div.jp-relatedposts .jp-relatedposts-headline em:before { border-color:#333333; }
+</style><link rel='stylesheet' id='all-css-0' href='http://s1.wp.com/_static/??-eJyVkd2OAiEMhV9o2bpq/LnY+CwMVAYtlEAnE99eZjRxonGiV/SQ75TTAn1ShqNgFAidStQ5HwuQP2OBE0rS5qxG9WtK+YEJ3hC7h4GdQ8udqCMTcQ+9tw7lxTR5IyNpQasSF3lSc7aQNvU6JC1j2daAs/zQUB1J+wxFLoQvrLQY6rCpa8Bw1uQjfkH6aG606lONNT/wsLJaOqjURH4av9V5MN/Pd/HaNTjiRtNc29v3lDGIY7YZtR3XeAj/f6vdbr1f7LfL0xVUlsuE' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJyVkNEKwjAMRX/IrpsT8UX8lq3LSmrb1KZ1zK+3gwmKwvApITnkkCunIBT5BD5Jw9JRjxZEZoidLjOBfqTK8E4WDr2yeQBeQHPLEOe1bALCoY5dgsqhf8Fv1kCcHDAX5Y/tpwr9HWHaxAyk0KmriMD4+LraW9Ii2KzRsyy9hoFyEiNZS5OccNCQ/lDY8tqwPMG/klDk3BJlhGDnNYGLOzft6Vg37b4+mCdGWpHp'></script>
+<link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621g' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://richardbrenneman.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://richardbrenneman.wordpress.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Jack Ohman: The Obama&nbsp;Show' href='http://richardbrenneman.wordpress.com/2014/01/03/jack-ohman-the-obama-show/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/' />
+<link rel='shortlink' href='http://wp.me/pFvly-8yr' />
+<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Frichardbrenneman.wordpress.com%2F2014%2F01%2F03%2Fquote-of-the-day-the-uranium-boom-of-2014%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Frichardbrenneman.wordpress.com%2F2014%2F01%2F03%2Fquote-of-the-day-the-uranium-boom-of-2014%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Quote of the day: The uranium boom of 2014" />
+<meta property="og:url" content="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/" />
+<meta property="og:description" content="From a research report by leading investment bankster Cantor Fitzgerald, reported by the Toronto Globe &amp; Mail emphasis added]: We have long pointed to 2014 as the kick off year for uranium pric..." />
+<meta property="og:site_name" content="eats shoots &#039;n leaves" />
+<meta property="og:image" content="http://wordpress.com/i/blank.jpg?m=1383295312g" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311975824g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311975824g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1355642671g" />
+<link rel='openid.server' href='http://richardbrenneman.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://richardbrenneman.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://richardbrenneman.wordpress.com/osd.xml" title="eats shoots &#039;n leaves" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="eats shoots &#039;n leaves" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Armaments, universal debt and planned obsolescence — those are the three pillars of Western prosperity.  — Aldous Huxley" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://richardbrenneman.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="title" content="Quote of the day: The uranium boom of&nbsp;2014 | eats shoots &#039;n leaves on WordPress.com" />
+<meta name="description" content="From a research report by leading investment bankster Cantor Fitzgerald, reported by the Toronto Globe &amp; Mail emphasis added]: We have long pointed to 2014 as the kick off year for uranium prices to return and for the commodity to retake its position in the spotlight. While uranium equities have shown some strength over the&hellip;" />
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+if ( typeof GS_googleAddAdSenseService == 'function' ) { GS_googleAddAdSenseService("ca-pub-3443918307802676"); }
+if ( typeof GS_googleEnableAllServices == 'function' ) { GS_googleEnableAllServices() };
+</script>
+<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script type="text/javascript">
+try { amznads.getAds("3033","300x250"); } catch(e) { /* ignore */ }
+</script>
+<script type="text/javascript">
+var amznKeys = amznads.getKeys();
+if (typeof amznKeys != "undefined" && amznKeys != "") { for (var i =0; i < amznKeys.length; i++) { var key = amznKeys[i]; GA_googleAddAttr("amzn", key);} }
+document.close();
+</script>
+<script type='text/javascript'>
+if ( typeof GA_googleAddSlot == 'function' ) { GA_googleAddSlot("ca-pub-3443918307802676", "wpcom_below_post_adsafe"); }
+</script>
+<script type='text/javascript'>
+if ( typeof GA_googleFetchAds == 'function' ) { GA_googleFetchAds(); }
+</script>
+
+<script type="text/javascript">
+var wpcom_ads = { bid: 9891948, pt: 'permalink', wa: 0, as: 1, domain: 'richardbrenneman.wordpress.com', url: 'http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/', gid: '', };
+</script>
+
+<script type='text/javascript'>/*<![CDATA[*/if(typeof(addLoadEvent)!='undefined'){addLoadEvent(function(){if(top==self){i=document.createElement('img');i.src='http://botd2.wordpress.com/botd.gif?blog=9891948&post=32887&lang=en&date=1388793876&ip=190.4.76.114&url=http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/';i.id='botd2';i.style.width='0px';i.style.height='0px';i.style.overflow='hidden';document.body.appendChild(i);}});}/*]]>*/</script>
+<style id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+
+<body class="single single-post postid-32887 single-format-standard mp6 two-column content-sidebar highlander-enabled highlander-light">
+<div id="container" class="hfeed contain">
+	<div id="header">
+		<div id="masthead" role="banner">
+						<div id="site-title">
+				<span>
+					<a href="http://richardbrenneman.wordpress.com/" title="eats shoots &#039;n leaves" rel="home">eats shoots &#039;n leaves</a>
+				</span>
+			</div>
+			<div id="site-description">Armaments, universal debt and planned obsolescence — those are the three pillars of Western prosperity.  — Aldous Huxley</div>
+		</div><!-- #masthead -->
+
+		<div id="access" role="navigation">
+		  			<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+						<div class="menu"><ul><li ><a href="http://richardbrenneman.wordpress.com/">Home</a></li><li class="page_item page-item-2"><a href="http://richardbrenneman.wordpress.com/about/">About</a></li></ul></div>
+		</div><!-- #access -->
+
+		<div id="branding">
+						<a href="http://richardbrenneman.wordpress.com/">
+									<img src="http://richardbrenneman.files.wordpress.com/2009/11/cropped-banner-2.jpg" width="990" height="180" alt="" />
+							</a>
+					</div><!-- #branding -->
+	</div><!-- #header -->
+
+	<div id="content-box">
+
+<div id="content-container">
+	<div id="content" role="main">
+
+	
+		<div id="nav-above" class="navigation">
+			<div class="nav-previous"><a href="http://richardbrenneman.wordpress.com/2014/01/03/jack-ohman-the-obama-show/" rel="prev"><span class="meta-nav">&larr;</span> Jack Ohman: The Obama&nbsp;Show</a></div>
+			<div class="nav-next"></div>
+		</div><!-- #nav-above -->
+
+		<div id="post-32887" class="post-32887 post type-post status-publish format-standard hentry category-culture category-environment category-finance category-governance category-health category-nature-2 category-resources">
+
+			
+			<h1 class="entry-title">Quote of the day: The uranium boom of&nbsp;2014</h1>
+							<div class="entry-meta">
+					<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/" title="16:04" rel="bookmark"><span class="entry-date">2014 January 3</span></a> <span class="comments-link"><span class="meta-sep">|</span> <a href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/#respond" title="Comment on Quote of the day: The uranium boom of&nbsp;2014">Leave a comment</a></span>
+									</div><!-- .entry-meta -->
+			
+			<div class="entry-content">
+				<div class="pd-rating" id="pd_rating_holder_712213_post_32887"></div><br/><p>From a research report by leading investment bankster <a href="http://en.wikipedia.org/wiki/Cantor_Fitzgerald" target="_blank">Cantor Fitzgerald</a>,<br />
+reported by the Toronto <a href="http://www.theglobeandmail.com/globe-investor/investment-ideas/research-reports/uranium-steps-into-the-spotlight-in-2014/article16185637/" target="_blank"><em>Globe &amp; Mail</em></a> emphasis added]:</p>
+<blockquote><p>We have long pointed to 2014 as the kick off year for uranium prices to return and for the commodity to retake its position in the spotlight. While uranium equities have shown some strength over the last quarter of 2013, we believe there is significant upside remaining as the spot price is below the current marginal cost of production and significantly below the minimum incentive price for future supply to match future uranium demand.</p>
+<p>While uranium prices are currently low due to excess uranium inventories stemming from material earmarked for Japan’s 50 reactors not being consumed over the last three years, we believe prices are set for a violent move higher as Japan is set to restart some reactors this year (we forecast 12 to restart in 2014). Moreover, <strong>despite the negative headlines of anti-uranium sentiment we continue to highlight that there are more reactors under construction, planned, and proposed now (556) than since before Fukushima (541).</strong></p></blockquote>
+
+<div class="wpa" style="position: relative; width:300px; text-align: center; padding: 0; margin: 10px auto; overflow: hidden; clear: both;">
+<a style="position: absolute; text-align: left; display: block; font: 9px/1 sans-serif; text-decoration: underline;" href="http://en.wordpress.com/about-these-ads/" rel="nofollow">About these ads</a>
+<script type="text/javascript">
+		var wpcom_adclk_hovering = false;
+		var wpcom_adclk_recorded = false;
+		var wpcom_adclk_theme = "Coraline";
+		var wpcom_adclk_slot = "wpcom_below_post_adsafe";
+		var wpcom_adclk_network = ( typeof wpcom_adclk_network === "undefined" ) ? "" : wpcom_adclk_network ;
+
+		jQuery(document).ready( function() {
+			function wpcom_adclk_hover_yes() { wpcom_adclk_hovering = true; }
+			function wpcom_adclk_hover_no() { wpcom_adclk_hovering = false; }
+			jQuery(".wpa").click(wpcom_adclk_click);
+			jQuery(".wpa iframe").hover( wpcom_adclk_hover_yes, wpcom_adclk_hover_no );
+			jQuery(".wpa object").hover( wpcom_adclk_hover_yes, wpcom_adclk_hover_no );
+
+			jQuery(window).blur( function() {
+				if ( wpcom_adclk_hovering ) { wpcom_adclk_click(); }
+			});
+		});
+
+		function wpcom_adclk_impression() {
+			var stat_gif = document.location.protocol + "//stats.wordpress.com/g.gif?v=wpcom-no-pv";
+			stat_gif += "&x_ads_imp_theme=" + wpcom_adclk_theme;
+			stat_gif += "&x_ads_imp_placement="+wpcom_adclk_slot;
+			stat_gif += "&x_ads_imp_network=" + wpcom_adclk_network;
+			stat_gif += "&x_ads_imp_theme_network="+wpcom_adclk_theme+"_"+wpcom_adclk_network;
+			new Image().src = stat_gif + "&baba=" + Math.random();
+			return true;
+		}
+
+		function wpcom_adclk_click() {
+			if (wpcom_adclk_recorded) { return true; } // no double counting
+			var stat_gif = document.location.protocol + "//stats.wordpress.com/g.gif?v=wpcom-no-pv";
+			stat_gif += "&x_ads_click_theme=" + wpcom_adclk_theme;
+			stat_gif += "&x_ads_click_placement="+wpcom_adclk_slot;
+			stat_gif += "&x_ads_click_network=" + wpcom_adclk_network;
+			stat_gif += "&x_ads_click_theme_network="+wpcom_adclk_theme+"_"+wpcom_adclk_network;
+
+			new Image().src = stat_gif + "&baba=" + Math.random();
+			wpcom_adclk_recorded = true;
+			var now=new Date(); var end=now.getTime()+250;
+			while(true){now=new Date();if(now.getTime()>end){break;}}
+			return true;
+		}
+	
+if ( typeof GA_googleAddAttr == 'function' ) {
+GA_googleAddAttr("AdOpt", "1");
+GA_googleAddAttr("Origin", "other");
+GA_googleAddAttr("LangId", "1");
+GA_googleAddAttr("Domain", "richardbrenneman.wordpress.com");
+GA_googleAddAttr("BlogId", "9891948");
+GA_googleAddAttr("PageURL", "http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/");
+GA_googleAddAttr("AdSafe", "1");
+GA_googleAddAttr("Autotag", "science");
+GA_googleAddAttr("Tag", "culture");
+GA_googleAddAttr("Tag", "environment");
+GA_googleAddAttr("Tag", "finance");
+GA_googleAddAttr("Tag", "governance");
+GA_googleAddAttr("Tag", "health");
+GA_googleAddAttr("Tag", "nature-2");
+GA_googleAddAttr("Tag", "resources");
+GA_googleAddAttr("Partner", "AOL");
+GA_googleAddAttr("theme_bg", "ffffff");
+GA_googleAddAttr("theme_border", "cccccc");
+GA_googleAddAttr("theme_text", "333333");
+GA_googleAddAttr("theme_link", "0060ff");
+GA_googleAddAttr("theme_url", "df0000");
+GA_googleAddAdSensePageAttr("google_page_url", "http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/");
+GA_googleFillSlot("wpcom_below_post_adsafe");
+}
+</script>
+</div>
+<style type="text/css">
+div.wpa>div { margin-top: 1em; } #google_ads_div_wpcom_below_post_adsafe_ad_container { display: block !important; }
+</style>
+<script type="text/javascript">
+jQuery( window ).load( function() {
+    if ( jQuery(".wpa script[src*='shareth.ru']").length > 0 || jQuery(".wpa iframe[src*='boomvideo.tv']").length > 0 || jQuery(".wpa iframe[src*='viewablemedia.net']").length > 0 || jQuery(".wpa .sharethrough-placement").length > 0 ) {
+        jQuery( '.wpa' ).css( 'width', '400px' );
+    }
+setTimeout(function(){if(typeof GS_googleAddAdSenseService !== 'function'){new Image().src=document.location.protocol+"//stats.wordpress.com/g.gif?v=wpcom-no-pv&x_noads=adblock&baba="+Math.random()}},100);
+} );
+</script>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-stumbleupon"><a rel="nofollow" class="share-stumbleupon sd-button share-icon" href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/?share=stumbleupon" title="Click to share on StumbleUpon"><span>StumbleUpon</span></a></li><li class="share-digg"><a rel="nofollow" class="share-digg sd-button share-icon" href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/?share=digg" title="Click to Digg this post"><span>Digg</span></a></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/?share=facebook" title="Share on Facebook" id="sharing-facebook-32887"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-32887"><span>Twitter</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-9891948-32887-52c76fc89ffad' data-src='//widgets.wp.com/likes/#blog_id=9891948&amp;post_id=32887&amp;origin=richardbrenneman.wordpress.com&amp;obj_id=9891948-32887-52c76fc89ffad' data-name='like-post-frame-9891948-32887-52c76fc89ffad'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height:55px'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts'>
+	<p class="jp-relatedposts-headline"><em>Related</em></p>
+</div></div>							</div><!-- .entry-content -->
+
+			<div class="entry-info">
+							This entry was posted in <a href="http://richardbrenneman.wordpress.com/category/culture/" title="View all posts in Culture" rel="category tag">Culture</a>, <a href="http://richardbrenneman.wordpress.com/category/environment/" title="View all posts in Environment" rel="category tag">Environment</a>, <a href="http://richardbrenneman.wordpress.com/category/finance/" title="View all posts in Finance" rel="category tag">Finance</a>, <a href="http://richardbrenneman.wordpress.com/category/governance/" title="View all posts in Governance" rel="category tag">Governance</a>, <a href="http://richardbrenneman.wordpress.com/category/health/" title="View all posts in Health" rel="category tag">Health</a>, <a href="http://richardbrenneman.wordpress.com/category/nature-2/" title="View all posts in Nature" rel="category tag">Nature</a>, <a href="http://richardbrenneman.wordpress.com/category/resources/" title="View all posts in Resources" rel="category tag">Resources</a>. Bookmark the <a href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/" title="Permalink to Quote of the day: The uranium boom of&nbsp;2014" rel="bookmark">permalink</a>.							</div><!-- .entry-info -->
+		</div><!-- #post-## -->
+
+		<div id="nav-below" class="navigation">
+			<div class="nav-previous"><a href="http://richardbrenneman.wordpress.com/2014/01/03/jack-ohman-the-obama-show/" rel="prev"><span class="meta-nav">&larr;</span> Jack Ohman: The Obama&nbsp;Show</a></div>
+			<div class="nav-next"></div>
+		</div><!-- #nav-below -->
+
+		
+<div id="comments">
+
+	
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://richardbrenneman.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																										
+
+
+												<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="e545a834d4" /><input type="hidden" name="_wp_http_referer" value="/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+			<iframe id="googleplus-sign-in" name="googleplus-sign-in" src="https://public-api.wordpress.com/connect/?googleplus-sign-in=1" width="24" height="24" scrolling="no" allowtransparency="true" seamless="seamless" frameborder="0"></iframe>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=R" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="text" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://s2.wp.com/wp-content/mu-plugins/highlander-comments/images/wplogo.png?m=1289230950g" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=R" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=R" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=R" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+	
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+												<p class="form-submit">
+							<input name="submit" type="submit" id="comment-submit" value="Post Comment" />
+							<input type='hidden' name='comment_post_ID' value='32887' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						
+<input type="hidden" name="genseq" value="1388801992" />
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7af21df6e6" /></p><script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/akismet-2.5/form.js?m=1308783962g'></script>
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="117"/></p>					</form>
+							</div><!-- #respond -->
+			<div style="clear: both"></div>
+</div><!-- #comments -->
+	
+	</div><!-- #content -->
+</div><!-- #content-container -->
+
+
+		
+		<div id="primary" class="widget-area" role="complementary">
+					<ul class="xoxo">
+
+			<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://richardbrenneman.wordpress.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li>		<li id="recent-posts-3" class="widget-container widget_recent_entries">		<h3 class="widget-title">The latest posts</h3>		<ul>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/">Quote of the day: The uranium boom of&nbsp;2014</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/03/jack-ohman-the-obama-show/">Jack Ohman: The Obama&nbsp;Show</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/01/chart-of-the-day-ii-urban-murder-rates-fall/">Chart of the day II: Urban murder rates&nbsp;fall</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/01/chris-ware-all-together-now/">Chris Ware: &#8220;All Together&nbsp;Now&#8221;</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/01/headlines-of-the-day-ii-econoethnofukufury/">Headlines of the day II:&nbsp;EconoEthnoFukufury</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/01/chart-of-the-day-greek-retail-stays-flat/">Chart of the Day: Greek retail stays&nbsp;flat</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/01/a-video-tour-of-the-nsas-bag-of-cybertricks/">A video tour of the NSA’s bag of&nbsp;cybertricks</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/01/mark-fiore-a-visit-from-saint-ayn/">Mark Fiore: A visit from Saint&nbsp;Ayn</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/01/south-berkeley-street-seens-new-years-eve/">South Berkeley Street Seens: New Year&#8217;s&nbsp;Eve</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2014/01/01/headlines-of-the-day-i-spies-lies-hacks-pols-3/">Headlines of the day I: Spies, Lies, Hacks, &amp;&nbsp;Pols</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/31/david-horsey-smoke-gets-in-your-eyes/">David Horsey: Smoke gets in your&nbsp;eyes</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/31/chart-of-the-day-why-we-love-our-libraries/">Chart of the day: Why we love our&nbsp;libraries</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/31/headlines-of-the-day-ii-econogrecofukuplus/">Headlines of the day II:&nbsp;EconoGrecoFukuPlus</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/30/headlines-of-the-day-i-spies-drones-bellicosity/">Headlines of the day I: Spies, drones,&nbsp;bellicosity</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/30/chart-of-the-day-documenting-a-social-divide/">Chart of the day: Documenting a social&nbsp;divide</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/29/headlines-of-the-day-ii-econogecofukufare/">Headlines of the day II:&nbsp;EconoGecoFukufare</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/28/greenwald-slams-msm-on-snowden-coverage/">Greenwald slams MSM on Snowden&nbsp;coverage</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/28/32810/">The revolving door spins in downtown&nbsp;Berkeley</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/28/robert-ariail-new-year/">Robert Ariail: New&nbsp;Year</a>
+						</li>
+					<li>
+				<a href="http://richardbrenneman.wordpress.com/2013/12/28/headlines-of-the-day-i-spooks-bugs-lies-pols/">Headlines of the day I: Spooks, bugs, lies,&nbsp;pols</a>
+						</li>
+				</ul>
+		</li><li id="categories-3" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-44451449"><a href="http://richardbrenneman.wordpress.com/category/a-bloggers-musings/" title="View all posts filed under A blogger&#039;s musings">A blogger&#039;s musings</a>
+</li>
+	<li class="cat-item cat-item-6942"><a href="http://richardbrenneman.wordpress.com/category/academia/" title="View all posts filed under Academia">Academia</a>
+</li>
+	<li class="cat-item cat-item-2214"><a href="http://richardbrenneman.wordpress.com/category/africa/" title="View all posts filed under Africa">Africa</a>
+</li>
+	<li class="cat-item cat-item-14572"><a href="http://richardbrenneman.wordpress.com/category/agriculture/" title="View all posts filed under Agriculture">Agriculture</a>
+</li>
+	<li class="cat-item cat-item-57132942"><a href="http://richardbrenneman.wordpress.com/category/amyris-inc/" title="View all posts filed under Amyris, Inc.">Amyris, Inc.</a>
+</li>
+	<li class="cat-item cat-item-177"><a href="http://richardbrenneman.wordpress.com/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-1612"><a href="http://richardbrenneman.wordpress.com/category/asia/" title="View all posts filed under Asia">Asia</a>
+</li>
+	<li class="cat-item cat-item-413"><a href="http://richardbrenneman.wordpress.com/category/audio/" title="View all posts filed under Audio">Audio</a>
+</li>
+	<li class="cat-item cat-item-5466847"><a href="http://richardbrenneman.wordpress.com/category/banksters/" title="View all posts filed under Banksters">Banksters</a>
+</li>
+	<li class="cat-item cat-item-67863646"><a href="http://richardbrenneman.wordpress.com/category/blood-on-the-newsroom-floor/" title="The latest news on news media layoffs and downsizings.">Blood on the Newsroom Floor</a>
+</li>
+	<li class="cat-item cat-item-178"><a href="http://richardbrenneman.wordpress.com/category/books/" title="View all posts filed under Books">Books</a>
+</li>
+	<li class="cat-item cat-item-4252"><a href="http://richardbrenneman.wordpress.com/category/cancer/" title="View all posts filed under Cancer">Cancer</a>
+</li>
+	<li class="cat-item cat-item-136535779"><a href="http://richardbrenneman.wordpress.com/category/cancer-our-experience-thereof/" title="View all posts filed under Cancer, our experience thereof">Cancer, our experience thereof</a>
+</li>
+	<li class="cat-item cat-item-7375"><a href="http://richardbrenneman.wordpress.com/category/cartoons/" title="View all posts filed under Cartoons">Cartoons</a>
+</li>
+	<li class="cat-item cat-item-634"><a href="http://richardbrenneman.wordpress.com/category/characters/" title="View all posts filed under Characters">Characters</a>
+</li>
+	<li class="cat-item cat-item-1343"><a href="http://richardbrenneman.wordpress.com/category/children/" title="View all posts filed under Children">Children</a>
+</li>
+	<li class="cat-item cat-item-6376"><a href="http://richardbrenneman.wordpress.com/category/class/" title="View all posts filed under Class">Class</a>
+</li>
+	<li class="cat-item cat-item-2528"><a href="http://richardbrenneman.wordpress.com/category/community/" title="View all posts filed under Community">Community</a>
+</li>
+	<li class="cat-item cat-item-235625"><a href="http://richardbrenneman.wordpress.com/category/community-journalism/" title="View all posts filed under Community journalism">Community journalism</a>
+</li>
+	<li class="cat-item cat-item-684696"><a href="http://richardbrenneman.wordpress.com/category/coopers-hawks/" title="View all posts filed under Cooper&#039;s Hawks">Cooper&#039;s Hawks</a>
+</li>
+	<li class="cat-item cat-item-4945525"><a href="http://richardbrenneman.wordpress.com/category/corpocracy/" title="View all posts filed under Corpocracy">Corpocracy</a>
+</li>
+	<li class="cat-item cat-item-3898"><a href="http://richardbrenneman.wordpress.com/category/crime/" title="View all posts filed under Crime">Crime</a>
+</li>
+	<li class="cat-item cat-item-16719"><a href="http://richardbrenneman.wordpress.com/category/cuba/" title="View all posts filed under Cuba">Cuba</a>
+</li>
+	<li class="cat-item cat-item-1098"><a href="http://richardbrenneman.wordpress.com/category/culture/" title="View all posts filed under Culture">Culture</a>
+</li>
+	<li class="cat-item cat-item-22790"><a href="http://richardbrenneman.wordpress.com/category/debt/" title="View all posts filed under Debt">Debt</a>
+</li>
+	<li class="cat-item cat-item-293724"><a href="http://richardbrenneman.wordpress.com/category/deep-politics/" title="View all posts filed under Deep Politics">Deep Politics</a>
+</li>
+	<li class="cat-item cat-item-780"><a href="http://richardbrenneman.wordpress.com/category/development/" title="View all posts filed under Development">Development</a>
+</li>
+	<li class="cat-item cat-item-8590"><a href="http://richardbrenneman.wordpress.com/category/economy/" title="View all posts filed under Economy">Economy</a>
+</li>
+	<li class="cat-item cat-item-1342"><a href="http://richardbrenneman.wordpress.com/category/education/" title="View all posts filed under Education">Education</a>
+</li>
+	<li class="cat-item cat-item-244824"><a href="http://richardbrenneman.wordpress.com/category/elders/" title="View all posts filed under Elders">Elders</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="http://richardbrenneman.wordpress.com/category/environment/" title="View all posts filed under Environment">Environment</a>
+</li>
+	<li class="cat-item cat-item-130421"><a href="http://richardbrenneman.wordpress.com/category/ethnicity/" title="View all posts filed under Ethnicity">Ethnicity</a>
+</li>
+	<li class="cat-item cat-item-4328"><a href="http://richardbrenneman.wordpress.com/category/europe/" title="View all posts filed under Europe">Europe</a>
+</li>
+	<li class="cat-item cat-item-406"><a href="http://richardbrenneman.wordpress.com/category/family/" title="View all posts filed under Family">Family</a>
+</li>
+	<li class="cat-item cat-item-524"><a href="http://richardbrenneman.wordpress.com/category/film/" title="View all posts filed under Film">Film</a>
+</li>
+	<li class="cat-item cat-item-4269"><a href="http://richardbrenneman.wordpress.com/category/finance/" title="View all posts filed under Finance">Finance</a>
+</li>
+	<li class="cat-item cat-item-586"><a href="http://richardbrenneman.wordpress.com/category/food/" title="View all posts filed under Food">Food</a>
+</li>
+	<li class="cat-item cat-item-58904"><a href="http://richardbrenneman.wordpress.com/category/fundamentalism/" title="View all posts filed under Fundamentalism">Fundamentalism</a>
+</li>
+	<li class="cat-item cat-item-117572"><a href="http://richardbrenneman.wordpress.com/category/gardens/" title="View all posts filed under Gardens">Gardens</a>
+</li>
+	<li class="cat-item cat-item-27915"><a href="http://richardbrenneman.wordpress.com/category/gender/" title="View all posts filed under Gender">Gender</a>
+</li>
+	<li class="cat-item cat-item-10772"><a href="http://richardbrenneman.wordpress.com/category/geopolitics/" title="View all posts filed under Geopolitics">Geopolitics</a>
+</li>
+	<li class="cat-item cat-item-27904262"><a href="http://richardbrenneman.wordpress.com/category/global-corporate-u/" title="View all posts filed under Global Corporate U.">Global Corporate U.</a>
+</li>
+	<li class="cat-item cat-item-16505"><a href="http://richardbrenneman.wordpress.com/category/governance/" title="View all posts filed under Governance">Governance</a>
+</li>
+	<li class="cat-item cat-item-77988"><a href="http://richardbrenneman.wordpress.com/category/gwot/" title="View all posts filed under GWOT">GWOT</a>
+</li>
+	<li class="cat-item cat-item-337"><a href="http://richardbrenneman.wordpress.com/category/health/" title="View all posts filed under Health">Health</a>
+</li>
+	<li class="cat-item cat-item-678"><a href="http://richardbrenneman.wordpress.com/category/history/" title="View all posts filed under History">History</a>
+</li>
+	<li class="cat-item cat-item-80373"><a href="http://richardbrenneman.wordpress.com/category/holocausts/" title="View all posts filed under Holocausts">Holocausts</a>
+</li>
+	<li class="cat-item cat-item-7839"><a href="http://richardbrenneman.wordpress.com/category/human-behavior/" title="View all posts filed under Human behavior">Human behavior</a>
+</li>
+	<li class="cat-item cat-item-376"><a href="http://richardbrenneman.wordpress.com/category/humor/" title="View all posts filed under Humor">Humor</a>
+</li>
+	<li class="cat-item cat-item-26705"><a href="http://richardbrenneman.wordpress.com/category/hypocrisy/" title="View all posts filed under Hypocrisy">Hypocrisy</a>
+</li>
+	<li class="cat-item cat-item-24006"><a href="http://richardbrenneman.wordpress.com/category/idiocy/" title="View all posts filed under Idiocy">Idiocy</a>
+</li>
+	<li class="cat-item cat-item-116073"><a href="http://richardbrenneman.wordpress.com/category/intolerance/" title="View all posts filed under Intolerance">Intolerance</a>
+</li>
+	<li class="cat-item cat-item-11898"><a href="http://richardbrenneman.wordpress.com/category/labor/" title="View all posts filed under Labor">Labor</a>
+</li>
+	<li class="cat-item cat-item-5839"><a href="http://richardbrenneman.wordpress.com/category/latin-america/" title="View all posts filed under Latin America">Latin America</a>
+</li>
+	<li class="cat-item cat-item-2054"><a href="http://richardbrenneman.wordpress.com/category/law/" title="View all posts filed under Law">Law</a>
+</li>
+	<li class="cat-item cat-item-292"><a href="http://richardbrenneman.wordpress.com/category/media/" title="View all posts filed under Media">Media</a>
+</li>
+	<li class="cat-item cat-item-3659"><a href="http://richardbrenneman.wordpress.com/category/medicine/" title="View all posts filed under Medicine">Medicine</a>
+</li>
+	<li class="cat-item cat-item-18517"><a href="http://richardbrenneman.wordpress.com/category/memoirs/" title="View all posts filed under Memoirs">Memoirs</a>
+</li>
+	<li class="cat-item cat-item-20462"><a href="http://richardbrenneman.wordpress.com/category/mentors/" title=". . .people who have shaped a journalist&#039;s life">Mentors</a>
+</li>
+	<li class="cat-item cat-item-239847"><a href="http://richardbrenneman.wordpress.com/category/mideast/" title="View all posts filed under Mideast">Mideast</a>
+</li>
+	<li class="cat-item cat-item-488"><a href="http://richardbrenneman.wordpress.com/category/military/" title="View all posts filed under Military">Military</a>
+</li>
+	<li class="cat-item cat-item-4232"><a href="http://richardbrenneman.wordpress.com/category/msm/" title="View all posts filed under MSM">MSM</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://richardbrenneman.wordpress.com/category/music/" title="View all posts filed under Music">Music</a>
+</li>
+	<li class="cat-item cat-item-34774686"><a href="http://richardbrenneman.wordpress.com/category/nature-2/" title="View all posts filed under Nature">Nature</a>
+</li>
+	<li class="cat-item cat-item-30406"><a href="http://richardbrenneman.wordpress.com/category/noteworthy/" title="View all posts filed under Noteworthy">Noteworthy</a>
+</li>
+	<li class="cat-item cat-item-182440"><a href="http://richardbrenneman.wordpress.com/category/organized-crime/" title="View all posts filed under Organized crime">Organized crime</a>
+</li>
+	<li class="cat-item cat-item-436"><a href="http://richardbrenneman.wordpress.com/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-398"><a href="http://richardbrenneman.wordpress.com/category/politics/" title="View all posts filed under Politics">Politics</a>
+</li>
+	<li class="cat-item cat-item-9379"><a href="http://richardbrenneman.wordpress.com/category/poverty/" title="View all posts filed under Poverty">Poverty</a>
+</li>
+	<li class="cat-item cat-item-3279"><a href="http://richardbrenneman.wordpress.com/category/privacy/" title="View all posts filed under Privacy">Privacy</a>
+</li>
+	<li class="cat-item cat-item-47004"><a href="http://richardbrenneman.wordpress.com/category/public-service/" title="View all posts filed under Public service">Public service</a>
+</li>
+	<li class="cat-item cat-item-11798"><a href="http://richardbrenneman.wordpress.com/category/race/" title="View all posts filed under Race">Race</a>
+</li>
+	<li class="cat-item cat-item-198087"><a href="http://richardbrenneman.wordpress.com/category/reference-sites/" title="View all posts filed under Reference sites">Reference sites</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="http://richardbrenneman.wordpress.com/category/religion/" title="View all posts filed under Religion">Religion</a>
+</li>
+	<li class="cat-item cat-item-1784"><a href="http://richardbrenneman.wordpress.com/category/resources/" title="View all posts filed under Resources">Resources</a>
+</li>
+	<li class="cat-item cat-item-334958"><a href="http://richardbrenneman.wordpress.com/category/roman-polanski/" title=". . .and his encounter with a corrupt judiciary">Roman Polanski</a>
+</li>
+	<li class="cat-item cat-item-36950424"><a href="http://richardbrenneman.wordpress.com/category/satire-duh/" title="View all posts filed under Satire [duh]">Satire [duh]</a>
+</li>
+	<li class="cat-item cat-item-24976"><a href="http://richardbrenneman.wordpress.com/category/schools/" title="View all posts filed under Schools">Schools</a>
+</li>
+	<li class="cat-item cat-item-173"><a href="http://richardbrenneman.wordpress.com/category/science/" title="View all posts filed under Science">Science</a>
+</li>
+	<li class="cat-item cat-item-76962"><a href="http://richardbrenneman.wordpress.com/category/secrecy/" title="View all posts filed under Secrecy">Secrecy</a>
+</li>
+	<li class="cat-item cat-item-520"><a href="http://richardbrenneman.wordpress.com/category/sex/" title="View all posts filed under Sex">Sex</a>
+</li>
+	<li class="cat-item cat-item-21619"><a href="http://richardbrenneman.wordpress.com/category/snark/" title="View all posts filed under Snark">Snark</a>
+</li>
+	<li class="cat-item cat-item-42489"><a href="http://richardbrenneman.wordpress.com/category/socialism/" title="View all posts filed under Socialism">Socialism</a>
+</li>
+	<li class="cat-item cat-item-599"><a href="http://richardbrenneman.wordpress.com/category/sociology/" title="View all posts filed under Sociology">Sociology</a>
+</li>
+	<li class="cat-item cat-item-68496"><a href="http://richardbrenneman.wordpress.com/category/spooks/" title="View all posts filed under Spooks">Spooks</a>
+</li>
+	<li class="cat-item cat-item-57447"><a href="http://richardbrenneman.wordpress.com/category/street-art/" title="View all posts filed under Street art">Street art</a>
+</li>
+	<li class="cat-item cat-item-32170150"><a href="http://richardbrenneman.wordpress.com/category/the-atomization-of-us/" title="View all posts filed under The atomization of us">The atomization of us</a>
+</li>
+	<li class="cat-item cat-item-48531430"><a href="http://richardbrenneman.wordpress.com/category/the-privateer%e2%80%99s-lexicon/" title="View all posts filed under The Privateer’s Lexicon">The Privateer’s Lexicon</a>
+</li>
+	<li class="cat-item cat-item-135673"><a href="http://richardbrenneman.wordpress.com/category/thinkers/" title="View all posts filed under Thinkers">Thinkers</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://richardbrenneman.wordpress.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-412"><a href="http://richardbrenneman.wordpress.com/category/video/" title="View all posts filed under Video">Video</a>
+</li>
+	<li class="cat-item cat-item-103772"><a href="http://richardbrenneman.wordpress.com/category/warfare/" title="View all posts filed under Warfare">Warfare</a>
+</li>
+	<li class="cat-item cat-item-11896"><a href="http://richardbrenneman.wordpress.com/category/wealth/" title="View all posts filed under Wealth">Wealth</a>
+</li>
+	<li class="cat-item cat-item-46914145"><a href="http://richardbrenneman.wordpress.com/category/wikileaks-diplomatic-cables/" title="View all posts filed under WikiLeaks diplomatic cables">WikiLeaks diplomatic cables</a>
+</li>
+	<li class="cat-item cat-item-18954"><a href="http://richardbrenneman.wordpress.com/category/youth/" title="View all posts filed under Youth">Youth</a>
+</li>
+		</ul>
+</li><li id="tag_cloud-2" class="widget-container widget_tag_cloud"><h3 class="widget-title"></h3><div style="overflow: hidden;"><a href="https://richardbrenneman.wordpress.com/category/banksters/" style="font-size: 141.80887372014%; padding: 1px; margin: 1px;"  title="Banksters (1385)">Banksters</a> <a href="https://richardbrenneman.wordpress.com/category/cartoons/" style="font-size: 102.71486192988%; padding: 1px; margin: 1px;"  title="Cartoons (665)">Cartoons</a> <a href="https://richardbrenneman.wordpress.com/category/class/" style="font-size: 170.85789636984%; padding: 1px; margin: 1px;"  title="Class (1920)">Class</a> <a href="https://richardbrenneman.wordpress.com/category/community/" style="font-size: 106.18988520012%; padding: 1px; margin: 1px;"  title="Community (729)">Community</a> <a href="https://richardbrenneman.wordpress.com/category/corpocracy/" style="font-size: 198.54948805461%; padding: 1px; margin: 1px;"  title="Corpocracy (2430)">Corpocracy</a> <a href="https://richardbrenneman.wordpress.com/category/crime/" style="font-size: 119.43841141793%; padding: 1px; margin: 1px;"  title="Crime (973)">Crime</a> <a href="https://richardbrenneman.wordpress.com/category/culture/" style="font-size: 199.58113558796%; padding: 1px; margin: 1px;"  title="Culture (2449)">Culture</a> <a href="https://richardbrenneman.wordpress.com/category/debt/" style="font-size: 101.57461991933%; padding: 1px; margin: 1px;"  title="Debt (644)">Debt</a> <a href="https://richardbrenneman.wordpress.com/category/deep-politics/" style="font-size: 147.1843003413%; padding: 1px; margin: 1px;"  title="Deep Politics (1484)">Deep Politics</a> <a href="https://richardbrenneman.wordpress.com/category/economy/" style="font-size: 195.56313993174%; padding: 1px; margin: 1px;"  title="Economy (2375)">Economy</a> <a href="https://richardbrenneman.wordpress.com/category/environment/" style="font-size: 104.66956251939%; padding: 1px; margin: 1px;"  title="Environment (701)">Environment</a> <a href="https://richardbrenneman.wordpress.com/category/europe/" style="font-size: 160.4871237977%; padding: 1px; margin: 1px;"  title="Europe (1729)">Europe</a> <a href="https://richardbrenneman.wordpress.com/category/finance/" style="font-size: 159.61836798014%; padding: 1px; margin: 1px;"  title="Finance (1713)">Finance</a> <a href="https://richardbrenneman.wordpress.com/category/governance/" style="font-size: 244.81073533975%; padding: 1px; margin: 1px;"  title="Governance (3282)">Governance</a> <a href="https://richardbrenneman.wordpress.com/category/health/" style="font-size: 104.452373565%; padding: 1px; margin: 1px;"  title="Health (697)">Health</a> <a href="https://richardbrenneman.wordpress.com/category/history/" style="font-size: 129.48340055849%; padding: 1px; margin: 1px;"  title="History (1158)">History</a> <a href="https://richardbrenneman.wordpress.com/category/labor/" style="font-size: 122.09897610922%; padding: 1px; margin: 1px;"  title="Labor (1022)">Labor</a> <a href="https://richardbrenneman.wordpress.com/category/law/" style="font-size: 149.4647843624%; padding: 1px; margin: 1px;"  title="Law (1526)">Law</a> <a href="https://richardbrenneman.wordpress.com/category/media/" style="font-size: 103.85510394043%; padding: 1px; margin: 1px;"  title="Media (686)">Media</a> <a href="https://richardbrenneman.wordpress.com/category/mideast/" style="font-size: 109.66490847037%; padding: 1px; margin: 1px;"  title="Mideast (793)">Mideast</a> <a href="https://richardbrenneman.wordpress.com/category/military/" style="font-size: 107.65591064226%; padding: 1px; margin: 1px;"  title="Military (756)">Military</a> <a href="https://richardbrenneman.wordpress.com/category/msm/" style="font-size: 116.99503568104%; padding: 1px; margin: 1px;"  title="MSM (928)">MSM</a> <a href="https://richardbrenneman.wordpress.com/category/nature-2/" style="font-size: 105.10394042817%; padding: 1px; margin: 1px;"  title="Nature (709)">Nature</a> <a href="https://richardbrenneman.wordpress.com/category/politics/" style="font-size: 275%; padding: 1px; margin: 1px;"  title="Politics (3838)">Politics</a> <a href="https://richardbrenneman.wordpress.com/category/resources/" style="font-size: 110.85944771952%; padding: 1px; margin: 1px;"  title="Resources (815)">Resources</a> <a href="https://richardbrenneman.wordpress.com/category/secrecy/" style="font-size: 110.47936704933%; padding: 1px; margin: 1px;"  title="Secrecy (808)">Secrecy</a> <a href="https://richardbrenneman.wordpress.com/category/spooks/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="Spooks (615)">Spooks</a> <a href="https://richardbrenneman.wordpress.com/category/video/" style="font-size: 189.8076326404%; padding: 1px; margin: 1px;"  title="Video (2269)">Video</a> <a href="https://richardbrenneman.wordpress.com/category/warfare/" style="font-size: 106.24418243872%; padding: 1px; margin: 1px;"  title="Warfare (730)">Warfare</a> <a href="https://richardbrenneman.wordpress.com/category/wealth/" style="font-size: 187.20136518771%; padding: 1px; margin: 1px;"  title="Wealth (2221)">Wealth</a> </div></li><li id="linkcat-1356" class="widget-container widget_links"><h3 class="widget-title">Blogroll</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://unfinishedscript.wordpress.com/">A Collection of Selves</a></li>
+<li><a href="http://www.bbc.co.uk/blogs/adamcurtis/">Adam Curtis: Medium &amp; Message</a></li>
+<li><a href="http://alterdestiny.blogspot.com/">Alterdestiny</a></li>
+<li><a href="http://ampedstatus.com/">AmpedStatus</a></li>
+<li><a href="http://www.antemedius.com/">Antemedius</a></li>
+<li><a href="http://antifascist-calling.blogspot.com/">Antifascist Calling&#8230;</a></li>
+<li><a href="http://www.antiwar.com/blog/">Antiwar.com</a></li>
+<li><a href="http://johnmckay.blogspot.com/">archy</a></li>
+<li><a href="http://arctic-news.blogspot.com/">Arctic News</a></li>
+<li><a href="http://avantourists.com/">avantourists</a></li>
+<li><a href="http://axisoflogic.com/frontpage.shtml">Axis of Logic</a></li>
+<li><a href="http://www.calculatedriskblog.com/">Calculated Risk</a></li>
+<li><a href="http://californiawatch.org/watchblog">California Watch Blog</a></li>
+<li><a href="http://changinguniversities.blogspot.com/">Changing Universities</a></li>
+<li><a href="http://chickswithticks.wordpress.com/">Chicks With Ticks</a></li>
+<li><a href="http://www.chris-floyd.com/">Chris Floyd&#039;s Empire Express</a></li>
+<li><a href="http://www.clowncrack.com/">Clowncrack.com</a></li>
+<li><a href="http://cluborlov.blogspot.com/">ClubOrlov</a></li>
+<li><a href="http://kunstler.com/blog/">Clusterfuck Nation</a></li>
+<li><a href="http://www.commondreams.org/" title="A worthy collection of essays on current events">Common Dreams</a></li>
+<li><a href="http://coverthistory.blogspot.com/">Covert History</a></li>
+<li><a href="http://dandelionsalad.wordpress.com/">Dandelion Salad</a></li>
+<li><a href="http://www.darkgovernment.com/news/">Dark Government</a></li>
+<li><a href="http://www.deepjournal.com/">Deep Journal</a></li>
+<li><a href="http://www.eff.org/deeplinks/archive">Deeplinks</a></li>
+<li><a href="http://dianabuja.wordpress.com/">Dianabuja’s Blog [Africa, Mideast]</a></li>
+<li><a href="http://feeds.feedburner.com/scienceblogs/dispatches">Dispatches from the Culture Wars</a></li>
+<li><a href="http://dissidentvoice.org/" title="Radical views on the news">Dissident Voice</a></li>
+<li><a href="http://www.electricpolitics.com/">Electric Politics</a></li>
+<li><a href="http://www.eurotrib.com/">European Tribune</a></li>
+<li><a href="http://www.full-spectrum-dominance.com/">Full-Spectrum-Dominance</a></li>
+<li><a href="http://www.gmwatch.org/">GM Watch</a></li>
+<li><a href="http://www.goldmansucs.com/">GoldmanSucs.com</a></li>
+<li><a href="http://devinder-sharma.blogspot.com/">Ground Reality</a></li>
+<li><a href="http://howtheuniversityworks.com/wordpress/">How the University Works</a></li>
+<li><a href="http://blog.ml-implode.com/">Implode-O-Meter</a></li>
+<li><a href="http://www.inthesetimes.com/">In These Times</a></li>
+<li><a href="http://paul.kedrosky.com/">Infectious Greed</a></li>
+<li><a href="http://valtinsblog.blogspot.com/">Invictus</a></li>
+<li><a href="http://www.irishleftreview.org/">Irish Left Review</a></li>
+<li><a href="http://jonnydropout.wordpress.com/">johnnydropout</a></li>
+<li><a href="http://www.google.com/reader/shared/14569541748422553908">Jorn Barger&#039;s shared items</a></li>
+<li><a href="http://www.lettersofnote.com/">Letters of Note</a></li>
+<li><a href="http://lloydkahn-ongoing.blogspot.com/">Lloyd&#039;s Blog</a></li>
+<li><a href="http://www.infernalmachine.co.uk/">Matt Carr&#039;s Infernal Machine</a></li>
+<li><a href="http://www.metafilter.com/">MetaFilter</a></li>
+<li><a href="http://www.clowncrack.com/">Mr. Fish</a></li>
+<li><a href="http://needlenose.com/">Needlenose</a></li>
+<li><a href="http://neweconomicperspectives.org/">New Economic Perspectives</a></li>
+<li><a href="http://www.oftwominds.com/blog.html" title="Another Berkeley blogger">Of Two Minds</a></li>
+<li><a href="http://operationleakspin.org/">Operation Leakspin</a></li>
+<li><a href="http://www.mikeruppert.blogspot.com/">Peak Oil Blog</a></li>
+<li><a href="http://peterreynolds.wordpress.com/">Peter Reynolds [across the pond]</a></li>
+<li><a href="http://privatizationwatch.org/">Privatization Watch</a></li>
+<li><a href="http://www.racialicious.com/" title="Keeping watch on racism">Racialicious</a></li>
+<li><a href="http://rawstory.com/" title="A blog with a real newsroom">Raw Story</a></li>
+<li><a href="http://www.fas.org/blog/secrecy/">Secrecy News</a></li>
+<li><a href="http://www.boilingfrogspost.com/">Sibel Edmonds&#039; Boiling Frogs</a></li>
+<li><a href="http://www.smirkingchimp.com/">Smirking Chimp</a></li>
+<li><a href="http://minusthemusic.blogspot.com/">Speak Your Mind And Read Mine</a></li>
+<li><a href="http://carolynbaker.net/site/">Speaking Truth To Power</a></li>
+<li><a href="http://sjlendman.blogspot.com/">SteveLendmanBlog</a></li>
+<li><a href="http://www.swans.com/main.shtml">Swans Commentary</a></li>
+<li><a href="http://talkandpolitics.wordpress.com/">Talkandpolitics</a></li>
+<li><a href="http://thebankwatch.com/">The Bankwatch</a></li>
+<li><a href="http://rosswolfe.wordpress.com/">the charnel-house</a></li>
+<li><a href="http://therealnews.com/t2/" title="Video journalism">The Real News Network</a></li>
+<li><a href="http://thesecondalarm.wordpress.com/">The Second Alarm</a></li>
+<li><a href="http://thesituationist.wordpress.com/">The Situationist</a></li>
+<li><a href="http://sixthestate.net/">The Sixth Estate</a></li>
+<li><a href="http://www.thevileplutocrat.com/">The Vile Plutocrat</a></li>
+<li><a href="http://transitionculture.org/">Transition Culture</a></li>
+<li><a href="http://triplecrisis.com/">TripleCrisis</a></li>
+<li><a href="http://www.ukuncut.org.uk/">UK UNCUT</a></li>
+<li><a href="http://uncommonscolds.wordpress.com/">Uncommon Scolds</a></li>
+<li><a href="http://prorevnews.blogspot.com/" title="One of the best and oldest blogs going.">Undernews</a></li>
+<li><a href="http://unearthed.earthjustice.org/">unEARTHED</a></li>
+<li><a href="http://unsilentgeneration.com/">Unsilent Generation</a></li>
+<li><a href="http://www.usuncut.org/">US UNCUT</a></li>
+<li><a href="http://voiceoftheenvironment.org/">Voice of the Environment</a></li>
+<li><a href="http://voxverax.blogspot.com/">Vox Verax</a></li>
+<li><a href="http://www.whistleblowersblog.org/">Whistleblower Protection Blog</a></li>
+<li><a href="http://www.wideasleepinamerica.com/">Wide Asleep in America</a></li>
+<li><a href="http://web.ncf.ca/ek867/wood_s_lot.html" title="A place of poetry and art, worth lingering">Wood&#039;s Lot</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-376" class="widget-container widget_links"><h3 class="widget-title">Humor</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.osborneink.com/">Osborne Ink</a></li>
+<li><a href="http://theuglymoose.wordpress.com/">The Ugly Moose</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-1156581" class="widget-container widget_links"><h3 class="widget-title">Journalism news</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.laobserved.com/">LA Observed</a></li>
+<li><a href="http://www.poynter.org/column.asp?id=45">Romenesko</a></li>
+<li><a href="http://sfppc.blogspot.com/">San Francisco Peninsula Press Club</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-18" class="widget-container widget_links"><h3 class="widget-title">Music</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://xworldmusic.wordpress.com/">World Music</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-121700" class="widget-container widget_links"><h3 class="widget-title">Research resources</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.aftenposten.no/spesial/wikileaksdokumenter/">Aftenpposten WikiLeaks documents</a></li>
+<li><a href="http://sec.gov/cgi-bin/browse-edgar?CIK=0001365916&#038;action=getcompany">Amyris, Inc. SEC filings</a></li>
+<li><a href="http://finance.yahoo.com/q?s=AMRS">Amyris, Inc. share price</a></li>
+<li><a href="http://www.bbc.co.uk/news/business-15060411">BBC Financial Glossary</a></li>
+<li><a href="http://www.crocodyl.org/">Crocodyl corporate research</a></li>
+<li><a href="http://enviroleaks.org/">EnviroLeaks</a></li>
+<li><a href="http://www.lobbywatch.org/">Lobbywatch.org</a></li>
+<li><a href="http://www.look4leaks.net/look4leaks.php?lang=en&#038;op=s">look4leaks</a></li>
+<li><a href="http://www.prwatch.org/">PRWatch</a></li>
+<li><a href="http://makanaka.wordpress.com/">Resources Research</a></li>
+<li><a href="http://lawprofessors.typepad.com/whitecollarcrime_blog/">White Collar Crime Prof Blog</a></li>
+<li><a href="http://cablesearch.org/">WikiLeaks Cable Search</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-37580" class="widget-container widget_links"><h3 class="widget-title">Sustainable communities</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.cityfarmer.info/">City Farmer News</a></li>
+<li><a href="http://www.guerrillagardening.org/">Guerilla Gardening</a></li>
+<li><a href="http://urbanhomestead.org/journal/">Little Homestead in the City</a></li>
+<li><a href="http://ourtomorrow.blogspot.com/">Our Tomorrow</a></li>
+<li><a href="http://www.plantingjustice.org/">Planting Justice</a></li>
+<li><a href="http://www.pfaf.org/index.php">Plants for a Future</a></li>
+<li><a href="http://food.change.org/">Sustainable Food</a></li>
+<li><a href="http://irjci.blogspot.com/">The Rural Blog</a></li>
+<li><a href="http://www.uharvest.org/">Urban Harvest</a></li>
+<li><a href="http://www.yesmagazine.org/">Yes Magazine</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-357195" class="widget-container widget_links"><h3 class="widget-title">Third World</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://boliviarising.blogspot.com/">Bolivia Rising</a></li>
+<li><a href="http://crossedcrocodiles.wordpress.com/">Crossed Crocodiles</a></li>
+<li><a href="http://Thenamesaysutall.">Food Crisis and the Global Land Grab</a></li>
+<li><a href="http://www.pambazuka.org/en/">Pambazuka News [Africa]</a></li>
+<li><a href="http://narcosphere.narconews.com/thefield/">The Field</a></li>
+<li><a href="http://upsidedownworld.org/main/">Upside Down World</a></li>
+<li><a href="http://www.venezuelanalysis.com/">Venezuela Analysis</a></li>
+<li><a href="http://www.viacampesina.org/en/" title="Blog of the world&#8217;s peasant movement">Via Campesina</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-14359650" class="widget-container widget_links"><h3 class="widget-title">War on the press</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://discarted.wordpress.com/" title="Photography and the First Amendment">Discarted</a></li>
+<li><a href="http://carlosmiller.com/" title="The name says it all">Photography is Not a Crime</a></li>
+
+	</ul>
+</li>
+			</ul>
+		</div><!-- #primary .widget-area -->
+
+		
+			</div><!-- #content-box -->
+
+	<div id="footer" role="contentinfo">
+		
+		<div id="colophon">
+			<span class="generator-link"><a href="http://wordpress.com/?ref=footer" rel="generator">Blog at WordPress.com</a>.</span>
+			<a href="http://theme.wordpress.com/themes/coraline/" title="Learn more about this theme">The Coraline Theme</a>. 		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #container -->
+
+
+<script type="text/javascript">
+var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":"language.en,type.wpcom,wp.loggedout,as"};
+function wpcomQuantcastPixel( labels, options ) {
+	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };
+
+	labels  = labels  || '';
+	options = options || {};
+
+	if ( typeof labels != 'string' )
+		options = labels;
+
+	for ( i in defaults ) {
+		data[i] = defaults[i];
+	}
+
+	for ( i in options ) {
+		data[i] = options[i];
+	}
+
+	if ( data.labels ) {
+		data.labels += ',' + labels;
+	} else {
+		data.labels = labels;
+	}
+
+	_qevents.push( data );
+};
+(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })();
+_qevents.push( wpcomQuantcastData );
+</script>
+<noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=language.en%2Ctype.wpcom%2Cwp.loggedout%2Cas" height="1" width="1" alt="" /></div></noscript>
+
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201401ae'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"http:\/\/richardbrenneman.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"http:\/\/richardbrenneman.wordpress.com\/wp-login.php?action=logout&_wpnonce=487f9b1c13","homeURL":"http:\/\/richardbrenneman.wordpress.com\/","postID":"32887","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1383163422j'></script>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;eats shoots &#039;n leaves&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 552 other followers</p>
+			<p><input type="email" name="email" value="Enter your email address" onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'  id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="9891948"/>
+			<input type="hidden" name="source" value="http://richardbrenneman.wordpress.com/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="be92f64fb2" /><input type="hidden" name="_wp_http_referer" value="/2014/01/03/quote-of-the-day-the-uranium-boom-of-2014/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="http://wordpress.com/signup/?ref=lof">Powered by WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "richardbrenneman.wordpress.com";
+	</script>
+	<script type="text/javascript" src="http://s.skimresources.com/js/725X1342.skimlinks.js"></script><script type='text/javascript' charset='UTF-8' id='polldaddyRatings'><!--//--><![CDATA[//><!--
+PDRTJS_settings_712213_post_32887={"id":712213,"unique_id":"wp-post-32887","title":"Quote%20of%20the%20day%3A%20The%20uranium%20boom%20of%26nbsp%3B2014","permalink":"http:\/\/richardbrenneman.wordpress.com\/2014\/01\/03\/quote-of-the-day-the-uranium-boom-of-2014\/","item_id":"_post_32887"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_712213_post_32887 == 'undefined' ){PDRTJS_712213_post_32887 = new PDRTJS_RATING( PDRTJS_settings_712213_post_32887 );}}
+//--><!]]></script><script type='text/javascript' charset='UTF-8' src='http://i0.poll.fm/js/rating/rating.js'></script>
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/richardbrenneman.wordpress.com\/2014\/01\/03\/quote-of-the-day-the-uranium-boom-of-2014\/":32887}	</script>
+		<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<iframe src='http://widgets.wp.com/likes/master.html?ver=20140101#ver=20140101&amp;mp6=1' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script type="text/javascript">
+		//<![CDATA[
+			var jetpackLikesWidgetQueue = [];
+			var jetpackLikesWidgetBatch = [];
+			var jetpackLikesMasterReady = false;
+
+			function JetpackLikespostMessage( message, target ) {
+				if ( "string" === typeof message ){
+					try{
+						message = JSON.parse( message );
+					}
+					catch(e) {
+						return;
+					}
+				}
+
+				pm( {
+					target: target,
+					type: 'likesMessage',
+					data: message,
+					origin: '*'
+				} );
+			}
+
+			function JetpackLikesBatchHandler() {
+				var requests = [];
+				jQuery( 'div.jetpack-likes-widget-unloaded' ).each( function( i ) {
+					if ( jetpackLikesWidgetBatch.indexOf( this.id ) > -1 )
+						return;
+					jetpackLikesWidgetBatch.push( this.id );
+					var regex = /like-(post|comment)-wrapper-(\d+)-(\d+)-(\w+)/;
+					var match = regex.exec( this.id );
+					if ( ! match || match.length != 5 )
+						return;
+
+					var info = {
+						blog_id: match[2],
+						width:   this.width
+					};
+
+					if ( 'post' == match[1] ) {
+						info.post_id = match[3];
+					} else if ( 'comment' == match[1] ) {
+						info.comment_id = match[3];
+					}
+
+					info.obj_id = match[4];
+
+					requests.push( info );
+				});
+
+				if ( requests.length > 0 ) {
+					JetpackLikespostMessage( { event: 'initialBatch', requests: requests }, window.frames['likes-master'] );
+				}
+			}
+
+			function JetpackLikesMessageListener( event ) {
+				if ( "undefined" == typeof event.event )
+					return;
+
+				if ( 'masterReady' == event.event ) {
+					jQuery( document ).ready( function() {
+						jetpackLikesMasterReady = true;
+
+						var stylesData = {
+								event: 'injectStyles'
+						};
+
+						if ( jQuery( 'iframe.admin-bar-likes-widget' ).length > 0 ) {
+							JetpackLikespostMessage( { event: 'adminBarEnabled' }, window.frames[ 'likes-master' ] );
+
+							stylesData.adminBarStyles = {
+								background: jQuery( '#wpadminbar .quicklinks li#wp-admin-bar-wpl-like > a' ).css( 'background' ),
+								isRtl: ( 'rtl' == jQuery( '#wpadminbar' ).css( 'direction' ) )
+							};
+						}
+
+						if ( !window.addEventListener )
+							jQuery( '#wp-admin-bar-admin-bar-likes-widget' ).hide();
+
+						stylesData.textStyles = {
+							color: jQuery( '.sd-text-color').css( 'color' ),
+							fontFamily: jQuery( '.sd-text-color' ).css( 'font-family' ),
+							fontSize: jQuery( '.sd-text-color' ).css( 'font-size' ),
+							direction: jQuery( '.sd-text-color' ).css( 'direction' ),
+							fontWeight: jQuery( '.sd-text-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-text-color' ).css( 'font-style' ),
+							textDecoration: jQuery( '.sd-text-color' ).css('text-decoration')
+						};
+
+						stylesData.linkStyles = {
+							color: jQuery( '.sd-link-color' ).css('color'),
+							fontFamily: jQuery( '.sd-link-color' ).css('font-family'),
+							fontSize: jQuery( '.sd-link-color' ).css('font-size'),
+							textDecoration: jQuery( '.sd-link-color' ).css('text-decoration'),
+							fontWeight: jQuery( '.sd-link-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-link-color' ).css( 'font-style' )
+						};
+
+						JetpackLikespostMessage( stylesData, window.frames[ 'likes-master' ] );
+
+						JetpackLikesBatchHandler();
+
+						jQuery( document ).on( 'inview', 'div.jetpack-likes-widget-unloaded', function() {
+							jetpackLikesWidgetQueue.push( this.id );
+						});
+					});
+				}
+
+				if ( 'showLikeWidget' == event.event ) {
+					jQuery( '#' + event.id + ' .post-likes-widget-placeholder'  ).fadeOut( 'fast', function() {
+						jQuery( '#' + event.id + ' .post-likes-widget' ).fadeIn( 'fast', function() {
+							JetpackLikespostMessage( { event: 'likeWidgetDisplayed', blog_id: event.blog_id, post_id: event.post_id, obj_id: event.obj_id }, window.frames['likes-master'] );
+						});
+					});
+				}
+
+				if ( 'showOtherGravatars' == event.event ) {
+					var $container = jQuery( '#likes-other-gravatars' );
+					var $list = $container.find( 'ul' );
+
+					$container.hide();
+					$list.html( '' );
+
+					$container.find( '.likes-text span' ).text( event.total );
+
+					jQuery.each( event.likers, function( i, liker ) {
+						$list.append( '<li class="' + liker.css_class + '"><a href="' + liker.profile_URL + '" class="wpl-liker" rel="nofollow" target="_parent"><img src="' + liker.avatar_URL + '" alt="' + liker.name + '" width="30" height="30" style="padding-right: 3px;" /></a></li>');
+					} );
+
+					var offset = jQuery( "[name='" + event.parent + "']" ).offset();
+
+					$container.css( 'left', offset.left + event.position.left - 10 + 'px' );
+					$container.css( 'top', offset.top + event.position.top - 33 + 'px' );
+
+					var rowLength = Math.floor( event.width / 37 );
+					var height = ( Math.ceil( event.likers.length / rowLength ) * 37 ) + 13;
+					if ( height > 204 ) {
+						height = 204;
+					}
+
+					$container.css( 'height', height + 'px' );
+					$container.css( 'width', rowLength * 37 - 7 + 'px' );
+
+					$list.css( 'width', rowLength * 37 + 'px' );
+
+					$container.fadeIn( 'slow' );
+
+					var scrollbarWidth = $list[0].offsetWidth - $list[0].clientWidth;
+					if ( scrollbarWidth > 0 ) {
+						$container.width( $container.width() + scrollbarWidth );
+						$list.width( $list.width() + scrollbarWidth );
+					}
+				}
+			}
+
+			pm.bind( 'likesMessage', function(e) { JetpackLikesMessageListener(e); } );
+
+			jQuery( document ).click( function( e ) {
+				var $container = jQuery( '#likes-other-gravatars' );
+
+				if ( $container.has( e.target ).length === 0 ) {
+					$container.fadeOut( 'slow' );
+				}
+			});
+
+			function JetpackLikesWidgetQueueHandler() {
+				var wrapperID;
+				if ( ! jetpackLikesMasterReady ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				if ( jetpackLikesWidgetQueue.length > 0 ) {
+					// We may have a widget that needs creating now
+					var found = false;
+					while( jetpackLikesWidgetQueue.length > 0 ) {
+						// Grab the first member of the queue that isn't already loading.
+						wrapperID = jetpackLikesWidgetQueue.splice( 0, 1 )[0];
+						if ( jQuery( '#' + wrapperID ).hasClass( 'jetpack-likes-widget-unloaded' ) ) {
+							found = true;
+							break;
+						}
+					}
+					if ( ! found ) {
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				} else if ( jQuery( 'div.jetpack-likes-widget-unloaded' ).length > 0 ) {
+					// Grab any unloaded widgets for a batch request
+					JetpackLikesBatchHandler();
+
+					// Get the next unloaded widget
+					wrapperID = jQuery( 'div.jetpack-likes-widget-unloaded' ).first()[0].id;
+					if ( ! wrapperID ) {
+						// Everything is currently loaded
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				}
+
+				if ( 'undefined' === typeof wrapperID ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				var $wrapper = jQuery( '#' + wrapperID );
+				$wrapper.find( 'iframe' ).remove();
+
+				if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='22px' width='68px' frameBorder='0' scrolling='no' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				} else {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='55px' width='100%' frameBorder='0' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				}
+
+				$wrapper.removeClass( 'jetpack-likes-widget-unloaded' ).addClass( 'jetpack-likes-widget-loading' );
+
+				$wrapper.find( 'iframe' ).load( function( e ) {
+					var $iframe = jQuery( e.target );
+					$wrapper.removeClass( 'jetpack-likes-widget-loading' ).addClass( 'jetpack-likes-widget-loaded' );
+
+					JetpackLikespostMessage( { event: 'loadLikeWidget', name: $iframe.attr( 'name' ), width: $iframe.width() }, window.frames[ 'likes-master' ] );
+
+					if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+						$wrapper.find( 'iframe' ).Jetpack( 'resizeable' );
+					}
+				});
+				setTimeout( JetpackLikesWidgetQueueHandler, 250 );
+			}
+			JetpackLikesWidgetQueueHandler();
+		//]]>
+		</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var recaptcha_options = {"lang":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/post-flair/sharing/sharing.js?m=1373391538j'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'9891948','v':'wpcom','tz':'-8','user_id':'0','post':'32887','subd':'richardbrenneman'});
+ex_go({'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWtpP0NsWnVkPS9sL0ViLndld3BOb1cmWFVdT2ZlbitEY0o/aGtnb3x5c3ZLNCZbNWhsVmwma1BpN0JydE55JUpGT3RuMTFXZT89T0Y/UkpHZU0vSCZBX3crMTk9RWl8fmpZY0ZvbnBjSWVHVm16Ui1BdFdYbXxFWS1HVStQVXFZNG1FUGMxNnZTdCVDJVt1SmZSaV9JYltZT0FjfldwUVh4Uy55azdBeHVOSWU9OUYsUi9bNFQyaGdIQjNCeVVQT353OWljNT1naHk1M045Ykw0eHViS1FFR3kmd1ljRWZuWkJ5d3A3MU0lWGFMclptZ1BUJThkcmhpY3NsczVId0VZX1kvW0RvVyZObV85MS8xT29XeFpkcWo1V3N3XU4rVWxiS08yeE5Z'});
+addLoadEvent(function(){linktracker_init('9891948',32887);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//stats.wordpress.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

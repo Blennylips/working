@@ -1,0 +1,1136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir='ltr'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { var b=window,f="chrome",g="jstiming",k="tick";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[k]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var n=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:n};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[g].srt=h-c)}if(a){var e=b[g].load;0<c&&h>=c&&(e[k]("_wtsrt",void 0,c),e[k]("wtsrt_","_wtsrt",h),e[k]("tbsd_","wtsrt_"))}try{a=null,
+b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[k]("_tbnd",void 0,b[f].csi().startE),e[k]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[k]("_tbnd",void 0,b.external.startE),e[k]("tbnd_","_tbnd",c))),a&&(b[g].pt=a)}catch(p){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[g].load[k]("aft")};var l=!1;function m(){l||(l=!0,b[g].load[k]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",m,!1):b.attachEvent("onscroll",m);
+ })();</script>
+<meta content='blogger' name='generator'/>
+<link href='http://mymusictech.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://mymusictech.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="My Music Tech - Atom" href="http://mymusictech.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="My Music Tech - RSS" href="http://mymusictech.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="My Music Tech - Atom" href="http://www.blogger.com/feeds/25151746/posts/default" />
+<link rel="openid.server" href="http://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://mymusictech.blogspot.com/" />
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>My Music Tech</title>
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/3189209027-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/dyn-css/authorization.css?targetBlogID=25151746&zx=2d4723e5-5595-4c63-a786-d8dd114586a9' />
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima Stretch
+Date:     26 Feb 2004
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="bgcolor" description="Page Background Color"
+type="color" default="#fff">
+<Variable name="textcolor" description="Text Color"
+type="color" default="#333">
+<Variable name="linkcolor" description="Link Color"
+type="color" default="#58a">
+<Variable name="pagetitlecolor" description="Blog Title Color"
+type="color" default="#666">
+<Variable name="descriptioncolor" description="Blog Description Color"
+type="color" default="#999">
+<Variable name="titlecolor" description="Post Title Color"
+type="color" default="#c60">
+<Variable name="bordercolor" description="Border Color"
+type="color" default="#ccc">
+<Variable name="sidebarcolor" description="Sidebar Title Color"
+type="color" default="#999">
+<Variable name="sidebartextcolor" description="Sidebar Text Color"
+type="color" default="#666">
+<Variable name="visitedlinkcolor" description="Visited Link Color"
+type="color" default="#999">
+<Variable name="bodyfont" description="Text Font"
+type="font" default="normal normal 100% Georgia, Serif">
+<Variable name="headerfont" description="Sidebar Title Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="pagetitlefont" description="Blog Title Font"
+type="font"
+default="normal normal 200% Georgia, Serif">
+<Variable name="descriptionfont" description="Blog Description Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif">
+<Variable name="postfooterfont" description="Post Footer Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif">
+<Variable name="startSide" description="Start side in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="End side in blog language"
+type="automatic" default="right">
+*/
+/* Use this with templates/template-twocol.html */
+body {
+background:#ffffff;
+margin:0;
+color:#333333;
+font:x-small Georgia Serif;
+font-size/* */:/**/small;
+font-size: /**/small;
+text-align: center;
+}
+a:link {
+color:#5588aa;
+text-decoration:none;
+}
+a:visited {
+color:#cc0000;
+text-decoration:none;
+}
+a:hover {
+color:#000000;
+text-decoration:underline;
+}
+a img {
+border-width:0;
+}
+/* Header
+-----------------------------------------------
+*/
+#header-wrapper {
+margin:0 2% 10px;
+border:1px solid #000000;
+}
+#header {
+margin: 5px;
+border: 1px solid #000000;
+text-align: center;
+color:#000000;
+}
+#header-inner {
+background-position: center;
+margin-left: auto;
+margin-right: auto;
+}
+#header h1 {
+margin:5px 5px 0;
+padding:15px 20px .25em;
+line-height:1.2em;
+text-transform:uppercase;
+letter-spacing:.2em;
+font: normal normal 466% Verdana, sans-serif;
+}
+#header a {
+color:#000000;
+text-decoration:none;
+}
+#header a:hover {
+color:#000000;
+}
+#header .description {
+margin:0 5px 5px;
+padding:0 20px 15px;
+text-transform:uppercase;
+letter-spacing:.2em;
+line-height: 1.4em;
+font: normal normal 105% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+color: #32527A;
+}
+#header img {
+margin-left: auto;
+margin-right: auto;
+}
+/* Outer-Wrapper
+----------------------------------------------- */
+#outer-wrapper {
+margin:0;
+padding:10px;
+text-align:left;
+font: normal normal 121% Verdana, sans-serif;
+}
+#main-wrapper {
+margin-left: 2%;
+width: 67%;
+float: left;
+display: inline;       /* fix for doubling margin in IE */
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper {
+margin-right: 2%;
+width: 25%;
+float: right;
+display: inline;       /* fix for doubling margin in IE */
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+margin:1.5em 0 .75em;
+font:normal normal 86% Verdana, sans-serif;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color:#999999;
+}
+/* Posts
+-----------------------------------------------
+*/
+h2.date-header {
+margin:1.5em 0 .5em;
+}
+.post {
+margin:.5em 0 1.5em;
+border-bottom:1px dotted #000000;
+padding-bottom:1.5em;
+}
+.post h3 {
+margin:.25em 0 0;
+padding:0 0 4px;
+font-size:140%;
+font-weight:normal;
+line-height:1.4em;
+color:#000000;
+}
+.post h3 a, .post h3 a:visited, .post h3 strong {
+display:block;
+text-decoration:none;
+color:#000000;
+font-weight:normal;
+}
+.post h3 strong, .post h3 a:hover {
+color:#333333;
+}
+.post-body {
+margin:0 0 .75em;
+line-height:1.6em;
+}
+.post-body blockquote {
+line-height:1.3em;
+}
+.post-footer {
+margin: .75em 0;
+color:#999999;
+text-transform:uppercase;
+letter-spacing:.1em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+line-height: 1.4em;
+}
+.comment-link {
+margin-left:.6em;
+}
+.post img, table.tr-caption-container {
+padding:4px;
+border:1px solid #000000;
+}
+.tr-caption-container img {
+border: none;
+padding: 0;
+}
+.post blockquote {
+margin:1em 20px;
+}
+.post blockquote p {
+margin:.75em 0;
+}
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+margin:1em 0;
+font-weight: bold;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color: #999999;
+}
+#comments-block {
+margin:1em 0 1.5em;
+line-height:1.6em;
+}
+#comments-block .comment-author {
+margin:.5em 0;
+}
+#comments-block .comment-body {
+margin:.25em 0 0;
+}
+#comments-block .comment-footer {
+margin:-.25em 0 2em;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.1em;
+}
+#comments-block .comment-body p {
+margin:0 0 .75em;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+}
+/* Sidebar Content
+----------------------------------------------- */
+.sidebar {
+color: #32527A;
+line-height: 1.5em;
+}
+.sidebar ul {
+list-style:none;
+margin:0 0 0;
+padding:0 0 0;
+}
+.sidebar li {
+margin:0;
+padding-top:0;
+padding-right:0;
+padding-bottom:.25em;
+padding-left:15px;
+text-indent:-15px;
+line-height:1.5em;
+}
+.sidebar .widget, .main .widget {
+border-bottom:1px dotted #000000;
+margin:0 0 1.5em;
+padding:0 0 1.5em;
+}
+.main .Blog {
+border-bottom-width: 0;
+}
+/* Profile
+----------------------------------------------- */
+.profile-img {
+float: left;
+margin-top: 0;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+padding: 4px;
+border: 1px solid #000000;
+}
+.profile-data {
+margin:0;
+text-transform:uppercase;
+letter-spacing:.1em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+color: #999999;
+font-weight: bold;
+line-height: 1.6em;
+}
+.profile-datablock {
+margin:.5em 0 .5em;
+}
+.profile-textblock {
+margin: 0.5em 0;
+line-height: 1.6em;
+}
+.profile-link {
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+text-transform: uppercase;
+letter-spacing: .1em;
+}
+/* Footer
+----------------------------------------------- */
+#footer {
+width:660px;
+clear:both;
+margin:0 auto;
+padding-top:15px;
+line-height: 1.6em;
+text-transform:uppercase;
+letter-spacing:.1em;
+text-align: center;
+}
+
+--></style>
+<script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
+</script><script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+          if (gapi.iframes && gapi.iframes.getContext) {
+            gapi.iframes.getContext().openChild({
+                url: '//www.blogger.com/navbar.g?targetBlogID\07525151746\46blogName\75My+Music+Tech\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75BLACK\46layoutType\75LAYOUTS\46searchRoot\75http://mymusictech.blogspot.com/search\46blogLocale\75en_US\46v\0752\46homepageUrl\75http://mymusictech.blogspot.com/\46vt\75-2278270753021389424',
+                where: document.getElementById("navbar-iframe-container"),
+                id: "navbar-iframe"
+            });
+          }
+        });
+      </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='outer-wrapper'><div id='wrap2'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<div id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+My Music Tech
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Topics in Music Technology and New Paradigms for Learning Music.</span></p>
+</div>
+</div>
+</div></div>
+</div>
+<div id='content-wrapper'>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol section' id='crosscol'></div>
+</div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!-- google_ad_section_start(name=default) -->
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, January 14, 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template'>
+<a name='7073428006765558094'></a>
+<h3 class='post-title entry-title'>
+<a href='http://mymusictech.blogspot.com/2013/01/the-project-based-music-class-part-1.html'>The Project-Based Middle School Music Class (Part 1)</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<p>Educational Leadership (ASCD) publiched an article called '<a href="http://www.ascd.org/publications/educational_leadership/sept10/vol68/num01/Seven_Essentials_for_Project-Based_Learning.aspx">7 Essentials for Project-Based Learning</a>'. The 7 Essentials, abbreviated, are:<br />
+<br />
+1-A Need to Know<br />
+2-A Driving Question<br />
+3-Student Voice and Student Choice<br />
+4-21st Century Skills<br />
+5-Inquiry and Innovation<br />
+6-Feedback and Revision<br />
+7-A Publicly Presented Product<br />
+<br />
+I am lucky to teach in a music technology lab at our middle school complete with 22 MIDI stations with HP Computers, 17" Flat Screen Monitors and Yamaha PSR keyboards. I teach 3 middle school grade levels-6th,7th and 8th grade.  6th graders learn music fundamentals using Music Ace software with reinforcement via games, quizzes and direct application of musical skills learned.  The 7th and 8th grade classes are entirely project-based classes.<br />
+<br />
+I will focus on the 8th grade curriculum by connecting what students do there to the 7 Essentials above, hopefully providing a useful example of how music classes can become Project-oriented.<br />
+<br />
+I am completely convinced that project-based learning (and service-learning) are 'the way to go' to ensure student connection, motivation and engagement with learning.  I believe when students are 'content creators' and they are given the responsibility (the respect!) to solve problems and questions creatively, they jump at the chance.  Conversely, even the most motivated of students will shut down given a lack of something productive to DO.  Doing is the key.  Humans are born wanting to 'do'.  <br />
+<br />
+I decided a few years ago to jettison the 8th grade curriculum entirely and to start from scratch.  I wanted something relevant and engaging for students to experience in class. We also had the technology on our side.  I started investigating loop-based music composition and realized this is a perfect fit for the 'i-pod' generation.  Since we're PC-based and were limited financially, I chose <a href="http://www.amazon.com/dp/B008MIMI4I/ref=as_li_ss_til?tag=pd01-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;creativeASIN=B008MIMI4I&amp;adid=0S60BRWWSD3SHB626Z48">Sony Acid Music Studio</a> as the software that would drive the 8th grade curriculum.  All students take music every year for 10 weeks.  So, even at a few thousand dollars for a lab-pack the cost per student (cps) was actually quite low the first year (something like $10 per student).  Now that we're in year 3 the actually cps is less than $3 per student.  (These are numbers that speak to administrators and school boards. Whenever possible, present your <span style="font-style: italic;">new</span> programs in terms of cost per student.)<br />
+<br />
+On day one, students are introduced to different loops (.wav recordings of actual instruments).  This piques their curiosity (especially the dance beats and electric guitar loops that sound familiar to them).  From there students ultimately begin by 'playing' with loops- finding them, listening to them and creating tracks for them.  In due time, I teach them about balance, blend, panning, form, verse, chorus, effective endings......<br />
+<br /></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<script charset='utf-8' src='http://feeds.feedburner.com/~s/blogspot/mymusictech?i=http://mymusictech.blogspot.com/2013/01/the-project-based-music-class-part-1.html' type='text/javascript'></script>
+<p class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>ATG</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='http://mymusictech.blogspot.com/2013/01/the-project-based-music-class-part-1.html' rel='bookmark' title='permanent link'><abbr class='published' title='2013-01-14T20:23:00-05:00'>1/14/2013 08:23:00 PM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://www.blogger.com/comment.g?blogID=25151746&amp;postID=7073428006765558094' onclick=''>0
+comments</a>
+</span>
+<span class='post-backlinks post-comment-link'>
+<a class='comment-link' href='http://mymusictech.blogspot.com/2013/01/the-project-based-music-class-part-1.html#links'>Links to this post</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=25151746&postID=7073428006765558094' title='Email Post'>
+<img alt='' class='icon-action' src='http://www.blogger.com/img/icon18_email.gif'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-672281365'>
+<a href='http://www.blogger.com/post-edit.g?blogID=25151746&postID=7073428006765558094&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://mymusictech.blogspot.com/search/label/%23musedchat' rel='tag'>#musedchat</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20education' rel='tag'>music education</a>,
+<a href='http://mymusictech.blogspot.com/search/label/musictech' rel='tag'>musictech</a>,
+<a href='http://mymusictech.blogspot.com/search/label/mymusictech' rel='tag'>mymusictech</a>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-3'></p>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, January 01, 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template'>
+<a name='1713329644627168606'></a>
+<h3 class='post-title entry-title'>
+<a href='http://mymusictech.blogspot.com/2008/11/top-10-reasons-to-use-garageband-or.html'>Top 10 Reasons to use Loop-Based Music Software in Music Class</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<p>Why use loop-based composition software in a music class? <br />
+Here are 10 reasons: <br />
+<ol>
+<li>Students don't need prior knowledge of music fundamentals (though this knowledge certainly helps)</li>
+<li>It is empowering when students are working on "real" music in their own way.</li>
+<li>It is empowering because students can work on projects for "real world" purposes. (ie..creating music for school functions, websites; podcasting)</li>
+<li>It is empowering because students can export their work as Mp3 files and share them on the web or put them on their i-pods where their name comes up as "the artist"</li>
+<li>Music class becomes inextricably linked with technology which means two budgets feed the program.</li>
+<li>All <a href="http://musiced.nafme.org/resources/national-standards-for-music-education/">Music Standards</a> can be taught in some way using loop-based composition</li>
+<li>Students love it.</li>
+<li>The software is fairly inexpensive given the possibilities</li>
+<li>Independent work allows for one-on-one interaction between teacher and student. Perfect for differentiating learning.</li>
+<li>Public Relations: When students talk up their experiences with loop-based composition, they spread the word that something exciting is happening in music at school (beyond the band and choral programs.)</li>
+</ol>
+More about <a href="http://www.apple.com/ilife/garageband/">Garageband</a><br />
+More about <a href="http://mymusictech.blogspot.com/2008/02/what-is-sony-acid.html">Sony Acid</a>. Using Sony Acid to teach <a href="http://mymusictech.blogspot.com/2008/05/using-twinkle-to-introduce-song-form.html">Song Form</a><br />
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:1bcd274b-a2db-4dec-a4df-1e8fd5fc1062" style="display: inline; margin: 0px; padding: 0px;">
+Technorati Tags: <a href="http://technorati.com/tags/sony%20acid" rel="tag">sony acid</a>,<a href="http://technorati.com/tags/garageband" rel="tag">garageband</a>,<a href="http://technorati.com/tags/digital%20music" rel="tag">digital music</a>,<a href="http://technorati.com/tags/music%20technology" rel="tag">music technology</a></div>
+</p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<script charset='utf-8' src='http://feeds.feedburner.com/~s/blogspot/mymusictech?i=http://mymusictech.blogspot.com/2008/11/top-10-reasons-to-use-garageband-or.html' type='text/javascript'></script>
+<p class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>ATG</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='http://mymusictech.blogspot.com/2008/11/top-10-reasons-to-use-garageband-or.html' rel='bookmark' title='permanent link'><abbr class='published' title='2013-01-01T10:33:00-05:00'>1/01/2013 10:33:00 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://www.blogger.com/comment.g?blogID=25151746&amp;postID=1713329644627168606' onclick=''>0
+comments</a>
+</span>
+<span class='post-backlinks post-comment-link'>
+<a class='comment-link' href='http://mymusictech.blogspot.com/2008/11/top-10-reasons-to-use-garageband-or.html#links'>Links to this post</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=25151746&postID=1713329644627168606' title='Email Post'>
+<img alt='' class='icon-action' src='http://www.blogger.com/img/icon18_email.gif'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-672281365'>
+<a href='http://www.blogger.com/post-edit.g?blogID=25151746&postID=1713329644627168606&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://mymusictech.blogspot.com/search/label/digial%20music' rel='tag'>digial music</a>,
+<a href='http://mymusictech.blogspot.com/search/label/digital%20music' rel='tag'>digital music</a>,
+<a href='http://mymusictech.blogspot.com/search/label/free%20mp3%27s' rel='tag'>free mp3&#39;s</a>,
+<a href='http://mymusictech.blogspot.com/search/label/free%20music' rel='tag'>free music</a>,
+<a href='http://mymusictech.blogspot.com/search/label/sony%20acid' rel='tag'>sony acid</a>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-3'></p>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, September 20, 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template'>
+<a name='2832477372530779959'></a>
+<h3 class='post-title entry-title'>
+<a href='http://mymusictech.blogspot.com/2012/09/have-you-seen-or-tried-audiocubes-not.html'>AudioCubes Provide Intriguing Possibilities for Music/Sound Production</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<p><div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-pZD4MJ3mYl4/UFsIVOOBpfI/AAAAAAAABBs/yS1G7YSupiA/s1600/cubes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><span style="background-color: white;"><img border="0" height="120" src="http://4.bp.blogspot.com/-pZD4MJ3mYl4/UFsIVOOBpfI/AAAAAAAABBs/yS1G7YSupiA/s320/cubes.png" width="320" /></span></a></div>
+<span style="background-color: white;"><span style="font-family: arial, sans-serif;">Have you seen or tried AudioCubes? &nbsp;If not, you are in for a treat. I was recently contacted by&nbsp;</span><span style="color: #500050; font-family: arial, sans-serif;">Bert Schiettecatte, founder of Percussa BVBA who asked me to take a look. &nbsp;Though my schedule was busy, I was intrigued by what I saw and heard. &nbsp;As a Music Educator who teaches in a middle school music technology lab, I saw potential for these sound/music making devices immediately. &nbsp;Here are Bert's responses to questions I asked about AudioCubes. &nbsp;I encourage anyone working in music, music education and/or electronic music to check these out.</span></span><br />
+<span style="background-color: white; font-family: arial, sans-serif;"><br /></span>
+<span style="background-color: white;"><b><span style="color: #500050; font-family: arial, sans-serif;">Do &nbsp;you see Audiocubes being used in schools as part of music education programs?</span><span style="color: #500050; font-family: arial, sans-serif;">&nbsp;How so?</span></b>
+</span><br />
+<span style="background-color: white;"><span style="font-family: arial, sans-serif;">BS: <i>Yes, sure. In fact, there are already several schools who are using</i></span><i><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">the&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">,</span><span style="font-family: arial, sans-serif;"> at several levels. In higher education, Full Sail</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">University, the University of New Mexico and Berklee college of music</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">are just some examples of schools who have been using&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">&nbsp;since</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">the beginning. Student artists use&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">&nbsp;for sound design,</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">composition, live performance .... but also for research and teaching</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">/ education.</span><br style="font-family: arial, sans-serif;" /><br style="font-family: arial, sans-serif;" /><b><span style="font-family: arial, sans-serif;">In lower education, and specifically in STEM education, kids as young</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">as 10 years old are using the&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span></b><span style="font-family: arial, sans-serif;">, to experiment with sound and</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">music and learn about technology and science at the same time. Check</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">out&nbsp;</span><a href="http://land.percussa.com/audiocubes-music-education/" style="color: #1155cc; font-family: arial, sans-serif;" target="_blank">http://land.percussa.com/<wbr></wbr><span class="il" style="color: #222222;">audiocubes</span>-music-education/</a></i></span><br />
+<div class="im" style="color: #500050; font-family: arial, sans-serif;">
+<span style="background-color: white;"><br /><b>Why use&nbsp;<span class="il" style="color: #222222;">Audiocubes</span>&nbsp;over another music/sound production app?<br />What is compelling about your product?</b></span></div>
+<span style="background-color: white;"><span class="il" style="color: #222222; font-family: arial, sans-serif;">BS: <i>AudioCubes</i></span><i><span style="font-family: arial, sans-serif;">&nbsp;are unique in that they allow you to directly interact with</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">a piece of data or behaviour directly through a physical object</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">without pointing or clicking. The data or function is already there in</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">your working or living environment, because it is represented by a</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">physical object. This is apparent in these two software applications</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">which I developed the past year, called Improvisor and Evolvor:</span><br style="font-family: arial, sans-serif;" /><a href="http://land.percussa.com/audiocubes-evolvor" style="color: #1155cc; font-family: arial, sans-serif;" target="_blank">http://land.percussa.com/<wbr></wbr><span class="il" style="color: #222222;">audiocubes</span>-evolvor</a><span style="font-family: arial, sans-serif;">&nbsp;and</span><br style="font-family: arial, sans-serif;" /><a href="http://land.percussa.com/audiocubes-improvisor" style="color: #1155cc; font-family: arial, sans-serif;" target="_blank">http://land.percussa.com/<wbr></wbr><span class="il" style="color: #222222;">audiocubes</span>-improvisor</a><br style="font-family: arial, sans-serif;" /><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">For live performers,&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">&nbsp;are great because <b>they make a</b></span><b><br style="font-family: arial, sans-serif;" /></b><span style="font-family: arial, sans-serif;"><b>performance instantly visual, and gestural</b>, and allow for audience</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">interaction. If you bring your live laptop setup and&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">, you</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">don't need to bring a VJ necessarily. If it's a small performance, the</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">audience understands what you do through&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">, and if it's a</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">large performance, you can put a camera on what you're doing with the</span><br style="font-family: arial, sans-serif;" /><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">&nbsp;and you instantly have impressive visuals.</span><br style="font-family: arial, sans-serif;" /><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">For sound designers, <b>you can easily create and shape sounds simply</b></span><b><br style="font-family: arial, sans-serif;" /></b><span style="font-family: arial, sans-serif;"><b>using your hands and fingers</b> and one or two&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">. You can learn</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">more about that at</span><br style="font-family: arial, sans-serif;" /><a href="http://land.percussa.com/create-sounds-using-your-hands-and-audiocubes/" style="color: #1155cc; font-family: arial, sans-serif;" target="_blank">http://land.percussa.com/<wbr></wbr>create-sounds-using-your-<wbr></wbr>hands-and-<span class="il" style="color: #222222;">audiocubes</span>/</a><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">for example. The&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">cubes</span><span style="font-family: arial, sans-serif;">&nbsp;can be easily connected via MIDI to your</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">favourite effects or instruments, hardware or software. Each&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">cube</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">senses distances in 4 directions, so you can easily control up to 8</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">parameters simultaneously, even if you have just 2 hands, using the</span><br style="font-family: arial, sans-serif;" /><span class="il" style="color: #222222; font-family: arial, sans-serif;">cubes</span><span style="font-family: arial, sans-serif;">.</span><br style="font-family: arial, sans-serif;" /><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">For composers, we've created a generative music application, which I</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">already mentioned: Improvisor. The app lets you play back different</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">loops of notes and velocity patterns, and each loop is connected to a</span><br style="font-family: arial, sans-serif;" /><span class="il" style="color: #222222; font-family: arial, sans-serif;">cube</span><span style="font-family: arial, sans-serif;">&nbsp;automatically. Putting&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">cubes</span><span style="font-family: arial, sans-serif;">&nbsp;next to each other will apply</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">transformations to the loops (such as adding loops from 2&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">cubes</span><span style="font-family: arial, sans-serif;">) so</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">you get totally new music. You can then send the notes via MIDI where</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">you want.</span><br style="font-family: arial, sans-serif;" /><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">This is just scratching the surface - there are so many ways to use</span><br style="font-family: arial, sans-serif;" /><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">, and we try to show this each week on our blog at</span><br style="font-family: arial, sans-serif;" /><a href="http://www.percussa.com/blog" style="color: #1155cc; font-family: arial, sans-serif;" target="_blank">http://www.percussa.com/blog</a></i></span><br />
+<div class="im" style="color: #500050; font-family: arial, sans-serif;">
+<span style="background-color: white;"><br /><b>Why would music students like this?</b></span></div>
+<span style="background-color: white;"><span style="font-family: arial, sans-serif;">BS: <i>Because new human computer interfaces allow new ways to interact with</i></span><i><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">computers, software and data, which gives rise to new sound and new</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">kinds of music, and makes the whole process feel less like "work" and</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">more like "play".</span></i></span><br />
+<div class="im" style="color: #500050; font-family: arial, sans-serif;">
+<span style="background-color: white;"><br /><b>What's in line for the future?</b></span></div>
+<span style="background-color: white;"><span style="font-family: arial, sans-serif;">BS: <i>I'm working on more software which lets you use&nbsp;</i></span><i><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">&nbsp;without</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">necessarily having to do MIDI or OSC mapping, and which generates</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">sound by itself. The most recent app I have been working on is a free</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">and open source FM synthesizer for&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">audiocubes</span><span style="font-family: arial, sans-serif;">&nbsp;and Max4Live (the</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">development environment in Ableton Live, using Max/MSP by Cycling74).</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">We're also starting a mailing list which will be a great way for the</span><br style="font-family: arial, sans-serif;" /><span style="font-family: arial, sans-serif;">community to have more regular discussions about&nbsp;</span><span class="il" style="color: #222222; font-family: arial, sans-serif;">AudioCubes</span><span style="font-family: arial, sans-serif;">.</span></i></span><br />
+<div>
+<br />
+<div>
+<span style="background-color: white; font-family: arial, sans-serif;">Very cool stuff! &nbsp;I believe that Bert and Percussa are on to something-especially since the way one interacts with the cubes adds a dimension to the sound creation process. &nbsp;</span></div>
+<div>
+<span style="background-color: white; font-family: arial, sans-serif;"><br /></span></div>
+<div>
+<span style="background-color: white; font-family: arial, sans-serif;">Prediction: &nbsp;In the future, schools will not only have regular Concert and Marching Bands, they will have "iBands" that will include app-driven sound creation devices like AudioCubes, iPads and the like. &nbsp;That's a cool future.</span></div>
+</div>
+<div>
+<span style="background-color: white; font-family: arial, sans-serif;"><br /></span></div>
+<div>
+<span style="background-color: white; font-family: arial, sans-serif;"><br /></span></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/4NDt5WjxBH8" width="560"></iframe></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<script charset='utf-8' src='http://feeds.feedburner.com/~s/blogspot/mymusictech?i=http://mymusictech.blogspot.com/2012/09/have-you-seen-or-tried-audiocubes-not.html' type='text/javascript'></script>
+<p class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>ATG</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='http://mymusictech.blogspot.com/2012/09/have-you-seen-or-tried-audiocubes-not.html' rel='bookmark' title='permanent link'><abbr class='published' title='2012-09-20T07:25:00-05:00'>9/20/2012 07:25:00 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://www.blogger.com/comment.g?blogID=25151746&amp;postID=2832477372530779959' onclick=''>0
+comments</a>
+</span>
+<span class='post-backlinks post-comment-link'>
+<a class='comment-link' href='http://mymusictech.blogspot.com/2012/09/have-you-seen-or-tried-audiocubes-not.html#links'>Links to this post</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=25151746&postID=2832477372530779959' title='Email Post'>
+<img alt='' class='icon-action' src='http://www.blogger.com/img/icon18_email.gif'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-672281365'>
+<a href='http://www.blogger.com/post-edit.g?blogID=25151746&postID=2832477372530779959&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://mymusictech.blogspot.com/search/label/bert%20schiettecatte' rel='tag'>bert schiettecatte</a>,
+<a href='http://mymusictech.blogspot.com/search/label/digital%20music' rel='tag'>digital music</a>,
+<a href='http://mymusictech.blogspot.com/search/label/education%202.0' rel='tag'>education 2.0</a>,
+<a href='http://mymusictech.blogspot.com/search/label/i-pad' rel='tag'>i-pad</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20technology' rel='tag'>music technology</a>,
+<a href='http://mymusictech.blogspot.com/search/label/my%20music%20tech' rel='tag'>my music tech</a>,
+<a href='http://mymusictech.blogspot.com/search/label/percussa' rel='tag'>percussa</a>,
+<a href='http://mymusictech.blogspot.com/search/label/sound%20design' rel='tag'>sound design</a>,
+<a href='http://mymusictech.blogspot.com/search/label/STEM' rel='tag'>STEM</a>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-3'></p>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, June 03, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template'>
+<a name='8057881825437326411'></a>
+<h3 class='post-title entry-title'>
+<a href='http://mymusictech.blogspot.com/2011/06/21st-century-music-program.html'>The 21st Century Music Program</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_-yRrzIgj3k4/S_Q2E-TCHTI/AAAAAAAAAjk/Wr5474s3Yn0/s1600/Presentation2.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 400px; height: 300px;" src="http://4.bp.blogspot.com/_-yRrzIgj3k4/S_Q2E-TCHTI/AAAAAAAAAjk/Wr5474s3Yn0/s400/Presentation2.jpg" alt="" id="BLOGGER_PHOTO_ID_5473058906232200498" border="0" /></a><br /><span style="font-size:100%;"><span style="font-family:verdana;">I've written about it already: </span></span><span style=";font-family:verdana;font-size:100%;"  ><a href="http://educationalparadigms.blogspot.com/2009/03/music-education-must-shift-part-2.html">Music Education must shift</a></span><span style="font-size:100%;"><span style="font-family:verdana;"> (as most of what we do in Education must shift now).  But I haven't given a prescription for the shift.  I'll focus on music education first since it's where I've spent most of my career. </span>  <span style="font-family:verdana;"><br /><br />Once upon a time, as the world was changing and going digital, music was right out front as one of the game changers.  Since people love music, they wanted music.  As digital formats and broadband increased so did the possibility that music could be made available for next to free.  A huge demand ensued.  Enterprising individuals with some coding know-how made it possible for people to find music online.  That's the beginning of the story and how P2P networking changed the world. The rest is known to us.  Napster and other websites that allowed free sharing of music and other copyrighted material were targeted by the RIAA and the copyright wars began.</span>  <span style="font-family:verdana;"><br /><br />Now, new modes of distribution and consumption are in place, money is paid to the artists and the world is changed. Of course, the illegal stuff still happens and will continue to-until we radically redfine and de-criminalize file sharing. But it was larely a demand for MUSIC that inspired the whole digital-everything movement. And As Chris Anderson will tell you, once things are digitized, distribution costs are almost nill for a gizzillion copies of the same file (mp3, mp4, .mov, .avi etc..).</span>  <span style="font-family:verdana;"><br /><br />So where does secondary Music Education fit into this?  Prominently, I think. Center Stage, if you will.  Teens and music go hand in hand.  They "do" music all the time.  In these times, students are downloading, manipulating, re-mixing and listening to music daily.  What happens when they come to music "class". What is happening in "General" Music Classrooms today?  Do students ever hear "their" music? In a 21st Century Music </span></span><span style="font-size:100%;"><span style="font-family:verdana;">Program</span></span><span style="font-size:100%;"><span style="font-family:verdana;">, they should. Do they use technology, loop-based composition software to make their OWN music? In a 21st Century Music Program, they should. Do they get to create and remix music the way they do in the real world? Do they get to download and keep their music as Mp3 files? In a 21st Century Music </span></span><span style="font-size:100%;"><span style="font-family:verdana;">Program</span></span><span style="font-size:100%;"><span style="font-family:verdana;">, they should. Is You Tube ever used in music class? i-Tunes? In a 21st Century Music Program, they should be.</span>  <span style="font-family:verdana;"><br /><br />It's an important shift because in a 21st century Music Program, there is potential for many more students to be part of the program--shifting it from the old Band/Chorus paradigm and justifying it solidly to School Boards.  When you turn all students into Artists, it's difficult to cut a program.  That's possible in a 21st Century Music Program.</span></span></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<script charset='utf-8' src='http://feeds.feedburner.com/~s/blogspot/mymusictech?i=http://mymusictech.blogspot.com/2011/06/21st-century-music-program.html' type='text/javascript'></script>
+<p class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>ATG</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='http://mymusictech.blogspot.com/2011/06/21st-century-music-program.html' rel='bookmark' title='permanent link'><abbr class='published' title='2011-06-03T08:41:00-05:00'>6/03/2011 08:41:00 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://www.blogger.com/comment.g?blogID=25151746&amp;postID=8057881825437326411' onclick=''>7
+comments</a>
+</span>
+<span class='post-backlinks post-comment-link'>
+<a class='comment-link' href='http://mymusictech.blogspot.com/2011/06/21st-century-music-program.html#links'>Links to this post</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=25151746&postID=8057881825437326411' title='Email Post'>
+<img alt='' class='icon-action' src='http://www.blogger.com/img/icon18_email.gif'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-672281365'>
+<a href='http://www.blogger.com/post-edit.g?blogID=25151746&postID=8057881825437326411&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://mymusictech.blogspot.com/search/label/%23mpln' rel='tag'>#mpln</a>,
+<a href='http://mymusictech.blogspot.com/search/label/education' rel='tag'>education</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20education' rel='tag'>music education</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20learning' rel='tag'>music learning</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20teaching' rel='tag'>music teaching</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20technology' rel='tag'>music technology</a>,
+<a href='http://mymusictech.blogspot.com/search/label/musictech' rel='tag'>musictech</a>,
+<a href='http://mymusictech.blogspot.com/search/label/my%20music%20tech' rel='tag'>my music tech</a>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-3'></p>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template'>
+<a name='3968333529361987959'></a>
+<h3 class='post-title entry-title'>
+<a href='http://mymusictech.blogspot.com/2010/07/music-education-must-shift.html'>Music Education Must Shift</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<p><span style="font-family:verdana;">In the last post, I suggested a <a href="http://educationalparadigms.blogspot.com/2010/05/ive-written-about-it-already-music.html">new paradigm</a> for music education in schools. This paradigm would become less-band/orchestra centric and would have as its base teaching non-band/orchestra/chorus students the tools for music creation, mixing and distribution. Traditional performing ensembles should always have a place in school music programs. Instrumental and Choral Programs are often the public face of music programs. They provide good PR but I think it's also time to embrace a much wider conception of what performing ensembles could be in addition to changing the nature and focus of the "General" Music Program.</span>  <span style="font-family:verdana;"><br /></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_-yRrzIgj3k4/S_aXXODbqVI/AAAAAAAAAjs/RA9RhDJxCDE/s1600/PopulationShift-MusicEd.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 400px; height: 300px;" src="http://4.bp.blogspot.com/_-yRrzIgj3k4/S_aXXODbqVI/AAAAAAAAAjs/RA9RhDJxCDE/s400/PopulationShift-MusicEd.jpg" alt="" id="BLOGGER_PHOTO_ID_5473728822280694098" border="0" /></a><br /><span style="font-family:verdana;">Increasingly, students are coming to us with skills on (electric) guitar, keyboards and other instruments (mandolin has become popular recently because of it's use by some mainstream pop artists</span><span style="font-family:verdana;">). Students who don't play instruments are coming to us with much greater exposure to music specifically because of pop culture influences (Rock Band, Guitar Hero, Glee, video games, etc..).  A 6th Grade student recently asked if we could play the theme to Halo, a science-fiction video game.  Why not?  It's perfectly <a href="http://www.youtube.com/watch?v=HVGQIkYN2uI&amp;feature=related">decent music</a>.  If we don't do it at school, students are busy <a href="http://www.youtube.com/watch?v=ee6jvwinyRY&amp;feature=related">learning it anyway</a> , despite the school music program!  This is NOT a position we in Music Education want to be in. Imagine students dropping music classes be</span><span style="font-family:verdana;">cause they don't do music there (or at least music they know).  Unfortunately this happens every day in music programs everywhere. I know a student who won the local 'American Idol' contest but dropped Ch</span><span style="font-family:verdana;">orus at school. She didn't see the relevance. There are, of course <a href="http://www.youtube.com/watch?v=Ws1D_2IfezI&amp;feature=related">Music Directors who get it</a>, the one's who understand that <a href="http://educationalparadigms.blogspot.com/2009/06/its-about-connection.html">connection</a> is more important than coverage.</span>  <span style="font-family:verdana;">So, to further expand the paradigm shift I am suggesting, here's what I think <span style="font-weight: bold;">*secondary</span> <span style="font-weight: bold;">music programs</span> should include now:</span>  <ul><li><span style="font-family:verdana;">A Music techno</span><span style="font-family:verdana;">logy Classes (formerly called General Music) where students create, remix and share music (and, yeah, learn the basics, too)&lt;---<span style="font-style: italic;">largest population of students.  I suggest t</span></span><span style="font-family:verdana;"><span style="font-style: italic;">his for 100% of the school population if possible.</span><br /></span></li></ul><ul><li><span style="font-family:verdana;">Guitar "Clubs"&lt;---<span style="font-style: italic;">if don't play guitar, have your students teach you. They would love to teach you how to shred a solo.</span><br /></span></li></ul><ul><li><span style="font-family:verdana;">Jazz/Rock-Pop Ensembles (any combination of instruments/voices)<br /></span></li></ul><ul><li><span style="font-family:verdana;">(World) Percussion Ens</span><span style="font-family:verdana;">embles (mallet instruments as well as djembes, bongos, congas)</span></li></ul><ul><li><span style="font-family:verdana;">Traditional Music Ensembles (Band/Chorus/Orchestras)<br /></span></li></ul> <div style="text-align: right;"><span style="font-size:85%;"><span style="font-family:verdana;">*Note that I am addressing secondary music programs, specifically.  Elementary programs should, as most do, continue to incorporate movement, singing, Orff instrument playing, rhythm games and general "experimentation" with music.    </span></span> </div><span style="font-size:85%;"> </span></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<script charset='utf-8' src='http://feeds.feedburner.com/~s/blogspot/mymusictech?i=http://mymusictech.blogspot.com/2010/07/music-education-must-shift.html' type='text/javascript'></script>
+<p class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>ATG</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='http://mymusictech.blogspot.com/2010/07/music-education-must-shift.html' rel='bookmark' title='permanent link'><abbr class='published' title='2011-06-03T08:19:00-05:00'>6/03/2011 08:19:00 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://www.blogger.com/comment.g?blogID=25151746&amp;postID=3968333529361987959' onclick=''>4
+comments</a>
+</span>
+<span class='post-backlinks post-comment-link'>
+<a class='comment-link' href='http://mymusictech.blogspot.com/2010/07/music-education-must-shift.html#links'>Links to this post</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=25151746&postID=3968333529361987959' title='Email Post'>
+<img alt='' class='icon-action' src='http://www.blogger.com/img/icon18_email.gif'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-672281365'>
+<a href='http://www.blogger.com/post-edit.g?blogID=25151746&postID=3968333529361987959&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://mymusictech.blogspot.com/search/label/21st%20century%20learning' rel='tag'>21st century learning</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music' rel='tag'>music</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%202.0' rel='tag'>music 2.0</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20curriculum' rel='tag'>music curriculum</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20education' rel='tag'>music education</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20learning' rel='tag'>music learning</a>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-3'></p>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, October 12, 2010</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template'>
+<a name='6088653669317557835'></a>
+<h3 class='post-title entry-title'>
+<a href='http://mymusictech.blogspot.com/2010/10/looking-for-blues-resources.html'>Looking for Blues Resources?</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_-yRrzIgj3k4/TLRQLm2IPhI/AAAAAAAAAmc/UsVz2NRBHjI/s1600/blues.jpg"><img style="float: left; margin: 0pt 10px 10px 0pt; cursor: pointer; width: 206px; height: 320px;" src="http://1.bp.blogspot.com/_-yRrzIgj3k4/TLRQLm2IPhI/AAAAAAAAAmc/UsVz2NRBHjI/s320/blues.jpg" alt="" id="BLOGGER_PHOTO_ID_5527130803026804242" border="0" /></a><br />7th grade students and I research the Blues each year.  You Tube is part of that research.  Many good resources (primary source material!) can be found there.  This year we decided to make a list of You Tube users who have significant (and quality) blues resources in their playlists.<br />We imagine this list could serve as a short-cut for many teachers/students looking for more information about the Blues.  Enjoy.<br /><br />Here is a list 10 of those users.<br /><ul><li>jemf999</li><li>leoncalquin</li><li>swinginglance</li><li>tcblues</li><li>paracite187</li><li>truerhymer</li><li>ashleyspencermusic</li><li>000nuetron000</li><li>osir1s</li><li>xakyxak</li></ul><div style="text-align: right;"><a href="http://www.chicagobluesbar.com/"><span style="font-style: italic;font-family:arial;" >photo credit</span></a><br /></div></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<script charset='utf-8' src='http://feeds.feedburner.com/~s/blogspot/mymusictech?i=http://mymusictech.blogspot.com/2010/10/looking-for-blues-resources.html' type='text/javascript'></script>
+<p class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>ATG</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='http://mymusictech.blogspot.com/2010/10/looking-for-blues-resources.html' rel='bookmark' title='permanent link'><abbr class='published' title='2010-10-12T06:54:00-05:00'>10/12/2010 06:54:00 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://www.blogger.com/comment.g?blogID=25151746&amp;postID=6088653669317557835' onclick=''>0
+comments</a>
+</span>
+<span class='post-backlinks post-comment-link'>
+<a class='comment-link' href='http://mymusictech.blogspot.com/2010/10/looking-for-blues-resources.html#links'>Links to this post</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=25151746&postID=6088653669317557835' title='Email Post'>
+<img alt='' class='icon-action' src='http://www.blogger.com/img/icon18_email.gif'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-672281365'>
+<a href='http://www.blogger.com/post-edit.g?blogID=25151746&postID=6088653669317557835&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://mymusictech.blogspot.com/search/label/%23edchat' rel='tag'>#edchat</a>,
+<a href='http://mymusictech.blogspot.com/search/label/%23mpln' rel='tag'>#mpln</a>,
+<a href='http://mymusictech.blogspot.com/search/label/21st%20century%20learning' rel='tag'>21st century learning</a>,
+<a href='http://mymusictech.blogspot.com/search/label/blues' rel='tag'>blues</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music' rel='tag'>music</a>,
+<a href='http://mymusictech.blogspot.com/search/label/my%20music%20tech' rel='tag'>my music tech</a>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-3'></p>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, July 19, 2010</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template'>
+<a name='3707330437494704476'></a>
+<h3 class='post-title entry-title'>
+<a href='http://mymusictech.blogspot.com/2010/07/music-education-professional-learning.html'>Music Education Professional Learning Network Launches</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<p><object height="40" width="250"> <param name="movie" value="http://listen.grooveshark.com/songWidget.swf"> <param name="wmode" value="window"> <param name="allowScriptAccess" value="always"> <param name="flashvars" value="hostname=cowbell.grooveshark.com&amp;widgetID=21886151&amp;style=metal&amp;p=0"> <embed src="http://listen.grooveshark.com/songWidget.swf" type="application/x-shockwave-flash" flashvars="hostname=cowbell.grooveshark.com&amp;widgetID=21886151&amp;style=metal&amp;p=0" allowscriptaccess="always" wmode="window" height="40" width="250"></embed> </object><span style=";font-family:verdana;font-size:100%;"  ><br /><br />Watch Out, Here We Come! The Music Education Professional Learning Network <a href="http://musicpln.org/pln-posts/landing/">launches</a> today, July 19th, 2010.  </span><span style="font-family:verdana;">The site is a "freely available public site specifically designed for Music Teachers, Educators interested in Music topics, and pre-service Music Teachers."<br /><br />Users must register for an account, otherwise the site is free. The MPLN contains Forums, Groups and News/Info. links about aspects of Music Education. Pre-launch, the site had 68 members who Beta-tested the network. These members are among the top music education professionals with an online presence (music ed. teachers, </span><span style="font-family:verdana;">conductors, clinicians, presenters, </span><span style="font-family:verdana;"></span><span style="font-family:verdana;">bloggers, </span><span style="font-family:verdana;"></span><span style="font-family:verdana;"> etc..). One of the greatest attributes of the site is that is it is social media rich meaning that there are multiple ways to share information outside the network on different platforms such as Twitter, Facebook, Yahoo and MySpace. I believe this attribute will insure the site's success. Interestingly, it is also possible to connect IN to the network. For example, by using the hastag #mpln on Twitter, the update will post inside the MPLN network. Nifty!<br /><br />The launch comes at a time when social networks are becoming increasingly accepted as valid places, forums for learning.  There have been a few attempts at creating social networks for music educators but none have achieved a wide membership/following.  MENC has had a Mentoring Forum for years (of which I was once a Mentor) but it never quite evolved from the limited 'thread'.<br /><br />I am convinced that the time is ripe for the <span style="font-style: italic;">Music Education Professional Learning Network</span>. I believe that it will be widely used by Music Education Professionals to connect, discuss, debate, elucidate, elaborate, learn, grow and educate.  Is the world ready for Music Education to finally, finally be transformed?<br /><iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=pd01-20&amp;o=1&amp;p=8&amp;l=as1&amp;m=amazon&amp;f=ifr&amp;md=10FE9736YVPPT7A0FBG2&amp;asins=0253215609" style="width: 120px; height: 240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe><br /><br /></span></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<script charset='utf-8' src='http://feeds.feedburner.com/~s/blogspot/mymusictech?i=http://mymusictech.blogspot.com/2010/07/music-education-professional-learning.html' type='text/javascript'></script>
+<p class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>ATG</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='http://mymusictech.blogspot.com/2010/07/music-education-professional-learning.html' rel='bookmark' title='permanent link'><abbr class='published' title='2010-07-19T09:54:00-05:00'>7/19/2010 09:54:00 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://www.blogger.com/comment.g?blogID=25151746&amp;postID=3707330437494704476' onclick=''>1 comments</a>
+</span>
+<span class='post-backlinks post-comment-link'>
+<a class='comment-link' href='http://mymusictech.blogspot.com/2010/07/music-education-professional-learning.html#links'>Links to this post</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=25151746&postID=3707330437494704476' title='Email Post'>
+<img alt='' class='icon-action' src='http://www.blogger.com/img/icon18_email.gif'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-672281365'>
+<a href='http://www.blogger.com/post-edit.g?blogID=25151746&postID=3707330437494704476&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://mymusictech.blogspot.com/search/label/%23edchat' rel='tag'>#edchat</a>,
+<a href='http://mymusictech.blogspot.com/search/label/%23mpln' rel='tag'>#mpln</a>,
+<a href='http://mymusictech.blogspot.com/search/label/%23musedchat' rel='tag'>#musedchat</a>,
+<a href='http://mymusictech.blogspot.com/search/label/%23musiced' rel='tag'>#musiced</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20education' rel='tag'>music education</a>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-3'></p>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, May 18, 2010</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template'>
+<a name='4485291649865007826'></a>
+<h3 class='post-title entry-title'>
+<a href='http://mymusictech.blogspot.com/2010/05/musical-instruments-for-future.html'>Musical Instruments for the Future</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<p><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/Mi9ZikB_BUA&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Mi9ZikB_BUA&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<script charset='utf-8' src='http://feeds.feedburner.com/~s/blogspot/mymusictech?i=http://mymusictech.blogspot.com/2010/05/musical-instruments-for-future.html' type='text/javascript'></script>
+<p class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>ATG</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='http://mymusictech.blogspot.com/2010/05/musical-instruments-for-future.html' rel='bookmark' title='permanent link'><abbr class='published' title='2010-05-18T09:34:00-05:00'>5/18/2010 09:34:00 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://www.blogger.com/comment.g?blogID=25151746&amp;postID=4485291649865007826' onclick=''>0
+comments</a>
+</span>
+<span class='post-backlinks post-comment-link'>
+<a class='comment-link' href='http://mymusictech.blogspot.com/2010/05/musical-instruments-for-future.html#links'>Links to this post</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=25151746&postID=4485291649865007826' title='Email Post'>
+<img alt='' class='icon-action' src='http://www.blogger.com/img/icon18_email.gif'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-672281365'>
+<a href='http://www.blogger.com/post-edit.g?blogID=25151746&postID=4485291649865007826&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://mymusictech.blogspot.com/search/label/digial%20music' rel='tag'>digial music</a>,
+<a href='http://mymusictech.blogspot.com/search/label/future' rel='tag'>future</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%202.0' rel='tag'>music 2.0</a>,
+<a href='http://mymusictech.blogspot.com/search/label/music%20education' rel='tag'>music education</a>,
+<a href='http://mymusictech.blogspot.com/search/label/mymusictech' rel='tag'>mymusictech</a>
+</span>
+</p>
+<p class='post-footer-line post-footer-line-3'></p>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+<!-- google_ad_section_end -->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://mymusictech.blogspot.com/search?updated-max=2010-05-18T09:34:00-05:00' id='Blog1_blog-pager-older-link' title='Older Posts'>Older Posts</a>
+</span>
+<a class='home-link' href='http://mymusictech.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://mymusictech.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en_US'};</script>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget Image' id='Image1'>
+<div class='widget-content'>
+<a href='http://twitter.com/berkshirecat'>
+<img alt='' height='55' id='Image1_img' src='http://4.bp.blogspot.com/_-yRrzIgj3k4/TLSC7aEs7SI/AAAAAAAAAmk/3V7tWPWkShM/S187/twitteranime2.gif' width='155'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=25151746&widgetType=Image&widgetId=Image1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image1"));' target='configImage1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget LinkList' id='LinkList2'>
+<h2>MY MUSIC TECH</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='https://twitter.com/#!/berkshirecat'>Author Bio/Contact Information</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=25151746&widgetType=LinkList&widgetId=LinkList2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList2"));' target='configLinkList2' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList3'>
+<h2>Student Work</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://nrmsmusictech7.blogspot.com/'>7th Grade Music Styles Google Docs Presentations</a></li>
+<li><a href='http://yokohama-nessacus-music.blogspot.com/'>Nessacus-Yokohama Global Music Composition Exchange</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=25151746&widgetType=LinkList&widgetId=LinkList3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList3"));' target='configLinkList3' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList1'>
+<h2>Blog Links</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://musicedforall.com/'>Music Ed. for All</a></li>
+<li><a href='http://educationalparadigms.blogspot.com/'>Educational Paradigms</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=25151746&widgetType=LinkList&widgetId=LinkList1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList1"));' target='configLinkList1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' id='HTML1'>
+<div class='widget-content'>
+<iframe scrolling="no" style="width:120px;height:240px;" frameborder="0" src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=musicmind-20&o=1&p=8&l=as1&m=amazon&f=ifr&md=10FE9736YVPPT7A0FBG2&asins=B00154JDAI" marginheight="0" marginwidth="0"></iframe>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=25151746&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+<div id='footer-wrapper'>
+<div class='footer section' id='footer'></div>
+</div>
+</div></div>
+<!-- end outer-wrapper -->
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/645744161-widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '25151746';BLOG_attachCsiOnload(''); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d25151746','//mymusictech.blogspot.com/','25151746');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '25151746', 'bloggerUrl': 'http://www.blogger.com', 'title': 'My Music Tech', 'pageType': 'index', 'url': 'http://mymusictech.blogspot.com/', 'canonicalUrl': 'http://mymusictech.blogspot.com/', 'canonicalHomepageUrl': 'http://mymusictech.blogspot.com/', 'homepageUrl': 'http://mymusictech.blogspot.com/', 'blogspotFaviconUrl': 'http://mymusictech.blogspot.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': '', 'pageTitle': 'My Music Tech', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42My Music Tech - Atom\42 href\75\42http://mymusictech.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42My Music Tech - RSS\42 href\75\42http://mymusictech.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42My Music Tech - Atom\42 href\75\42http://www.blogger.com/feeds/25151746/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '\74link rel\75\42openid.server\42 href\75\42http://www.blogger.com/openid-server.g\42 /\76\n\74link rel\75\42openid.delegate\42 href\75\42http://mymusictech.blogspot.com/\42 /\76\n', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42jstiming\42,k\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[k](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[g].srt\75h-c)}if(a){var e\75b[g].load;0\74c\46\46h\76\75c\46\46(e[k](\42_wtsrt\42,void 0,c),e[k](\42wtsrt_\42,\42_wtsrt\42,h),e[k](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[k](\42_tbnd\42,void 0,b[f].csi().startE),e[k](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[k](\42_tbnd\42,void 0,b.external.startE),e[k](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[g].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[g].load[k](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[g].load[k](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/d6f37bb30c327165', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'testHtml5CssSrc': 'https://www.blogger.com/static/v1/widgets/2412321170-css_bundle_html5.css', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'sidebartextcolor': '#32527A', 'linkcolor': '#5588aa', 'visitedlinkcolor': '#cc0000', 'textcolor': '#333333', 'headerfont': 'normal normal 86% Verdana, sans-serif', 'pagetitlefont': 'normal normal 466% Verdana, sans-serif', 'bgcolor': '#ffffff', 'descriptioncolor': '#32527A', 'titlecolor': '#000000', 'bordercolor': '#000000', 'postfooterfont': 'normal normal 78% \47Trebuchet MS\47, Trebuchet, Arial, Verdana, Sans-serif', 'pagetitlecolor': '#000000', 'bodyfont': 'normal normal 121% Verdana, sans-serif', 'endSide': 'right', 'startSide': 'left', 'descriptionfont': 'normal normal 105% \47Trebuchet MS\47, Trebuchet, Arial, Verdana, Sans-serif', 'sidebarcolor': '#999999'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar', null, document.getElementById('Image1'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList2', 'sidebar', null, document.getElementById('LinkList2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList3', 'sidebar', null, document.getElementById('LinkList3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1890062674-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/4138445517-lightbox_bundle.css'}, 'displayModeFull'));
+</script>
+</body>
+</html>
